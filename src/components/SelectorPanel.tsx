@@ -12,16 +12,14 @@ export function SelectorPanel({ onSearch, loading }: Props) {
   const { expansions, loading: loadingEnc, error: encError } = useEncounters();
   const { jobs, loading: loadingJobs, error: jobsError } = useJobs();
 
-  const [expansionId, setExpansionId] = useState<number | "">("");
   const [zoneId, setZoneId] = useState<number | "">("");
   const [encounterId, setEncounterId] = useState<number | "">("");
   const [specName, setSpecName] = useState("");
 
+  // Flatten all zones from all expansions
   const zones: Zone[] = useMemo(() => {
-    if (expansionId === "") return [];
-    const exp = expansions.find((e) => e.id === expansionId);
-    return exp?.zones ?? [];
-  }, [expansions, expansionId]);
+    return expansions.flatMap((exp) => exp.zones);
+  }, [expansions]);
 
   const encounters: Encounter[] = useMemo(() => {
     if (zoneId === "") return [];
@@ -51,7 +49,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
 
   const dataError = encError || jobsError;
   const isDataLoading = loadingEnc || loadingJobs;
-  const hasData = expansions.length > 0;
+  const hasData = zones.length > 0;
 
   return (
     <div className="selector-panel">
@@ -63,24 +61,6 @@ export function SelectorPanel({ onSearch, loading }: Props) {
       {isDataLoading && <div className="selector-loading">Loading game data...</div>}
       <div className="selector-row">
         <label>
-          Expansion
-          <select
-            value={expansionId}
-            onChange={(e) => {
-              setExpansionId(Number(e.target.value) || "");
-              setZoneId("");
-              setEncounterId("");
-            }}
-            disabled={!hasData}
-          >
-            <option value="">-- Select --</option>
-            {expansions.map((exp) => (
-              <option key={exp.id} value={exp.id}>{exp.name}</option>
-            ))}
-          </select>
-        </label>
-
-        <label>
           Zone
           <select
             value={zoneId}
@@ -88,7 +68,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
               setZoneId(Number(e.target.value) || "");
               setEncounterId("");
             }}
-            disabled={zones.length === 0}
+            disabled={!hasData}
           >
             <option value="">-- Select --</option>
             {zones.map((z) => (
