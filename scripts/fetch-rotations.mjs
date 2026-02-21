@@ -30,7 +30,7 @@ const FILTERED_ABILITY_IDS = new Set([7, 8, 3]); // Attack, Shot, Sprint
 // AAC Heavyweight (Savage) encounter IDs
 const AAC_HEAVYWEIGHT_IDS = [101, 102, 103, 104, 105];
 // Futures Rewritten (Ultimate) encounter ID
-const FRW_ID = 1082;
+const FRW_ID = 1079;
 // Encounter schedule
 const ODD_DAY_ENCOUNTERS = [101, 102, 103];          // Boss 1-3
 const EVEN_DAY_ENCOUNTERS = [104, 105, FRW_ID];      // Boss 4-5 + FRW
