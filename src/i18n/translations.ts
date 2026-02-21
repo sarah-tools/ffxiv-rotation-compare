@@ -71,7 +71,7 @@ export const translations: Record<string, Record<Locale, string>> = {
 
   // Zone names
   "zone.AAC Heavyweight": { en: "AAC Heavyweight", ja: "アルカディア零式：ヘヴィウェイト級" },
-  "zone.Futures Rewritten": { en: "Futures Rewritten", ja: "未来異聞 アレクサンドリア" },
+  "zone.Futures Rewritten": { en: "Futures Rewritten", ja: "絶もうひとつの未来" },
 
   // Encounter (boss) names
   "enc.Vamp Fatale": { en: "Vamp Fatale", ja: "ヴァンプファタル" },
@@ -79,7 +79,7 @@ export const translations: Record<string, Record<Locale, string>> = {
   "enc.The Tyrant": { en: "The Tyrant", ja: "タイラント" },
   "enc.Lindwurm": { en: "Lindwurm", ja: "リンドヴルム" },
   "enc.Lindwurm II": { en: "Lindwurm II", ja: "リンドヴルムII" },
-  "enc.Futures Rewritten": { en: "Futures Rewritten", ja: "未来異聞 アレクサンドリア" },
+  "enc.Futures Rewritten": { en: "Futures Rewritten", ja: "絶もうひとつの未来" },
 
   // Job names
   "job.Paladin": { en: "Paladin", ja: "ナイト" },
