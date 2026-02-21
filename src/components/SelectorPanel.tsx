@@ -74,7 +74,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
           >
             <option value="">{t("selector.select")}</option>
             {zones.map((z) => (
-              <option key={z.id} value={z.id}>{z.name}</option>
+              <option key={z.id} value={z.id}>{t("zone." + z.name)}</option>
             ))}
           </select>
         </label>
@@ -88,7 +88,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
           >
             <option value="">{t("selector.select")}</option>
             {encounters.map((enc) => (
-              <option key={enc.id} value={enc.id}>{enc.name}</option>
+              <option key={enc.id} value={enc.id}>{t("enc." + enc.name)}</option>
             ))}
           </select>
         </label>
@@ -101,7 +101,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
           >
             <option value="">{t("selector.select")}</option>
             {jobs.map((job) => (
-              <option key={job} value={job}>{job}</option>
+              <option key={job} value={job}>{t("job." + job)}</option>
             ))}
           </select>
         </label>

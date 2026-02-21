@@ -68,4 +68,39 @@ export const translations: Record<string, Record<Locale, string>> = {
     en: "Data not available for this encounter/job. Data may not have been generated yet.",
     ja: "このボス・ジョブのデータはまだ生成されていません。",
   },
+
+  // Zone names
+  "zone.AAC Heavyweight": { en: "AAC Heavyweight", ja: "アルカディア零式：ヘヴィウェイト級" },
+  "zone.Futures Rewritten": { en: "Futures Rewritten", ja: "未来異聞 アレクサンドリア" },
+
+  // Encounter (boss) names
+  "enc.Vamp Fatale": { en: "Vamp Fatale", ja: "ヴァンプファタル" },
+  "enc.Red Hot and Deep Blue": { en: "Red Hot and Deep Blue", ja: "レッドホット&ディープブルー" },
+  "enc.The Tyrant": { en: "The Tyrant", ja: "タイラント" },
+  "enc.Lindwurm": { en: "Lindwurm", ja: "リンドヴルム" },
+  "enc.Lindwurm II": { en: "Lindwurm II", ja: "リンドヴルムII" },
+  "enc.Futures Rewritten": { en: "Futures Rewritten", ja: "未来異聞 アレクサンドリア" },
+
+  // Job names
+  "job.Paladin": { en: "Paladin", ja: "ナイト" },
+  "job.Warrior": { en: "Warrior", ja: "戦士" },
+  "job.DarkKnight": { en: "Dark Knight", ja: "暗黒騎士" },
+  "job.Gunbreaker": { en: "Gunbreaker", ja: "ガンブレイカー" },
+  "job.WhiteMage": { en: "White Mage", ja: "白魔道士" },
+  "job.Scholar": { en: "Scholar", ja: "学者" },
+  "job.Astrologian": { en: "Astrologian", ja: "占星術師" },
+  "job.Sage": { en: "Sage", ja: "賢者" },
+  "job.Monk": { en: "Monk", ja: "モンク" },
+  "job.Dragoon": { en: "Dragoon", ja: "竜騎士" },
+  "job.Ninja": { en: "Ninja", ja: "忍者" },
+  "job.Samurai": { en: "Samurai", ja: "侍" },
+  "job.Reaper": { en: "Reaper", ja: "リーパー" },
+  "job.Viper": { en: "Viper", ja: "ヴァイパー" },
+  "job.Bard": { en: "Bard", ja: "吟遊詩人" },
+  "job.Machinist": { en: "Machinist", ja: "機工士" },
+  "job.Dancer": { en: "Dancer", ja: "踊り子" },
+  "job.BlackMage": { en: "Black Mage", ja: "黒魔道士" },
+  "job.Summoner": { en: "Summoner", ja: "召喚士" },
+  "job.RedMage": { en: "Red Mage", ja: "赤魔道士" },
+  "job.Pictomancer": { en: "Pictomancer", ja: "ピクトマンサー" },
 };

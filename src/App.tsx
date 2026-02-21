@@ -84,7 +84,7 @@ export default function App() {
       {timelines.length > 0 && (
         <div className="rankings-section">
           <div className="rankings-header">
-            <h2>{encounterName} - {timelines[0]?.job} {t("rankings.top")} {timelines.length}</h2>
+            <h2>{t("enc." + encounterName)} - {t("job." + timelines[0]?.job)} {t("rankings.top")} {timelines.length}</h2>
           </div>
           <div className="rankings-list">
             {timelines.map((tl) => {
