@@ -1,5 +1,6 @@
 import { useMemo } from "react";
 import { useRotationData } from "./hooks/useRotationData";
+import { useDataIndex } from "./hooks/useDataIndex";
 import { SelectorPanel } from "./components/SelectorPanel";
 import { TimelineContainer } from "./components/TimelineContainer";
 import { JOB_ICONS } from "./utils/jobIcons";
@@ -7,6 +8,20 @@ import "./styles/timeline.css";
 
 export default function App() {
   const { timelines, encounterName, loading, error, fetchData } = useRotationData();
+  const { lastUpdated } = useDataIndex();
+
+  const lastUpdatedDisplay = useMemo(() => {
+    if (!lastUpdated) return null;
+    const d = new Date(lastUpdated);
+    return d.toLocaleString("ja-JP", {
+      year: "numeric",
+      month: "2-digit",
+      day: "2-digit",
+      hour: "2-digit",
+      minute: "2-digit",
+      timeZone: "Asia/Tokyo",
+    });
+  }, [lastUpdated]);
 
   const partyByRank = useMemo(() => {
     const map = new Map<number, string[]>();
@@ -121,6 +136,19 @@ export default function App() {
       )}
 
       <TimelineContainer timelines={timelines} loading={loading} />
+
+      <footer className="app-footer">
+        <div className="footer-info">
+          {lastUpdatedDisplay && (
+            <span className="footer-updated">Last Updated: {lastUpdatedDisplay} (JST)</span>
+          )}
+          <span className="footer-schedule">
+            Data is collected daily at 10:00 JST —
+            Odd days: M1S / M2S / M3S,
+            Even days: M4S / M5S / FRW
+          </span>
+        </div>
+      </footer>
     </div>
   );
 }
