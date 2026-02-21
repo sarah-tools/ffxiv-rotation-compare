@@ -8,8 +8,6 @@ export function useJobs() {
 
   useEffect(() => {
     let ignore = false;
-    setLoading(true);
-    setError(null);
 
     fetchJSON<string[]>("jobs.json")
       .then((data) => {

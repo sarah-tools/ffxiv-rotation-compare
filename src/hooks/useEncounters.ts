@@ -9,8 +9,6 @@ export function useEncounters() {
 
   useEffect(() => {
     let ignore = false;
-    setLoading(true);
-    setError(null);
 
     fetchJSON<Expansion[]>("encounters.json")
       .then((data) => {
