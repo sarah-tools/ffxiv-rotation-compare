@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { useTranslation } from "../i18n/useTranslation";
 
 interface AbilityInfo {
   id: number;
@@ -17,6 +18,7 @@ interface Props {
 
 export function AbilityFilter({ abilities, hiddenAbilityIds, onToggle, onShowAll, onHideAll }: Props) {
   const [isOpen, setIsOpen] = useState(false);
+  const { t } = useTranslation();
 
   const hiddenCount = hiddenAbilityIds.size;
 
@@ -26,16 +28,16 @@ export function AbilityFilter({ abilities, hiddenAbilityIds, onToggle, onShowAll
         className={`toolbar-btn ${isOpen ? "active" : ""}`}
         onClick={() => setIsOpen(!isOpen)}
       >
-        Filter{hiddenCount > 0 ? ` (${hiddenCount} hidden)` : ""}
+        {t("filter.filter")}{hiddenCount > 0 ? ` (${hiddenCount} ${t("toolbar.hidden")})` : ""}
       </button>
       {isOpen && (
         <div className="ability-filter-panel">
           <div className="ability-filter-actions">
             <button className="ability-filter-action-btn" onClick={onShowAll}>
-              Show All
+              {t("filter.showAll")}
             </button>
             <button className="ability-filter-action-btn" onClick={onHideAll}>
-              Hide All
+              {t("filter.hideAll")}
             </button>
           </div>
           <div className="ability-filter-list">

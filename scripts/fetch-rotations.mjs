@@ -424,7 +424,7 @@ async function fetchPlayerTimeline(ranking, rank) {
     return {
       rank,
       name: ranking.name,
-      server: ranking.server?.name ?? "",
+      server: ranking.server ? `${ranking.server.name} ${ranking.server.region}` : "",
       rDPS: Math.round(ranking.amount),
       aDPS: ranking.aDPS ? Math.round(ranking.aDPS) : undefined,
       nDPS: ranking.nDPS ? Math.round(ranking.nDPS) : undefined,

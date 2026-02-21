@@ -1,6 +1,7 @@
 import { useState, useMemo } from "react";
 import { useEncounters } from "../hooks/useEncounters";
 import { useJobs } from "../hooks/useJobs";
+import { useTranslation } from "../i18n/useTranslation";
 import type { Zone, Encounter } from "../api/types";
 
 interface Props {
@@ -11,6 +12,7 @@ interface Props {
 export function SelectorPanel({ onSearch, loading }: Props) {
   const { expansions, loading: loadingEnc, error: encError } = useEncounters();
   const { jobs, loading: loadingJobs, error: jobsError } = useJobs();
+  const { t } = useTranslation();
 
   const [zoneId, setZoneId] = useState<number | "">("");
   const [encounterId, setEncounterId] = useState<number | "">("");
@@ -55,13 +57,13 @@ export function SelectorPanel({ onSearch, loading }: Props) {
     <div className="selector-panel">
       {dataError && (
         <div className="selector-error">
-          <p>Failed to load game data: {dataError}</p>
+          <p>{t("selector.failedToLoad")}{dataError}</p>
         </div>
       )}
-      {isDataLoading && <div className="selector-loading">Loading game data...</div>}
+      {isDataLoading && <div className="selector-loading">{t("selector.loadingGameData")}</div>}
       <div className="selector-row">
         <label>
-          Zone
+          {t("selector.zone")}
           <select
             value={zoneId}
             onChange={(e) => {
@@ -70,7 +72,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
             }}
             disabled={!hasData}
           >
-            <option value="">-- Select --</option>
+            <option value="">{t("selector.select")}</option>
             {zones.map((z) => (
               <option key={z.id} value={z.id}>{z.name}</option>
             ))}
@@ -78,13 +80,13 @@ export function SelectorPanel({ onSearch, loading }: Props) {
         </label>
 
         <label>
-          Encounter
+          {t("selector.encounter")}
           <select
             value={encounterId}
             onChange={(e) => setEncounterId(Number(e.target.value) || "")}
             disabled={encounters.length === 0}
           >
-            <option value="">-- Select --</option>
+            <option value="">{t("selector.select")}</option>
             {encounters.map((enc) => (
               <option key={enc.id} value={enc.id}>{enc.name}</option>
             ))}
@@ -92,12 +94,12 @@ export function SelectorPanel({ onSearch, loading }: Props) {
         </label>
 
         <label>
-          Job
+          {t("selector.job")}
           <select
             value={specName}
             onChange={(e) => setSpecName(e.target.value)}
           >
-            <option value="">-- Select --</option>
+            <option value="">{t("selector.select")}</option>
             {jobs.map((job) => (
               <option key={job} value={job}>{job}</option>
             ))}
@@ -105,7 +107,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
         </label>
 
         <button onClick={handleSearch} disabled={encounterId === "" || !specName || loading || !hasData}>
-          {loading ? "Loading..." : "Load Rotations"}
+          {loading ? t("selector.loading") : t("selector.loadRotations")}
         </button>
       </div>
     </div>

@@ -1,5 +1,6 @@
 import type { PlayerTimeline } from "../api/types";
 import { getTotalWidth, formatTime, buildGridSVG } from "../utils/timeline";
+import { useTranslation } from "../i18n/useTranslation";
 import { SkillIcon } from "./SkillIcon";
 
 interface Props {
@@ -19,6 +20,7 @@ export function TimelineRow({
   highlightedAbilityId = null,
   onAbilityClick,
 }: Props) {
+  const { t } = useTranslation();
   const totalWidth = getTotalWidth(totalDurationMs, pixelsPerSecond);
   const killTime = formatTime(player.duration);
   const gridSVG = buildGridSVG(pixelsPerSecond);
@@ -27,7 +29,7 @@ export function TimelineRow({
     <div className="timeline-row">
       <div className="player-info">
         {onHide && (
-          <button className="player-hide-btn" onClick={onHide} title="Hide player">
+          <button className="player-hide-btn" onClick={onHide} title={t("timeline.hidePlayer")}>
             ✕
           </button>
         )}
@@ -38,7 +40,7 @@ export function TimelineRow({
             href={player.reportUrl}
             target="_blank"
             rel="noopener noreferrer"
-            title="Open FFLogs report"
+            title={t("timeline.openReport")}
           >
             {player.name}
           </a>

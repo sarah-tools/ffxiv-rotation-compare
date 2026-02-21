@@ -2,6 +2,7 @@ import { useState, useRef, useCallback, useMemo } from "react";
 import type { PlayerTimeline } from "../api/types";
 import { DEFAULT_PIXELS_PER_SECOND, MIN_PIXELS_PER_SECOND, MAX_PIXELS_PER_SECOND } from "../utils/constants";
 import { getIconX, getTotalWidth } from "../utils/timeline";
+import { useTranslation } from "../i18n/useTranslation";
 import { TimeRuler } from "./TimeRuler";
 import { TimelineRow } from "./TimelineRow";
 import { ZoomControls } from "./ZoomControls";
@@ -13,6 +14,7 @@ interface Props {
 }
 
 export function TimelineContainer({ timelines, loading = false }: Props) {
+  const { t } = useTranslation();
   const [pixelsPerSecond, setPixelsPerSecond] = useState(DEFAULT_PIXELS_PER_SECOND);
   const scrollRef = useRef<HTMLDivElement>(null);
 
@@ -182,7 +184,7 @@ export function TimelineContainer({ timelines, loading = false }: Props) {
       <div className="timeline-toolbar">
         {hiddenRanks.size > 0 && (
           <button className="toolbar-btn" onClick={handleShowAll}>
-            Show All ({hiddenRanks.size} hidden)
+            {t("toolbar.showAll")} ({hiddenRanks.size} {t("toolbar.hidden")})
           </button>
         )}
         <AbilityFilter
@@ -194,12 +196,12 @@ export function TimelineContainer({ timelines, loading = false }: Props) {
         />
         {markers.length > 0 && (
           <button className="toolbar-btn" onClick={handleClearMarkers}>
-            Clear Markers ({markers.length})
+            {t("toolbar.clearMarkers")} ({markers.length})
           </button>
         )}
         {highlightedAbilityId !== null && (
           <button className="toolbar-btn" onClick={() => setHighlightedAbilityId(null)}>
-            Clear Highlight
+            {t("toolbar.clearHighlight")}
           </button>
         )}
       </div>

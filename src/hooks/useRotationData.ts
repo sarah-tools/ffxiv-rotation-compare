@@ -26,7 +26,7 @@ export function useRotationData() {
         );
 
         if (!data.rankings || data.rankings.length === 0) {
-          setError("No ranking data found for this encounter/job combination.");
+          setError("error.noData");
           return;
         }
 
@@ -64,7 +64,7 @@ export function useRotationData() {
       } catch (e) {
         const msg = e instanceof Error ? e.message : String(e);
         if (msg.includes("not found") || msg.includes("404")) {
-          setError(`Data not available for this encounter/job. Data may not have been generated yet.`);
+          setError("error.notGenerated");
         } else {
           setError(msg);
         }

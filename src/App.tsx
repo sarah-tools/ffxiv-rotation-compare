@@ -1,19 +1,22 @@
 import { useMemo } from "react";
 import { useRotationData } from "./hooks/useRotationData";
 import { useDataIndex } from "./hooks/useDataIndex";
+import { useTranslation } from "./i18n/useTranslation";
 import { SelectorPanel } from "./components/SelectorPanel";
 import { TimelineContainer } from "./components/TimelineContainer";
+import { LanguageToggle } from "./components/LanguageToggle";
 import { JOB_ICONS } from "./utils/jobIcons";
 import "./styles/timeline.css";
 
 export default function App() {
   const { timelines, encounterName, loading, error, fetchData } = useRotationData();
   const { lastUpdated } = useDataIndex();
+  const { t, locale } = useTranslation();
 
   const lastUpdatedDisplay = useMemo(() => {
     if (!lastUpdated) return null;
     const d = new Date(lastUpdated);
-    return d.toLocaleString("ja-JP", {
+    return d.toLocaleString(locale === "ja" ? "ja-JP" : "en-US", {
       year: "numeric",
       month: "2-digit",
       day: "2-digit",
@@ -21,20 +24,20 @@ export default function App() {
       minute: "2-digit",
       timeZone: "Asia/Tokyo",
     });
-  }, [lastUpdated]);
+  }, [lastUpdated, locale]);
 
   const partyByRank = useMemo(() => {
     const map = new Map<number, string[]>();
-    for (const t of timelines) {
-      map.set(t.rank, t.party);
+    for (const tl of timelines) {
+      map.set(tl.rank, tl.party);
     }
     return map;
   }, [timelines]);
 
   const synergyByRank = useMemo(() => {
     const map = new Map<number, { given?: number; taken?: number }>();
-    for (const t of timelines) {
-      map.set(t.rank, { given: t.dpsGiven, taken: t.dpsTaken });
+    for (const tl of timelines) {
+      map.set(tl.rank, { given: tl.dpsGiven, taken: tl.dpsTaken });
     }
     return map;
   }, [timelines]);
@@ -46,8 +49,9 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>FFLogs Rotation Compare</h1>
-        <p>Compare top 10 skill rotations side by side</p>
+        <h1>{t("app.title")}</h1>
+        <p>{t("app.subtitle")}</p>
+        <LanguageToggle />
       </header>
 
       <SelectorPanel onSearch={handleSearch} loading={loading} />
@@ -55,7 +59,7 @@ export default function App() {
       {loading && (
         <div className="rankings-section">
           <div className="rankings-header">
-            <h2>Loading...</h2>
+            <h2>{t("rankings.loading")}</h2>
           </div>
           <div className="rankings-list">
             {Array.from({ length: 10 }, (_, i) => (
@@ -73,24 +77,24 @@ export default function App() {
 
       {error && (
         <div className="app-status error">
-          <p>{error}</p>
+          <p>{t(error)}</p>
         </div>
       )}
 
       {timelines.length > 0 && (
         <div className="rankings-section">
           <div className="rankings-header">
-            <h2>{encounterName} - {timelines[0]?.job} Top {timelines.length}</h2>
+            <h2>{encounterName} - {timelines[0]?.job} {t("rankings.top")} {timelines.length}</h2>
           </div>
           <div className="rankings-list">
-            {timelines.map((t) => {
-              const party = partyByRank.get(t.rank);
-              const synergy = synergyByRank.get(t.rank);
+            {timelines.map((tl) => {
+              const party = partyByRank.get(tl.rank);
+              const synergy = synergyByRank.get(tl.rank);
               return (
-                <div key={t.rank} className="ranking-item">
-                  <span className={`rank${t.rank === 1 ? " rank-1" : ""}`}>#{t.rank}</span>
-                  <span className="name">{t.name}</span>
-                  <span className="server">{t.server}</span>
+                <div key={tl.rank} className="ranking-item">
+                  <span className={`rank${tl.rank === 1 ? " rank-1" : ""}`}>#{tl.rank}</span>
+                  <span className="name">{tl.name}</span>
+                  <span className="server">{tl.server}</span>
                   {party ? (
                     <span className="party-comp">
                       {party.map((job, j) => (
@@ -104,19 +108,19 @@ export default function App() {
                       ))}
                     </span>
                   ) : (
-                    <span className="spec">{t.job}</span>
+                    <span className="spec">{tl.job}</span>
                   )}
                   <span className="dps-row">
-                    <span className="dps-val rdps">{t.rDPS.toLocaleString()}</span>
+                    <span className="dps-val rdps">{tl.rDPS.toLocaleString()}</span>
                     <span className="dps-label rdps"> rDPS</span>
-                    {t.aDPS != null && <>
+                    {tl.aDPS != null && <>
                       <span className="dps-sep">/</span>
-                      <span className="dps-val adps">{t.aDPS.toLocaleString()}</span>
+                      <span className="dps-val adps">{tl.aDPS.toLocaleString()}</span>
                       <span className="dps-label adps"> aDPS</span>
                     </>}
-                    {t.nDPS != null && <>
+                    {tl.nDPS != null && <>
                       <span className="dps-sep">/</span>
-                      <span className="dps-val ndps">{t.nDPS.toLocaleString()}</span>
+                      <span className="dps-val ndps">{tl.nDPS.toLocaleString()}</span>
                       <span className="dps-label ndps"> nDPS</span>
                     </>}
                     {synergy && <>
@@ -140,12 +144,10 @@ export default function App() {
       <footer className="app-footer">
         <div className="footer-info">
           {lastUpdatedDisplay && (
-            <span className="footer-updated">Last Updated: {lastUpdatedDisplay} (JST)</span>
+            <span className="footer-updated">{t("footer.lastUpdated")}: {lastUpdatedDisplay} (JST)</span>
           )}
           <span className="footer-schedule">
-            Data is collected daily at 10:00 JST —
-            Odd days: M1S / M2S / M3S,
-            Even days: M4S / M5S / FRW
+            {t("footer.schedule")}
           </span>
         </div>
       </footer>
