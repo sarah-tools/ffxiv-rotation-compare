@@ -2,6 +2,7 @@ import { useState, useMemo } from "react";
 import { useEncounters } from "../hooks/useEncounters";
 import { useJobs } from "../hooks/useJobs";
 import { useTranslation } from "../i18n/useTranslation";
+import { CustomSelect } from "./CustomSelect";
 import type { Zone, Encounter } from "../api/types";
 
 interface Props {
@@ -64,49 +65,34 @@ export function SelectorPanel({ onSearch, loading }: Props) {
       <div className="selector-row">
         <label>
           {t("selector.zone")}
-          <select
-            value={zoneId}
-            onChange={(e) => {
-              setZoneId(Number(e.target.value) || "");
-              setEncounterId("");
-            }}
-            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
+          <CustomSelect
+            value={String(zoneId)}
+            options={zones.map((z) => ({ value: String(z.id), label: t("zone." + z.name) }))}
+            placeholder={t("selector.select")}
+            onChange={(v) => { setZoneId(Number(v) || ""); setEncounterId(""); }}
             disabled={!hasData}
-          >
-            <option value="">{t("selector.select")}</option>
-            {zones.map((z) => (
-              <option key={z.id} value={z.id}>{t("zone." + z.name)}</option>
-            ))}
-          </select>
+          />
         </label>
 
         <label>
           {t("selector.encounter")}
-          <select
-            value={encounterId}
-            onChange={(e) => setEncounterId(Number(e.target.value) || "")}
-            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
+          <CustomSelect
+            value={String(encounterId)}
+            options={encounters.map((enc) => ({ value: String(enc.id), label: t("enc." + enc.name) }))}
+            placeholder={t("selector.select")}
+            onChange={(v) => setEncounterId(Number(v) || "")}
             disabled={encounters.length === 0}
-          >
-            <option value="">{t("selector.select")}</option>
-            {encounters.map((enc) => (
-              <option key={enc.id} value={enc.id}>{t("enc." + enc.name)}</option>
-            ))}
-          </select>
+          />
         </label>
 
         <label>
           {t("selector.job")}
-          <select
+          <CustomSelect
             value={specName}
-            onChange={(e) => setSpecName(e.target.value)}
-            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
-          >
-            <option value="">{t("selector.select")}</option>
-            {jobs.map((job) => (
-              <option key={job} value={job}>{t("job." + job)}</option>
-            ))}
-          </select>
+            options={jobs.map((job) => ({ value: job, label: t("job." + job) }))}
+            placeholder={t("selector.select")}
+            onChange={(v) => setSpecName(v)}
+          />
         </label>
 
         <button onClick={handleSearch} disabled={encounterId === "" || !specName || loading || !hasData}>
