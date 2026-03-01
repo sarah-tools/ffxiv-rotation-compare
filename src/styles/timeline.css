@@ -184,7 +184,7 @@ body {
   box-shadow: 0 0 0 2px var(--accent-glow);
 }
 
-.selector-row button {
+.selector-row > button {
   height: 34px;
   padding: 0 18px;
   background: var(--accent);
@@ -199,12 +199,12 @@ body {
   letter-spacing: 0.2px;
 }
 
-.selector-row button:hover:not(:disabled) {
+.selector-row > button:hover:not(:disabled) {
   background: var(--accent-hover);
   box-shadow: 0 4px 12px rgba(255, 107, 74, 0.3);
 }
 
-.selector-row button:disabled {
+.selector-row > button:disabled {
   opacity: 0.4;
   cursor: not-allowed;
 }
@@ -249,8 +249,7 @@ body {
 }
 
 .custom-select-trigger.open {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 2px var(--accent-glow);
+  border-color: rgba(255, 255, 255, 0.18);
 }
 
 .custom-select-menu {
@@ -285,8 +284,8 @@ body {
 }
 
 .custom-select-option.selected {
-  color: var(--accent);
-  font-weight: 600;
+  color: var(--text-primary);
+  background: var(--bg-hover);
 }
 
 /* === Rankings === */
