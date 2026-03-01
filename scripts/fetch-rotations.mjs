@@ -576,7 +576,9 @@ async function main() {
   console.log("\n[2/3] Fetching jobs...");
   const jobData = await queryFFLogs(GET_JOBS);
   const allSpecs = jobData.gameData.classes.flatMap((c) => c.specs.map((s) => s.name));
-  const combatJobs = allSpecs.filter((s) => JOB_ORDER[s] !== undefined);
+  const combatJobs = allSpecs
+    .map((s) => s.replace(/\s/g, ""))
+    .filter((s) => JOB_ORDER[s] !== undefined);
   writeJSON(join(DATA_DIR, "jobs.json"), combatJobs);
   console.log(`  Saved jobs.json (${combatJobs.length} jobs)`);
 
