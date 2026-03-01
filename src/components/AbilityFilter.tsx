@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useTranslation } from "../i18n/useTranslation";
 
 interface AbilityInfo {
@@ -19,11 +19,23 @@ interface Props {
 export function AbilityFilter({ abilities, hiddenAbilityIds, onToggle, onShowAll, onHideAll }: Props) {
   const [isOpen, setIsOpen] = useState(false);
   const { t } = useTranslation();
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!isOpen) return;
+    const handler = (e: MouseEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) {
+        setIsOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, [isOpen]);
 
   const hiddenCount = hiddenAbilityIds.size;
 
   return (
-    <div className="ability-filter">
+    <div className="ability-filter" ref={ref}>
       <button
         className={`toolbar-btn ${isOpen ? "active" : ""}`}
         onClick={() => setIsOpen(!isOpen)}

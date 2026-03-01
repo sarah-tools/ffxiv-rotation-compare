@@ -41,7 +41,7 @@ export function CustomSelect({ value, options, placeholder, onChange, disabled }
         {selectedLabel}
       </button>
       {open && (
-        <ul className="custom-select-menu">
+        <ul className="custom-select-menu" onClick={(e) => e.stopPropagation()}>
           <li
             className={`custom-select-option${!value ? " selected" : ""}`}
             onClick={() => { onChange(""); setOpen(false); }}

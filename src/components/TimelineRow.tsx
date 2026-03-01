@@ -35,14 +35,15 @@ export function TimelineRow({
         )}
         <div className="player-info-top">
           <span className={`rank${player.rank === 1 ? " rank-1" : ""}`}>#{player.rank}</span>
+          <span className="name">{player.name}</span>
           <a
-            className="name"
+            className="report-link"
             href={player.reportUrl}
             target="_blank"
             rel="noopener noreferrer"
             title={t("timeline.openReport")}
           >
-            {player.name}
+            Report
           </a>
         </div>
         <div className="player-info-bottom">
