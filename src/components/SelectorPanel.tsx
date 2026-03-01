@@ -70,6 +70,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
               setZoneId(Number(e.target.value) || "");
               setEncounterId("");
             }}
+            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
             disabled={!hasData}
           >
             <option value="">{t("selector.select")}</option>
@@ -84,6 +85,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
           <select
             value={encounterId}
             onChange={(e) => setEncounterId(Number(e.target.value) || "")}
+            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
             disabled={encounters.length === 0}
           >
             <option value="">{t("selector.select")}</option>
@@ -98,6 +100,7 @@ export function SelectorPanel({ onSearch, loading }: Props) {
           <select
             value={specName}
             onChange={(e) => setSpecName(e.target.value)}
+            onFocus={(e) => { e.currentTarget.selectedIndex = 0; }}
           >
             <option value="">{t("selector.select")}</option>
             {jobs.map((job) => (

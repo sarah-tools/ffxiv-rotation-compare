@@ -70,7 +70,7 @@ export const translations: Record<string, Record<Locale, string>> = {
   },
 
   // Zone names
-  "zone.AAC Heavyweight": { en: "AAC Heavyweight", ja: "アルカディア零式：ヘヴィウェイト級" },
+  "zone.AAC Heavyweight": { en: "AAC Heavyweight", ja: "アルカディア零式：ヘビー級" },
   "zone.Futures Rewritten": { en: "Futures Rewritten", ja: "絶もうひとつの未来" },
 
   // Encounter (boss) names
