@@ -489,15 +489,22 @@ body {
   border-color: rgba(255, 107, 74, 0.3);
 }
 
+/* === Zoom Row (filter + zoom) === */
+.zoom-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius) var(--radius) 0 0;
+}
+
 /* === Zoom Controls === */
 .zoom-controls {
   display: flex;
   align-items: center;
   gap: 10px;
-  padding: 10px 16px;
-  background: var(--bg-card);
-  border: 1px solid var(--border);
-  border-radius: var(--radius) var(--radius) 0 0;
 }
 
 .zoom-controls button {

@@ -178,15 +178,7 @@ export function TimelineContainer({ timelines, loading = false }: Props) {
 
   return (
     <div className="timeline-wrapper">
-      <ZoomControls pixelsPerSecond={pixelsPerSecond} onChange={setPixelsPerSecond} />
-
-      {/* Toolbar */}
-      <div className="timeline-toolbar">
-        {hiddenRanks.size > 0 && (
-          <button className="toolbar-btn" onClick={handleShowAll}>
-            {t("toolbar.showAll")} ({hiddenRanks.size} {t("toolbar.hidden")})
-          </button>
-        )}
+      <div className="zoom-row">
         <AbilityFilter
           abilities={uniqueAbilities}
           hiddenAbilityIds={hiddenAbilityIds}
@@ -194,17 +186,29 @@ export function TimelineContainer({ timelines, loading = false }: Props) {
           onShowAll={handleShowAllAbilities}
           onHideAll={handleHideAllAbilities}
         />
-        {markers.length > 0 && (
-          <button className="toolbar-btn" onClick={handleClearMarkers}>
-            {t("toolbar.clearMarkers")} ({markers.length})
-          </button>
-        )}
-        {highlightedAbilityId !== null && (
-          <button className="toolbar-btn" onClick={() => setHighlightedAbilityId(null)}>
-            {t("toolbar.clearHighlight")}
-          </button>
-        )}
+        <ZoomControls pixelsPerSecond={pixelsPerSecond} onChange={setPixelsPerSecond} />
       </div>
+
+      {/* Toolbar (only shown when there are active actions) */}
+      {(hiddenRanks.size > 0 || markers.length > 0 || highlightedAbilityId !== null) && (
+        <div className="timeline-toolbar">
+          {hiddenRanks.size > 0 && (
+            <button className="toolbar-btn" onClick={handleShowAll}>
+              {t("toolbar.showAll")} ({hiddenRanks.size} {t("toolbar.hidden")})
+            </button>
+          )}
+          {markers.length > 0 && (
+            <button className="toolbar-btn" onClick={handleClearMarkers}>
+              {t("toolbar.clearMarkers")} ({markers.length})
+            </button>
+          )}
+          {highlightedAbilityId !== null && (
+            <button className="toolbar-btn" onClick={() => setHighlightedAbilityId(null)}>
+              {t("toolbar.clearHighlight")}
+            </button>
+          )}
+        </div>
+      )}
 
       <div
         className="timeline-container"
