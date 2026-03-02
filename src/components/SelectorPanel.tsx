@@ -63,8 +63,8 @@ export function SelectorPanel({ onSearch, loading }: Props) {
       )}
       {isDataLoading && <div className="selector-loading">{t("selector.loadingGameData")}</div>}
       <div className="selector-row">
-        <label>
-          {t("selector.zone")}
+        <div className="selector-field">
+          <span className="selector-label">{t("selector.zone")}</span>
           <CustomSelect
             value={String(zoneId)}
             options={zones.map((z) => ({ value: String(z.id), label: t("zone." + z.name) }))}
@@ -72,10 +72,10 @@ export function SelectorPanel({ onSearch, loading }: Props) {
             onChange={(v) => { setZoneId(Number(v) || ""); setEncounterId(""); }}
             disabled={!hasData}
           />
-        </label>
+        </div>
 
-        <label>
-          {t("selector.encounter")}
+        <div className="selector-field">
+          <span className="selector-label">{t("selector.encounter")}</span>
           <CustomSelect
             value={String(encounterId)}
             options={encounters.map((enc) => ({ value: String(enc.id), label: t("enc." + enc.name) }))}
@@ -83,17 +83,17 @@ export function SelectorPanel({ onSearch, loading }: Props) {
             onChange={(v) => setEncounterId(Number(v) || "")}
             disabled={encounters.length === 0}
           />
-        </label>
+        </div>
 
-        <label>
-          {t("selector.job")}
+        <div className="selector-field">
+          <span className="selector-label">{t("selector.job")}</span>
           <CustomSelect
             value={specName}
             options={jobs.map((job) => ({ value: job, label: t("job." + job) }))}
             placeholder={t("selector.select")}
             onChange={(v) => setSpecName(v)}
           />
-        </label>
+        </div>
 
         <button onClick={handleSearch} disabled={encounterId === "" || !specName || loading || !hasData}>
           {loading ? t("selector.loading") : t("selector.loadRotations")}
