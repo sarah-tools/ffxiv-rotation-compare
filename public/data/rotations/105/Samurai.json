@@ -1,7 +1,7 @@
 {
   "encounterId": 105,
   "job": "Samurai",
-  "lastUpdated": "2026-03-22T05:45:56.070Z",
+  "lastUpdated": "2026-03-24T03:49:14.022Z",
   "rankings": [
     {
       "rank": 1,
@@ -26597,28 +26597,29 @@
     },
     {
       "rank": 10,
-      "name": "Please Adjust",
-      "server": "Leviathan NA",
-      "rDPS": 43054,
-      "nDPS": 43054,
-      "duration": 510543,
-      "reportCode": "4P23CG17wZLRgpHc",
-      "fightID": 106,
+      "name": "Ashelia Dalmas",
+      "server": "Asura JP",
+      "rDPS": 43110,
+      "aDPS": 48991,
+      "nDPS": 43110,
+      "duration": 506035,
+      "reportCode": "9kQwr3yDmg6j1XVG",
+      "fightID": 11,
       "dpsGiven": 0,
-      "dpsTaken": 5292,
+      "dpsTaken": 6749,
       "party": [
         "Paladin",
         "DarkKnight",
-        "WhiteMage",
-        "Sage",
+        "Scholar",
+        "Astrologian",
+        "Ninja",
         "Samurai",
-        "Reaper",
-        "Dancer",
-        "BlackMage"
+        "Bard",
+        "Pictomancer"
       ],
       "timeline": [
         {
-          "t": 0,
+          "t": 760,
           "id": 7481,
           "name": "Gekko",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
@@ -26626,7 +26627,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 627,
+          "t": 1386,
           "id": 16482,
           "name": "Ikishoten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
@@ -26634,7 +26635,639 @@
           "type": "ability"
         },
         {
-          "t": 1293,
+          "t": 2142,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 3212,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 5706,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 8600,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9314,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10025,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 10691,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11358,
+          "id": 36964,
+          "name": "Zanshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12159,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 12827,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15048,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 17230,
+          "id": 25781,
+          "name": "Ogi Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 17854,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18613,
+          "id": 25782,
+          "name": "Kaeshi: Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 19236,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20752,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 22891,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 23515,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 25070,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 27205,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 27828,
+          "id": 7492,
+          "name": "Hissatsu: Gyoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 30146,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 31529,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 33668,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 35805,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 36515,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 37983,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38649,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 40118,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 40785,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 42254,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 44430,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 45094,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 46560,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 48693,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 51625,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 53008,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 53720,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 55145,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 57331,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59464,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 60131,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 61600,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63784,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 64451,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 65920,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66588,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 68814,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 69479,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70239,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 70862,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 72421,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 75355,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 76686,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 77397,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 78865,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 80996,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 83129,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 85261,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 87486,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 90380,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91761,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 93945,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 94570,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 96088,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98229,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 100369,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 102504,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 103216,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104637,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106774,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 108909,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109530,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 111845,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 113226,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 115366,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 115992,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 116658,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 117503,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 119105,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -26642,31 +27275,7 @@
           "type": "ability"
         },
         {
-          "t": 3212,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 3746,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 4903,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 7353,
+          "t": 119773,
           "id": 7481,
           "name": "Gekko",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
@@ -26674,87 +27283,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 8334,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 9492,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 10158,
-          "id": 36964,
-          "name": "Zanshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11627,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 12387,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13055,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14526,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 15954,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 17116,
-          "id": 7492,
-          "name": "Hissatsu: Gyoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18856,
-          "id": 25781,
-          "name": "Ogi Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 19435,
+          "t": 120618,
           "id": 16487,
           "name": "Shoha",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
@@ -26762,183 +27291,7 @@
           "type": "ability"
         },
         {
-          "t": 20239,
-          "id": 25782,
-          "name": "Kaeshi: Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 20774,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 22381,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 23629,
-          "id": 7492,
-          "name": "Hissatsu: Gyoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 24521,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 26664,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 27379,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 29563,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 30945,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 33085,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 35224,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 37362,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 38256,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 39506,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 40266,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 41647,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42584,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 43789,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 45935,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48075,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48923,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 50975,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52356,
+          "t": 121907,
           "id": 16486,
           "name": "Kaeshi: Setsugekka",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
@@ -26946,1879 +27299,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 54500,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56643,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 58786,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 59587,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 60927,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 63822,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 64358,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 65206,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 67346,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 68375,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 69490,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 70204,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 70828,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 71630,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 72565,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 74613,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 75059,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 75946,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 78084,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 80217,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 82353,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84489,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 85466,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 87418,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 88750,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 90886,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 93017,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95149,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 96035,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 97280,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 99410,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 100034,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 100704,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 101548,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102347,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 104482,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 105015,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 105815,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 107950,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 110082,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 110927,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 112217,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 114396,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 115595,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 117285,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 118665,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 120843,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 121467,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 122134,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 123779,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 125112,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 125690,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 126403,
-          "id": 16482,
-          "name": "Ikishoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127251,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 130148,
-          "id": 25781,
-          "name": "Ogi Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 130773,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 131529,
-          "id": 25782,
-          "name": "Kaeshi: Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 132197,
-          "id": 36964,
-          "name": "Zanshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132865,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133667,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 134691,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135805,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 137944,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 140080,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 140879,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142214,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 144346,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146524,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 149411,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 150790,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152925,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 153858,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 155062,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 157241,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 159376,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160133,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 161557,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 162493,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 163696,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 165836,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 166592,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 167971,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170863,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 172240,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 174373,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 176509,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 178653,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 180790,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 181544,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183675,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 184254,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 185053,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187187,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189316,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 190026,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190783,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191449,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 192296,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 194384,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 195718,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 197851,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 198917,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 199983,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 200651,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202118,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 204249,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 205183,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 207185,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 208612,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 210749,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212883,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 215015,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 215859,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 217145,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 217897,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 219274,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 221454,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223588,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 224213,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 225724,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 226480,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 227149,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 228616,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 229996,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 232132,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 234264,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 236396,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 237374,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 238533,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 241421,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 242797,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 243907,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244927,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 247150,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 247728,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248350,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 249283,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 249907,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252215,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 252750,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253550,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 254173,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255682,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256260,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 256927,
-          "id": 16482,
-          "name": "Ikishoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258614,
-          "id": 25781,
-          "name": "Ogi Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 259191,
-          "id": 36964,
-          "name": "Zanshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 259990,
-          "id": 25782,
-          "name": "Kaeshi: Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 260702,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262124,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 264259,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 265058,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 266398,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267337,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 269299,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270678,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 272811,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 274951,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 277095,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 279234,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 281371,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283505,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285643,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287782,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 288587,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 290686,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 292071,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 294208,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 294833,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 296353,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 298494,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299427,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 301388,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 302014,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 302770,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303480,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 304908,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 307048,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 307894,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309950,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 311331,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313513,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 314270,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315649,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 317786,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 319926,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 320685,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 322069,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 324213,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 325239,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 327116,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 328497,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 330633,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 332773,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333485,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 334907,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 335486,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 337045,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 339181,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 339806,
-          "id": 7492,
-          "name": "Hissatsu: Gyoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 341318,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 342118,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 343452,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 344608,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 345593,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 346752,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 348529,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 349865,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 350624,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 352003,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 352668,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 353291,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 354136,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356321,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 358464,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 361358,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 361938,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 362740,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 365635,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 367014,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 368038,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 369148,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 369816,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 371283,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 373421,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 374220,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 374841,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375550,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 377726,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378970,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 379859,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 380479,
-          "id": 16482,
-          "name": "Ikishoten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381991,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384130,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384708,
+          "t": 122842,
           "id": 7493,
           "name": "Hissatsu: Yaten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003170.png",
@@ -28826,23 +27307,7 @@
           "type": "ability"
         },
         {
-          "t": 385639,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 386263,
-          "id": 7486,
-          "name": "Enpi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003155.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 387507,
+          "t": 123730,
           "id": 7492,
           "name": "Hissatsu: Gyoten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
@@ -28850,103 +27315,23 @@
           "type": "ability"
         },
         {
-          "t": 388395,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "t": 125153,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 389816,
-          "id": 36964,
-          "name": "Zanshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 391324,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "t": 126534,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 391994,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 393417,
-          "id": 25781,
-          "name": "Ogi Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 394841,
-          "id": 25782,
-          "name": "Kaeshi: Namikiri",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 396978,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399113,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 401258,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 403397,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 405578,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 406200,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 406822,
+          "t": 127200,
           "id": 36962,
           "name": "Tengentsu",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
@@ -28954,167 +27339,15 @@
           "type": "ability"
         },
         {
-          "t": 407712,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "t": 128710,
+          "id": 7486,
+          "name": "Enpi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003155.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 410596,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 411222,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 411979,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414116,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 415095,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 416254,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 418390,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420528,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 421375,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 423427,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 424054,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 424814,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 426954,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 429859,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 431244,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 432228,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 433389,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 434281,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 435523,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 436325,
+          "t": 130134,
           "id": 16481,
           "name": "Hissatsu: Senei",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
@@ -29122,303 +27355,7 @@
           "type": "ability"
         },
         {
-          "t": 437659,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 439797,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 440552,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 441930,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 444060,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 446197,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 448334,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 451239,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 452664,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 454794,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 456927,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 459064,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 461209,
-          "id": 7479,
-          "name": "Shifu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 462319,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 463342,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 464543,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 465475,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 467608,
-          "id": 7478,
-          "name": "Jinpu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468628,
-          "id": 36962,
-          "name": "Tengentsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 469742,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 471876,
-          "id": 36963,
-          "name": "Gyofu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 472498,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 473124,
-          "id": 34603666,
-          "name": "Grade 4 Gemdraught of Strength [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 474771,
-          "id": 7487,
-          "name": "Midare Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 475439,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 476154,
-          "id": 16486,
-          "name": "Kaeshi: Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 476822,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 478292,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 479585,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 480476,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 481590,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 482616,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 483596,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 485513,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486135,
-          "id": 7490,
-          "name": "Hissatsu: Shinten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 486892,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 489786,
-          "id": 7489,
-          "name": "Higanbana",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491165,
+          "t": 130845,
           "id": 36968,
           "name": "Tendo Kaeshi Setsugekka",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
@@ -29426,47 +27363,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 492143,
-          "id": 7499,
-          "name": "Meikyo Shisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 493302,
-          "id": 7480,
-          "name": "Yukikaze",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 495530,
-          "id": 7482,
-          "name": "Kasha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 496373,
-          "id": 16481,
-          "name": "Hissatsu: Senei",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497665,
-          "id": 7481,
-          "name": "Gekko",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 498246,
+          "t": 131469,
           "id": 7490,
           "name": "Hissatsu: Shinten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
@@ -29474,15 +27371,7 @@
           "type": "ability"
         },
         {
-          "t": 500561,
-          "id": 36966,
-          "name": "Tendo Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501096,
+          "t": 132182,
           "id": 16482,
           "name": "Ikishoten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
@@ -29490,31 +27379,7 @@
           "type": "ability"
         },
         {
-          "t": 501943,
-          "id": 36968,
-          "name": "Tendo Kaeshi Setsugekka",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502479,
-          "id": 16487,
-          "name": "Shoha",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 503104,
-          "id": 36964,
-          "name": "Zanshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504844,
+          "t": 133739,
           "id": 25781,
           "name": "Ogi Namikiri",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
@@ -29522,7 +27387,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 506224,
+          "t": 134450,
+          "id": 36964,
+          "name": "Zanshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135161,
           "id": 25782,
           "name": "Kaeshi: Namikiri",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
@@ -29530,7 +27403,2079 @@
           "type": "weaponskill"
         },
         {
-          "t": 508356,
+          "t": 135873,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138049,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 138714,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139471,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 141603,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 142270,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 143737,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 145913,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148046,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148937,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 150184,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 152361,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154496,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157394,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 158774,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 160952,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161576,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 163179,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 163801,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 165312,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 165982,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 167452,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 169586,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 171721,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172347,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 173866,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 176045,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 178978,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 180314,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182492,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 183111,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 184626,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185292,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186757,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 188893,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190143,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191791,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192458,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193259,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 193926,
+          "id": 7493,
+          "name": "Hissatsu: Yaten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003170.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194728,
+          "id": 7492,
+          "name": "Hissatsu: Gyoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 196196,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197528,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 199709,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 200421,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 201842,
+          "id": 7486,
+          "name": "Enpi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003155.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202865,
+          "id": 7492,
+          "name": "Hissatsu: Gyoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 204021,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 204775,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 206149,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 206818,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 208285,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 210465,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 212599,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214777,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 216911,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 219844,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 221176,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223356,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225491,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 226112,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227672,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229805,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 231995,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 234132,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 234754,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235470,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 236272,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 236939,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 238408,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 241305,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242685,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 244825,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 245491,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246157,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246959,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 247850,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 248472,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249183,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 249892,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 251313,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 251981,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252605,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254208,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 254873,
+          "id": 16482,
+          "name": "Ikishoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 255627,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 256250,
+          "id": 36964,
+          "name": "Zanshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 258519,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 260658,
+          "id": 25781,
+          "name": "Ogi Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 262038,
+          "id": 25782,
+          "name": "Kaeshi: Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263509,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264221,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 266360,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 266982,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 268497,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 269119,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 270677,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272863,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 273577,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 275004,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277145,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279285,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 281424,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284325,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 285754,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287894,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 288829,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 290033,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 292216,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294350,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296487,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 298623,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 300759,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302938,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305870,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307205,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307827,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 309382,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311517,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 312183,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312981,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 313692,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 314359,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315824,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 318718,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 319385,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320140,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 320807,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 323029,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324409,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 326594,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328732,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330870,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 333050,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 335189,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 335812,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 337328,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339558,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341696,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 342453,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 343161,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 344586,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345965,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346812,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 348104,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 350239,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 350953,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 352419,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354552,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 356688,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 358870,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 359537,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 361003,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363141,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363808,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366073,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367541,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369677,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 370300,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 370923,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371811,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 372478,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 373099,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 373986,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 374698,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 376117,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 377006,
+          "id": 16482,
+          "name": "Ikishoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 379050,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 380426,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 381093,
+          "id": 7493,
+          "name": "Hissatsu: Yaten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003170.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381981,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382605,
+          "id": 7486,
+          "name": "Enpi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003155.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 383493,
+          "id": 7492,
+          "name": "Hissatsu: Gyoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003169.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384782,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385670,
+          "id": 36964,
+          "name": "Zanshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 387672,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389805,
+          "id": 25781,
+          "name": "Ogi Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 390605,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 391228,
+          "id": 25782,
+          "name": "Kaeshi: Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 393405,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 394073,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 395538,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 397716,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 398383,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 399897,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 404039,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 406169,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 406882,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 408305,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 410443,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 413342,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 414724,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 415393,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 416906,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419043,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419666,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 421178,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 423358,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 426256,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 427636,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 429775,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431918,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 432544,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 434103,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 434815,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 436283,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438415,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 440861,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 443753,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 445221,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 445890,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 447356,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 448025,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 449493,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452388,
+          "id": 7489,
+          "name": "Higanbana",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003160.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 453058,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 453811,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 454436,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 455951,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458093,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 460229,
+          "id": 7479,
+          "name": "Shifu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 460851,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 462362,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 464500,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 466722,
+          "id": 7478,
+          "name": "Jinpu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003152.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 467344,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 468856,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 469524,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 470237,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471751,
+          "id": 7487,
+          "name": "Midare Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003162.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473178,
+          "id": 36963,
+          "name": "Gyofu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475312,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475980,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 476734,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 477448,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478069,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 479581,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 480247,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 481716,
+          "id": 16486,
+          "name": "Kaeshi: Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003183.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 482384,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 484613,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 485994,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487552,
+          "id": 7499,
+          "name": "Meikyo Shisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488264,
+          "id": 7480,
+          "name": "Yukikaze",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003166.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 489022,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 490399,
+          "id": 7482,
+          "name": "Kasha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003164.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491109,
+          "id": 16487,
+          "name": "Shoha",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003184.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491821,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 492532,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 493243,
+          "id": 7490,
+          "name": "Hissatsu: Shinten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003173.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495425,
+          "id": 36966,
+          "name": "Tendo Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003194.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 496849,
+          "id": 7481,
+          "name": "Gekko",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 497517,
+          "id": 16481,
+          "name": "Hissatsu: Senei",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003178.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 498141,
+          "id": 16482,
+          "name": "Ikishoten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003179.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 498989,
+          "id": 36968,
+          "name": "Tendo Kaeshi Setsugekka",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003196.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 499658,
+          "id": 36964,
+          "name": "Zanshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003192.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 500325,
+          "id": 36962,
+          "name": "Tengentsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003190.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501884,
+          "id": 25781,
+          "name": "Ogi Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003187.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503266,
+          "id": 25782,
+          "name": "Kaeshi: Namikiri",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003188.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 505449,
           "id": 36963,
           "name": "Gyofu",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003191.png",
