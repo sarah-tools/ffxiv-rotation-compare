@@ -1,7 +1,7 @@
 {
   "encounterId": 101,
   "job": "Monk",
-  "lastUpdated": "2026-03-25T03:43:04.169Z",
+  "lastUpdated": "2026-03-27T03:54:10.901Z",
   "rankings": [
     {
       "rank": 1,
@@ -25766,29 +25766,29 @@
     },
     {
       "rank": 10,
-      "name": "Arvel Balliol",
+      "name": "A'lra Suteth",
       "server": "Gilgamesh NA",
-      "rDPS": 43874,
-      "aDPS": 43254,
-      "nDPS": 40538,
-      "duration": 508025,
-      "reportCode": "BfhbVnaT7ZHGg3zJ",
-      "fightID": 9,
-      "dpsGiven": 3332,
-      "dpsTaken": 2712,
+      "rDPS": 44056,
+      "aDPS": 42804,
+      "nDPS": 40309,
+      "duration": 508639,
+      "reportCode": "bwqdV4Bh6aWFy3kj",
+      "fightID": 20,
+      "dpsGiven": 3743,
+      "dpsTaken": 6184,
       "party": [
-        "Paladin",
         "DarkKnight",
-        "Scholar",
-        "Astrologian",
+        "Gunbreaker",
+        "WhiteMage",
+        "Sage",
         "Monk",
         "Samurai",
         "Dancer",
-        "RedMage"
+        "Summoner"
       ],
       "timeline": [
         {
-          "t": 445,
+          "t": 89,
           "id": 25762,
           "name": "Thunderclap",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
@@ -25796,7 +25796,7 @@
           "type": "ability"
         },
         {
-          "t": 1116,
+          "t": 847,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -25804,7 +25804,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 1741,
+          "t": 1561,
           "id": 69,
           "name": "Perfect Balance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
@@ -25812,7 +25812,63 @@
           "type": "ability"
         },
         {
-          "t": 2408,
+          "t": 2768,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 3435,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 4681,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 5348,
+          "id": 7396,
+          "name": "Brotherhood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 5974,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 6644,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 7268,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7982,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -25820,7 +25876,143 @@
           "type": "ability"
         },
         {
-          "t": 3033,
+          "t": 8606,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9587,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10523,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 11148,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12484,
+          "id": 36949,
+          "name": "Wind's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 14443,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 15114,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16360,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 17070,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18316,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 19028,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20227,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 20939,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 22183,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 24187,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 25121,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 26101,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 28018,
           "id": 61,
           "name": "Twin Snakes",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
@@ -25828,7 +26020,463 @@
           "type": "weaponskill"
         },
         {
-          "t": 3658,
+          "t": 28689,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 29980,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 31317,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 31986,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 33907,
+          "id": 16476,
+          "name": "Six-Sided Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 37970,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 39886,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 41805,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 42473,
+          "id": 65,
+          "name": "Mantra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 43721,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 45638,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 47602,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49522,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 51483,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 52510,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 53445,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55363,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 57329,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59249,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59875,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 61171,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 61841,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 63134,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65052,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65991,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67017,
+          "id": 25768,
+          "name": "Rising Phoenix",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 69118,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 71038,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 72956,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 74875,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 76794,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78716,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 80683,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 82602,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 84563,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 86527,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 87194,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 88443,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 90447,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 92366,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 93572,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 94377,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 96296,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98214,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 100132,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 102091,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104005,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104805,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 105919,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 107928,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109846,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 111807,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 113721,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 114346,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 115732,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 117653,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 119571,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 120551,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -25836,31 +26484,7 @@
           "type": "ability"
         },
         {
-          "t": 4994,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 5618,
-          "id": 7396,
-          "name": "Brotherhood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6242,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6909,
+          "t": 121531,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -25868,79 +26492,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 7534,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8870,
-          "id": 25768,
-          "name": "Rising Phoenix",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 9493,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10118,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10787,
-          "id": 36949,
-          "name": "Wind's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 12079,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 12746,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 14661,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 16621,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 17243,
+          "t": 122201,
           "id": 69,
           "name": "Perfect Balance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
@@ -25948,15 +26500,7 @@
           "type": "ability"
         },
         {
-          "t": 17911,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18535,
+          "t": 123449,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -25964,15 +26508,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 19201,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 20496,
+          "t": 125368,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -25980,15 +26516,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 21165,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "t": 126035,
+          "id": 7396,
+          "name": "Brotherhood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 22453,
+          "t": 126616,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 127286,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -25996,15 +26540,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 24409,
-          "id": 36948,
-          "name": "Elixir Burst",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 127911,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 25034,
+          "t": 128536,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -26012,7 +26556,15 @@
           "type": "ability"
         },
         {
-          "t": 26324,
+          "t": 129250,
+          "id": 25769,
+          "name": "Phantom Rush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 131168,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -26020,55 +26572,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 28241,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 30198,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 34156,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
+          "t": 131793,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 35136,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 37097,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 39010,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 39633,
+          "t": 132462,
           "id": 65,
           "name": "Mantra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
@@ -26076,319 +26588,7 @@
           "type": "ability"
         },
         {
-          "t": 40967,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42879,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 44794,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 45417,
-          "id": 7394,
-          "name": "Riddle of Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002537.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 46756,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48674,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 49342,
-          "id": 36944,
-          "name": "Earth's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002549.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 50636,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52554,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 54513,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56430,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 58389,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 60305,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 62267,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 64227,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 66192,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 66770,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 67437,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 68103,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69040,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 70018,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 71973,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 73891,
-          "id": 25769,
-          "name": "Phantom Rush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 75898,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 77812,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 79725,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 81683,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 82307,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 83601,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 87523,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 89481,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 91395,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 93311,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95311,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 96425,
-          "id": 25762,
-          "name": "Thunderclap",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 97227,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 97851,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 99141,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 101098,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 103009,
+          "t": 133132,
           "id": 36949,
           "name": "Wind's Reply",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
@@ -26396,191 +26596,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 105011,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 106927,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 107549,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 108843,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 110805,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 112721,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 114683,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 116601,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 118565,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 120479,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 121507,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 123423,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124091,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125384,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 126007,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127299,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 127967,
-          "id": 7396,
-          "name": "Brotherhood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 128592,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 129264,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 131177,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 132334,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133136,
-          "id": 25768,
-          "name": "Rising Phoenix",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135052,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 137015,
+          "t": 135049,
           "id": 36950,
           "name": "Fire's Reply",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
@@ -26588,7 +26604,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 137637,
+          "t": 136434,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -26596,23 +26612,7 @@
           "type": "ability"
         },
         {
-          "t": 138932,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 139598,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140890,
+          "t": 137148,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -26620,727 +26620,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 141960,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142893,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 144809,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146722,
-          "id": 36948,
-          "name": "Elixir Burst",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147345,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 148637,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 149304,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 150593,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152555,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154468,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 156472,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 158389,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160305,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 162221,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 164188,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 166106,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 168066,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 169980,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 171940,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 173899,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 174567,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 175820,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 177781,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 179696,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 181652,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 183565,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 185570,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187484,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 188686,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 189398,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 190022,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191359,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 193277,
-          "id": 36949,
-          "name": "Wind's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 193901,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195236,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 195861,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 197153,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 199865,
-          "id": 25762,
-          "name": "Thunderclap",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 201070,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 202983,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 204945,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 206863,
-          "id": 25769,
-          "name": "Phantom Rush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 208825,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 210741,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212701,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 214621,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 216584,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 218543,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 220458,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 222421,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 224380,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 226337,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 228256,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 230175,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 234045,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 235068,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 236094,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 237073,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 239033,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 239657,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 240949,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 242907,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 244868,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245448,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 246779,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 247983,
-          "id": 7396,
-          "name": "Brotherhood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248698,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 249901,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 250658,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 251280,
-          "id": 65,
-          "name": "Mantra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 251905,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252619,
-          "id": 25768,
-          "name": "Rising Phoenix",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 253557,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 254540,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 255654,
-          "id": 7394,
-          "name": "Riddle of Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002537.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 256459,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258420,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 259042,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 259666,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260336,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 261005,
-          "id": 36944,
-          "name": "Earth's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002549.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262300,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 262923,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 264216,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 264883,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 266175,
-          "id": 36948,
-          "name": "Elixir Burst",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267202,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268096,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270053,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 271972,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 272641,
+          "t": 137727,
           "id": 7549,
           "name": "Feint",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
@@ -27348,215 +26628,7 @@
           "type": "ability"
         },
         {
-          "t": 273934,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 274558,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 275854,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 277814,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 279731,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 280399,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 281691,
-          "id": 36949,
-          "name": "Wind's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283654,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285573,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287534,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 289456,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 291373,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 293333,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295295,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 297215,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299136,
-          "id": 25767,
-          "name": "Shadow of the Destroyer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299805,
-          "id": 16474,
-          "name": "Enlightenment",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002545.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 301099,
-          "id": 16473,
-          "name": "Four-Point Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002544.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303060,
-          "id": 70,
-          "name": "Rockbreaker",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002529.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 304976,
-          "id": 25767,
-          "name": "Shadow of the Destroyer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 306934,
-          "id": 16473,
-          "name": "Four-Point Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002544.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 308897,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 310012,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 310814,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 312734,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 314695,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 315365,
+          "t": 138351,
           "id": 69,
           "name": "Perfect Balance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
@@ -27564,71 +26636,7 @@
           "type": "ability"
         },
         {
-          "t": 315988,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316611,
-          "id": 25767,
-          "name": "Shadow of the Destroyer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 318571,
-          "id": 25767,
-          "name": "Shadow of the Destroyer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 320487,
-          "id": 25767,
-          "name": "Shadow of the Destroyer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 322493,
-          "id": 25769,
-          "name": "Phantom Rush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 324410,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 326328,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 328246,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 330208,
+          "t": 139065,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -27636,7 +26644,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 330832,
+          "t": 139692,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -27644,23 +26652,71 @@
           "type": "ability"
         },
         {
-          "t": 332170,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
+          "t": 140986,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 336046,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "t": 141834,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 142905,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 337965,
+          "t": 144866,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 145490,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 146784,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 147408,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 148745,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 150660,
           "id": 36947,
           "name": "Pouncing Coeurl",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
@@ -27668,7 +26724,431 @@
           "type": "weaponskill"
         },
         {
-          "t": 338635,
+          "t": 151373,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 152621,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154582,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 156499,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 158462,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 160382,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162346,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 164267,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 166228,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 168149,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 170112,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172031,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 173993,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174752,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 175913,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 177879,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 179796,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181759,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182427,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183724,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185643,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 186628,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 187607,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 189523,
+          "id": 25768,
+          "name": "Rising Phoenix",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190191,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191484,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 193491,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 195407,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 196344,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 197325,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 199242,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 201160,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 201964,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 203122,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 205043,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207008,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 208928,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 209552,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 210890,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 212805,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214768,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 216689,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217892,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 218652,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220570,
+          "id": 36949,
+          "name": "Wind's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 222537,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225344,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 227261,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229179,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 231093,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 231715,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 233670,
+          "id": 16476,
+          "name": "Six-Sided Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 238467,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 239355,
           "id": 7542,
           "name": "Bloodbath",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
@@ -27676,39 +27156,7 @@
           "type": "ability"
         },
         {
-          "t": 339926,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341845,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 343855,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 344972,
-          "id": 25762,
-          "name": "Thunderclap",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 345775,
+          "t": 240378,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -27716,119 +27164,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 347692,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 348317,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 350101,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 351173,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 351752,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 353087,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 355008,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356922,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 358884,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 360800,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 362761,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 363385,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364679,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 365348,
-          "id": 34603666,
-          "name": "Grade 4 Gemdraught of Strength [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 365972,
+          "t": 241001,
           "id": 69,
           "name": "Perfect Balance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
@@ -27836,23 +27172,31 @@
           "type": "ability"
         },
         {
-          "t": 366686,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "t": 242293,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 368603,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "t": 244245,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 369229,
+          "t": 246161,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246831,
           "id": 7396,
           "name": "Brotherhood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
@@ -27860,15 +27204,7 @@
           "type": "ability"
         },
         {
-          "t": 370523,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 371679,
+          "t": 247545,
           "id": 7395,
           "name": "Riddle of Fire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
@@ -27876,63 +27212,7 @@
           "type": "ability"
         },
         {
-          "t": 372484,
-          "id": 25768,
-          "name": "Rising Phoenix",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 373107,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 373778,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 374402,
-          "id": 36949,
-          "name": "Wind's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 375027,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 376365,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 376987,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 378279,
+          "t": 248258,
           "id": 36950,
           "name": "Fire's Reply",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
@@ -27940,7 +27220,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 380198,
+          "t": 250177,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -27948,15 +27228,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 380866,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381491,
+          "t": 250756,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -27964,231 +27236,7 @@
           "type": "ability"
         },
         {
-          "t": 382158,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384118,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384744,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 386034,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 387997,
-          "id": 36948,
-          "name": "Elixir Burst",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 388621,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 389916,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 391878,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 393794,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 395760,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 396384,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397678,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399640,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 401515,
-          "id": 65,
-          "name": "Mantra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403519,
-          "id": 36942,
-          "name": "Forbidden Meditation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 404544,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 406462,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407087,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 408423,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 410342,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 412299,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 412921,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 414259,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416175,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 418133,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420094,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 422007,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 423919,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 425880,
+          "t": 252135,
           "id": 25769,
           "name": "Phantom Rush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
@@ -28196,55 +27244,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 427793,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 429749,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 431666,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 432867,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 433622,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 435583,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 436252,
+          "t": 252801,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -28252,7 +27252,7 @@
           "type": "ability"
         },
         {
-          "t": 437543,
+          "t": 254046,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -28260,247 +27260,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 439460,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 441374,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 443337,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 445251,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 447256,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 449170,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 449839,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451136,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 452252,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 453056,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 454976,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 456893,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458857,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 460776,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 462781,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 463358,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 464026,
-          "id": 25766,
-          "name": "Riddle of Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 464692,
-          "id": 36949,
-          "name": "Wind's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 466609,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468567,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 470481,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 472485,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 474402,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 476318,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 477477,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 478235,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 480194,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 482155,
-          "id": 61,
-          "name": "Twin Snakes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 484111,
-          "id": 36947,
-          "name": "Pouncing Coeurl",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486024,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486647,
+          "t": 254669,
           "id": 69,
           "name": "Perfect Balance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
@@ -28508,111 +27268,7 @@
           "type": "ability"
         },
         {
-          "t": 487981,
-          "id": 66,
-          "name": "Demolish",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 489228,
-          "id": 7396,
-          "name": "Brotherhood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 489896,
-          "id": 16476,
-          "name": "Six-Sided Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491810,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492656,
-          "id": 25762,
-          "name": "Thunderclap",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 493812,
-          "id": 36946,
-          "name": "Rising Raptor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 494970,
-          "id": 7395,
-          "name": "Riddle of Fire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 495728,
-          "id": 36945,
-          "name": "Leaping Opo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 496398,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497024,
-          "id": 65,
-          "name": "Mantra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497736,
-          "id": 25768,
-          "name": "Rising Phoenix",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 498626,
-          "id": 3547,
-          "name": "The Forbidden Chakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499650,
-          "id": 36950,
-          "name": "Fire's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 500275,
+          "t": 255291,
           "id": 7394,
           "name": "Riddle of Earth",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002537.png",
@@ -28620,31 +27276,7 @@
           "type": "ability"
         },
         {
-          "t": 501565,
-          "id": 74,
-          "name": "Dragon Kick",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502189,
-          "id": 36944,
-          "name": "Earth's Reply",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002549.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 502855,
-          "id": 69,
-          "name": "Perfect Balance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 503478,
+          "t": 255960,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
@@ -28652,7 +27284,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 504146,
+          "t": 256630,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257870,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 258492,
           "id": 3547,
           "name": "The Forbidden Chakra",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
@@ -28660,7 +27308,31 @@
           "type": "ability"
         },
         {
-          "t": 505436,
+          "t": 259830,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 260584,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 261743,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263703,
           "id": 74,
           "name": "Dragon Kick",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
@@ -28668,12 +27340,1372 @@
           "type": "weaponskill"
         },
         {
-          "t": 507394,
+          "t": 264858,
+          "id": 36944,
+          "name": "Earth's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002549.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 265750,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 267667,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268291,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 269586,
           "id": 36945,
           "name": "Leaping Opo",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
           "gcd": true,
           "type": "weaponskill"
+        },
+        {
+          "t": 271501,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272078,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 273411,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 275331,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277288,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279212,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 281174,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 283131,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 285041,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287002,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 288918,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 290881,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 291593,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292839,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294749,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296714,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 298625,
+          "id": 25767,
+          "name": "Shadow of the Destroyer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 300583,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302543,
+          "id": 70,
+          "name": "Rockbreaker",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002529.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 304457,
+          "id": 25767,
+          "name": "Shadow of the Destroyer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305080,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 306414,
+          "id": 25767,
+          "name": "Shadow of the Destroyer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002979.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307529,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308374,
+          "id": 70,
+          "name": "Rockbreaker",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002529.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 309041,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 309663,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 310422,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 312381,
+          "id": 25768,
+          "name": "Rising Phoenix",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 314295,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 316207,
+          "id": 36949,
+          "name": "Wind's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 318121,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 320036,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 321992,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 323950,
+          "id": 70,
+          "name": "Rockbreaker",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002529.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 326307,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328219,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330219,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332132,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332801,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 334045,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336000,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 337912,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339872,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341873,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 343786,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345696,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347653,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 349566,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 350188,
+          "id": 7863,
+          "name": "Leg Sweep",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 351523,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 352503,
+          "id": 65,
+          "name": "Mantra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000216.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 353481,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 355435,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 356059,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 357350,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 359313,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361227,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361941,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 362519,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 363188,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365106,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367068,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367690,
+          "id": 7396,
+          "name": "Brotherhood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 368358,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 369069,
+          "id": 25769,
+          "name": "Phantom Rush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369649,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371029,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 372939,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 373561,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 374851,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 375429,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 376764,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 378720,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 379343,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 380676,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 381341,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382589,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 383302,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384548,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 386501,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 387121,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 388410,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389033,
+          "id": 7394,
+          "name": "Riddle of Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002537.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 390364,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 391208,
+          "id": 36944,
+          "name": "Earth's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002549.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 392318,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 394317,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 396224,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 396934,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 398222,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 400132,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 402175,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 403108,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404087,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 406041,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407996,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 409949,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 411946,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 413858,
+          "id": 36949,
+          "name": "Wind's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 415771,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417725,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419636,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 421593,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 424660,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 425904,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 427816,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428438,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429061,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429771,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431727,
+          "id": 25768,
+          "name": "Rising Phoenix",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002980.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 434932,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 436982,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438898,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 440898,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 442812,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 444727,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 446638,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 448552,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 450552,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452462,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 453175,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 454374,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 456289,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458252,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458964,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 460166,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 462127,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 464086,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 465999,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 467959,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 470004,
+          "id": 61,
+          "name": "Twin Snakes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000213.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471923,
+          "id": 16476,
+          "name": "Six-Sided Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002547.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475087,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 475803,
+          "id": 66,
+          "name": "Demolish",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000204.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 477718,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478786,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 479635,
+          "id": 36946,
+          "name": "Rising Raptor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002983.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 480305,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 481554,
+          "id": 36947,
+          "name": "Pouncing Coeurl",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002984.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483556,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 484179,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 485561,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487469,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488224,
+          "id": 7396,
+          "name": "Brotherhood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002542.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488846,
+          "id": 7395,
+          "name": "Riddle of Fire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002541.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 489558,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 490313,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491514,
+          "id": 36950,
+          "name": "Fire's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002987.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 492892,
+          "id": 25762,
+          "name": "Thunderclap",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002975.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 493560,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 494137,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 494715,
+          "id": 25766,
+          "name": "Riddle of Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002978.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495473,
+          "id": 25769,
+          "name": "Phantom Rush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002981.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 496094,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 497427,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 498050,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 499383,
+          "id": 36949,
+          "name": "Wind's Reply",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002986.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500006,
+          "id": 69,
+          "name": "Perfect Balance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 500716,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501292,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 501916,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 503251,
+          "id": 74,
+          "name": "Dragon Kick",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002528.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503874,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 505205,
+          "id": 36945,
+          "name": "Leaping Opo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002982.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 507119,
+          "id": 36948,
+          "name": "Elixir Burst",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002985.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 507785,
+          "id": 3547,
+          "name": "The Forbidden Chakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002535.png",
+          "gcd": false,
+          "type": "ability"
         }
       ]
     }
