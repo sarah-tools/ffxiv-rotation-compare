@@ -1,7 +1,7 @@
 {
   "encounterId": 101,
   "job": "BlackMage",
-  "lastUpdated": "2026-03-27T03:52:53.595Z",
+  "lastUpdated": "2026-03-29T03:57:54.932Z",
   "rankings": [
     {
       "rank": 1,
@@ -2217,7 +2217,6 @@
       "name": "Minty Chao",
       "server": "Adamantoise NA",
       "rDPS": 45832,
-      "aDPS": 47060,
       "nDPS": 45832,
       "duration": 484950,
       "reportCode": "Kg1NGpkZXaPxHRdr",
@@ -20686,29 +20685,29 @@
     },
     {
       "rank": 10,
-      "name": "Yui Hiwasawa",
-      "server": "Sargatanas NA",
-      "rDPS": 44610,
-      "aDPS": 46655,
-      "nDPS": 44610,
-      "duration": 518257,
-      "reportCode": "jKwyNx1Xdk4CJPFa",
-      "fightID": 1,
+      "name": "Riria White",
+      "server": "Tiamat JP",
+      "rDPS": 44632,
+      "aDPS": 47037,
+      "nDPS": 44632,
+      "duration": 512823,
+      "reportCode": "B81rMjan3gJvRhbw",
+      "fightID": 18,
       "dpsGiven": 0,
-      "dpsTaken": 1907,
+      "dpsTaken": 6800,
       "party": [
         "Paladin",
         "Warrior",
-        "WhiteMage",
-        "Sage",
-        "Viper",
-        "Bard",
-        "BlackMage",
-        "Summoner"
+        "Scholar",
+        "Astrologian",
+        "Monk",
+        "Samurai",
+        "Dancer",
+        "BlackMage"
       ],
       "timeline": [
         {
-          "t": 535,
+          "t": 0,
           "id": 152,
           "name": "Fire III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
@@ -20716,7 +20715,7 @@
           "type": "spell"
         },
         {
-          "t": 1158,
+          "t": 627,
           "id": 36986,
           "name": "High Thunder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
@@ -20724,7 +20723,15 @@
           "type": "spell"
         },
         {
-          "t": 1826,
+          "t": 1430,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 2098,
           "id": 25796,
           "name": "Amplifier",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
@@ -20732,15 +20739,7 @@
           "type": "ability"
         },
         {
-          "t": 2492,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 3559,
+          "t": 3035,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20748,7 +20747,7 @@
           "type": "spell"
         },
         {
-          "t": 4225,
+          "t": 3702,
           "id": 3573,
           "name": "Ley Lines",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
@@ -20756,7 +20755,23 @@
           "type": "ability"
         },
         {
-          "t": 5113,
+          "t": 5395,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 7401,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 8070,
           "id": 34603669,
           "name": "Grade 4 Gemdraught of Intelligence [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
@@ -20764,7 +20779,7 @@
           "type": "ability"
         },
         {
-          "t": 7115,
+          "t": 10481,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20772,7 +20787,7 @@
           "type": "spell"
         },
         {
-          "t": 9164,
+          "t": 12535,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20780,23 +20795,7 @@
           "type": "spell"
         },
         {
-          "t": 11209,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 13264,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 14199,
+          "t": 13468,
           "id": 16507,
           "name": "Xenoglossy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
@@ -20804,7 +20803,7 @@
           "type": "spell"
         },
         {
-          "t": 14870,
+          "t": 14135,
           "id": 158,
           "name": "Manafont",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
@@ -20812,7 +20811,7 @@
           "type": "ability"
         },
         {
-          "t": 17364,
+          "t": 16588,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20820,7 +20819,7 @@
           "type": "spell"
         },
         {
-          "t": 19455,
+          "t": 18594,
           "id": 36989,
           "name": "Flare Star",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
@@ -20828,7 +20827,7 @@
           "type": "spell"
         },
         {
-          "t": 21504,
+          "t": 20646,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20836,7 +20835,7 @@
           "type": "spell"
         },
         {
-          "t": 23557,
+          "t": 22650,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20844,7 +20843,7 @@
           "type": "spell"
         },
         {
-          "t": 25605,
+          "t": 24698,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20852,7 +20851,7 @@
           "type": "spell"
         },
         {
-          "t": 27968,
+          "t": 26966,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20860,7 +20859,7 @@
           "type": "spell"
         },
         {
-          "t": 30374,
+          "t": 29369,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20868,7 +20867,7 @@
           "type": "spell"
         },
         {
-          "t": 31356,
+          "t": 30392,
           "id": 36986,
           "name": "High Thunder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
@@ -20876,15 +20875,7 @@
           "type": "spell"
         },
         {
-          "t": 32200,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 33801,
+          "t": 34135,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -20892,7 +20883,7 @@
           "type": "spell"
         },
         {
-          "t": 36246,
+          "t": 36493,
           "id": 36989,
           "name": "Flare Star",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
@@ -20900,7 +20891,7 @@
           "type": "spell"
         },
         {
-          "t": 38651,
+          "t": 37472,
           "id": 16505,
           "name": "Despair",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
@@ -20908,7 +20899,15 @@
           "type": "spell"
         },
         {
-          "t": 39229,
+          "t": 38136,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 38806,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -20916,15 +20915,7 @@
           "type": "ability"
         },
         {
-          "t": 39895,
-          "id": 3573,
-          "name": "Ley Lines",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 41051,
+          "t": 39875,
           "id": 154,
           "name": "Blizzard III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
@@ -20932,31 +20923,7 @@
           "type": "spell"
         },
         {
-          "t": 44177,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 45112,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 45782,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 46408,
+          "t": 40632,
           "id": 7560,
           "name": "Addle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
@@ -20964,7 +20931,15 @@
           "type": "ability"
         },
         {
-          "t": 47166,
+          "t": 42236,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 44596,
           "id": 25797,
           "name": "Paradox",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
@@ -20972,79 +20947,7 @@
           "type": "spell"
         },
         {
-          "t": 49222,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 52391,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 54438,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 56535,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 58590,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 60639,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 63001,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 65413,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 66394,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 67017,
+          "t": 45263,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -21052,7 +20955,95 @@
           "type": "ability"
         },
         {
-          "t": 67687,
+          "t": 45932,
+          "id": 3573,
+          "name": "Ley Lines",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 46959,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 48965,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 51009,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 54128,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 56138,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 58187,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 60237,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 62240,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 64246,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 65181,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 65853,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -21060,39 +21051,7 @@
           "type": "ability"
         },
         {
-          "t": 69026,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 71478,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 75303,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 76328,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 77351,
+          "t": 66475,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -21100,79 +21059,15 @@
           "type": "ability"
         },
         {
-          "t": 78733,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "t": 67189,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 81132,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 84957,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 87360,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 89763,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 92205,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 93184,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 97005,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 99454,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 100477,
+          "t": 69551,
           "id": 36986,
           "name": "High Thunder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
@@ -21180,7 +21075,95 @@
           "type": "spell"
         },
         {
-          "t": 101591,
+          "t": 73336,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 74318,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 74988,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 76728,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 79093,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 82834,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 85196,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 87560,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 89918,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 92328,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 93308,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 94197,
           "id": 7421,
           "name": "Triplecast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
@@ -21188,7 +21171,15 @@
           "type": "ability"
         },
         {
-          "t": 102881,
+          "t": 95666,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 98075,
           "id": 36989,
           "name": "Flare Star",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
@@ -21196,7 +21187,7 @@
           "type": "spell"
         },
         {
-          "t": 105280,
+          "t": 100434,
           "id": 16505,
           "name": "Despair",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
@@ -21204,7 +21195,7 @@
           "type": "spell"
         },
         {
-          "t": 105903,
+          "t": 101101,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -21212,7 +21203,7 @@
           "type": "ability"
         },
         {
-          "t": 107686,
+          "t": 102791,
           "id": 154,
           "name": "Blizzard III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
@@ -21220,7 +21211,7 @@
           "type": "spell"
         },
         {
-          "t": 110091,
+          "t": 106581,
           "id": 3576,
           "name": "Blizzard IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
@@ -21228,7 +21219,7 @@
           "type": "spell"
         },
         {
-          "t": 112537,
+          "t": 107561,
           "id": 25797,
           "name": "Paradox",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
@@ -21236,7 +21227,7 @@
           "type": "spell"
         },
         {
-          "t": 113159,
+          "t": 108230,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -21244,15 +21235,7 @@
           "type": "ability"
         },
         {
-          "t": 114941,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 117343,
+          "t": 109923,
           "id": 16507,
           "name": "Xenoglossy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
@@ -21260,15 +21243,15 @@
           "type": "spell"
         },
         {
-          "t": 119745,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "t": 112326,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 122193,
+          "t": 114685,
           "id": 152,
           "name": "Fire III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
@@ -21276,7 +21259,39 @@
           "type": "spell"
         },
         {
-          "t": 122860,
+          "t": 115354,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 117047,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 119411,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 121771,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 122572,
           "id": 25796,
           "name": "Amplifier",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
@@ -21284,7 +21299,39 @@
           "type": "ability"
         },
         {
-          "t": 124241,
+          "t": 125560,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 127920,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 130282,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 131263,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 131885,
           "id": 3573,
           "name": "Ley Lines",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
@@ -21292,7 +21339,7 @@
           "type": "ability"
         },
         {
-          "t": 125985,
+          "t": 134737,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -21300,7 +21347,7 @@
           "type": "spell"
         },
         {
-          "t": 128039,
+          "t": 136783,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -21308,39 +21355,7 @@
           "type": "spell"
         },
         {
-          "t": 130096,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 132148,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 134206,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 136260,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 138317,
+          "t": 138832,
           "id": 36989,
           "name": "Flare Star",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
@@ -21348,7 +21363,7 @@
           "type": "spell"
         },
         {
-          "t": 139255,
+          "t": 139726,
           "id": 16505,
           "name": "Despair",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
@@ -21356,7 +21371,7 @@
           "type": "spell"
         },
         {
-          "t": 139880,
+          "t": 140350,
           "id": 158,
           "name": "Manafont",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
@@ -21364,7 +21379,7 @@
           "type": "ability"
         },
         {
-          "t": 141311,
+          "t": 141777,
           "id": 16507,
           "name": "Xenoglossy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
@@ -21372,1527 +21387,7 @@
           "type": "spell"
         },
         {
-          "t": 144478,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 146889,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 149301,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 150285,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 154127,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 155109,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 158953,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 161324,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 162309,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 162980,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 166156,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 167139,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 167767,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 168439,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 169513,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 173354,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 174382,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 175274,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 176792,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 179162,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 183010,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 185424,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 187840,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 190213,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 192671,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 193655,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 194503,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 196068,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 198525,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 200935,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 201560,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 203347,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 205758,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 208171,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 212015,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 212955,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 213983,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 215412,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 219250,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 221658,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 224069,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 226483,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 228855,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 229881,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 231355,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 232290,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 234735,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 237140,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 239537,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 241946,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 242614,
-          "id": 158,
-          "name": "Manafont",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244358,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 245030,
-          "id": 25796,
-          "name": "Amplifier",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 245656,
-          "id": 3573,
-          "name": "Ley Lines",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 246774,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 248827,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 252000,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 254052,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 256110,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 258167,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 260266,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 262274,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 264332,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 265270,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 265895,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 266565,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 267326,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 269736,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 270360,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 273576,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 274561,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 275544,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 276976,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 280820,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 283233,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 285639,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 288053,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 290469,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 292881,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 293864,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 295160,
-          "id": 34603669,
-          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 297705,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 298689,
-          "id": 7422,
-          "name": "Foul",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 301095,
-          "id": 7422,
-          "name": "Foul",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 303549,
-          "id": 7422,
-          "name": "Foul",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 305955,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 309784,
-          "id": 162,
-          "name": "Flare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 310405,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 312451,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 313477,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 315433,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 317480,
-          "id": 162,
-          "name": "Flare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 319883,
-          "id": 162,
-          "name": "Flare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 322334,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 323359,
-          "id": 7422,
-          "name": "Foul",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 323938,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 327193,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 328174,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 329195,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 330573,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 334403,
-          "id": 162,
-          "name": "Flare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 336809,
-          "id": 162,
-          "name": "Flare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 339221,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 340246,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 342658,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 343240,
-          "id": 158,
-          "name": "Manafont",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 345029,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 348877,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 351248,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 353707,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 356122,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 358535,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 360938,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 363346,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 364322,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 364990,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 365656,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 366769,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 367392,
-          "id": 3573,
-          "name": "Ley Lines",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 368059,
-          "id": 25796,
-          "name": "Amplifier",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 369170,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 372335,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 373269,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 374251,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375319,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 378520,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 380566,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 382612,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 383544,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 384657,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 386701,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 388790,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 391143,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 393549,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 394529,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 395195,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 395862,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 396974,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 399375,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 401779,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 404228,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 405298,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 406637,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 409047,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 411496,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 415331,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 417740,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 420145,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 421127,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 424961,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 427372,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 428353,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 430759,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 433209,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 435616,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 439443,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 440425,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 441362,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 442029,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 442829,
-          "id": 154,
-          "name": "Blizzard III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 446696,
-          "id": 3576,
-          "name": "Blizzard IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 447720,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 448475,
-          "id": 149,
-          "name": "Transpose",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 450120,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 452563,
-          "id": 152,
-          "name": "Fire III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 456385,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 458786,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 459766,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 460833,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 462168,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 464570,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 467017,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 469416,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 473247,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 475693,
-          "id": 36989,
-          "name": "Flare Star",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 476717,
-          "id": 16505,
-          "name": "Despair",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 477294,
-          "id": 158,
-          "name": "Manafont",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 479120,
-          "id": 25797,
-          "name": "Paradox",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 480185,
-          "id": 7421,
-          "name": "Triplecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 481517,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 483919,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 486319,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 488762,
-          "id": 36986,
-          "name": "High Thunder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 489697,
-          "id": 25796,
-          "name": "Amplifier",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 491167,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 493078,
-          "id": 3573,
-          "name": "Ley Lines",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494811,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 496856,
-          "id": 3577,
-          "name": "Fire IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 497836,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 498459,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499126,
+          "t": 142448,
           "id": 157,
           "name": "Manaward",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000463.png",
@@ -22900,7 +21395,7 @@
           "type": "ability"
         },
         {
-          "t": 500992,
+          "t": 144902,
           "id": 3577,
           "name": "Fire IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
@@ -22908,7 +21403,71 @@
           "type": "spell"
         },
         {
-          "t": 503038,
+          "t": 146909,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 147802,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 148470,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 149853,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 152973,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 155289,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 157649,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 160016,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162376,
           "id": 36989,
           "name": "Flare Star",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
@@ -22916,7 +21475,7 @@
           "type": "spell"
         },
         {
-          "t": 503972,
+          "t": 163447,
           "id": 16505,
           "name": "Despair",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
@@ -22924,7 +21483,15 @@
           "type": "spell"
         },
         {
-          "t": 504639,
+          "t": 164115,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 164786,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -22932,23 +21499,23 @@
           "type": "ability"
         },
         {
-          "t": 505307,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 506020,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "t": 165813,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 508108,
+          "t": 169562,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 170543,
           "id": 25797,
           "name": "Paradox",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
@@ -22956,7 +21523,7 @@
           "type": "spell"
         },
         {
-          "t": 509711,
+          "t": 171302,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -22964,7 +21531,7 @@
           "type": "ability"
         },
         {
-          "t": 510334,
+          "t": 172905,
           "id": 152,
           "name": "Fire III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
@@ -22972,15 +21539,87 @@
           "type": "spell"
         },
         {
-          "t": 512734,
-          "id": 16507,
-          "name": "Xenoglossy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "t": 176654,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 515182,
+          "t": 179015,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 179995,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 183780,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 186143,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 188505,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 190869,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 191895,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 192607,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194299,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 196661,
           "id": 16505,
           "name": "Despair",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
@@ -22988,7 +21627,7 @@
           "type": "spell"
         },
         {
-          "t": 516339,
+          "t": 197283,
           "id": 149,
           "name": "Transpose",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
@@ -22996,10 +21635,1378 @@
           "type": "ability"
         },
         {
-          "t": 517584,
+          "t": 199020,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 201427,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 203791,
           "id": 25797,
           "name": "Paradox",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 204414,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 206150,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 209893,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 210873,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 214620,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 216979,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 219342,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 221747,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 222771,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 225131,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 228876,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 231236,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 232260,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 232880,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 233505,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 234615,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 237018,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 239380,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 241739,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 244099,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 244770,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 245528,
+          "id": 25796,
+          "name": "Amplifier",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246462,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 250202,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 252614,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 253600,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 254264,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257337,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 259698,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 262100,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 264462,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 266822,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 267802,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 270204,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 272564,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 273234,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 273900,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 274971,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 278709,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 279690,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 280360,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282099,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 285842,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 288201,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 290607,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 292969,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 295327,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 296307,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 297020,
+          "id": 34603669,
+          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 298716,
+          "id": 7422,
+          "name": "Foul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 299384,
+          "id": 3573,
+          "name": "Ley Lines",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 301076,
+          "id": 7422,
+          "name": "Foul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 301745,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 303082,
+          "id": 7422,
+          "name": "Foul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 305132,
+          "id": 162,
+          "name": "Flare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 307134,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 307803,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 309185,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 311189,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313191,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313815,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 316353,
+          "id": 162,
+          "name": "Flare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 318317,
+          "id": 162,
+          "name": "Flare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 320410,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 321304,
+          "id": 7422,
+          "name": "Foul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 322106,
+          "id": 158,
+          "name": "Manafont",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 323669,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 327454,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 329816,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 332178,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 334542,
+          "id": 162,
+          "name": "Flare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002652.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 336946,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 337967,
+          "id": 7422,
+          "name": "Foul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002664.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 340331,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 340998,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 341711,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342692,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 346436,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 347417,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 348308,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 349778,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353562,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 355926,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 358284,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 360691,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 363055,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 365414,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 366439,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 367062,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 367776,
+          "id": 25796,
+          "name": "Amplifier",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 368802,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 369469,
+          "id": 3573,
+          "name": "Ley Lines",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371160,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 374325,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 375215,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 375973,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 376642,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 377266,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 379315,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381319,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 383325,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 384214,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 385372,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 387376,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 390540,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 391432,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 395217,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 397577,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 399935,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 400959,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 404700,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 407059,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 408084,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 408753,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 409375,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 410444,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 411111,
+          "id": 157,
+          "name": "Manaward",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000463.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 414180,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 415159,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 415872,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 417564,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 421308,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 422332,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 426071,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 428431,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 430788,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 431811,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 435556,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 437919,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 440323,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 441303,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 442237,
+          "id": 158,
+          "name": "Manafont",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002651.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 445044,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 447627,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 449985,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 452391,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 454752,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 457114,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 459475,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 460497,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 462904,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 464150,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465262,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 466463,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 467664,
+          "id": 154,
+          "name": "Blizzard III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000456.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 470021,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 472380,
+          "id": 3576,
+          "name": "Blizzard IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002659.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 474740,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 475364,
+          "id": 149,
+          "name": "Transpose",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000466.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 477144,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 479500,
+          "id": 25797,
+          "name": "Paradox",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002672.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 480168,
+          "id": 7421,
+          "name": "Triplecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002663.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 481858,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 484219,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 486623,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 488976,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 491341,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 492008,
+          "id": 25796,
+          "name": "Amplifier",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002671.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 493747,
+          "id": 36986,
+          "name": "High Thunder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002673.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 494772,
+          "id": 3573,
+          "name": "Ley Lines",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002656.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495441,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 497224,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 499231,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 501280,
+          "id": 3577,
+          "name": "Fire IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002660.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 503281,
+          "id": 36989,
+          "name": "Flare Star",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002151.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 504219,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 506223,
+          "id": 16507,
+          "name": "Xenoglossy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002667.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 508273,
+          "id": 16505,
+          "name": "Despair",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002665.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 510632,
+          "id": 152,
+          "name": "Fire III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000453.png",
           "gcd": true,
           "type": "spell"
         }
