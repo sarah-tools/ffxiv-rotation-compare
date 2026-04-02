@@ -1,7 +1,7 @@
 {
   "encounterId": 105,
   "job": "Bard",
-  "lastUpdated": "2026-03-30T04:17:51.597Z",
+  "lastUpdated": "2026-04-02T03:53:44.439Z",
   "rankings": [
     {
       "rank": 1,
@@ -6203,7 +6203,7 @@
       "server": "Gilgamesh NA",
       "rDPS": 42343,
       "aDPS": 35706,
-      "nDPS": 31842,
+      "nDPS": 32049,
       "duration": 511069,
       "reportCode": "CJWymLazNqGnFHZv",
       "fightID": 47,
@@ -28085,29 +28085,37 @@
     },
     {
       "rank": 10,
-      "name": "Sakura Fleur",
-      "server": "Carbuncle JP",
-      "rDPS": 41602,
-      "aDPS": 35012,
-      "nDPS": 31486,
-      "duration": 509194,
-      "reportCode": "CQRzNrH3na9XwAY1",
-      "fightID": 38,
-      "dpsGiven": 10090,
-      "dpsTaken": 3517,
+      "name": "Rie Mir",
+      "server": "Leviathan NA",
+      "rDPS": 41704,
+      "aDPS": 33936,
+      "nDPS": 31571,
+      "duration": 516621,
+      "reportCode": "FnQKXCb4rWvJh2Yf",
+      "fightID": 103,
+      "dpsGiven": 10200,
+      "dpsTaken": 2440,
       "party": [
         "Paladin",
         "DarkKnight",
+        "WhiteMage",
         "Scholar",
-        "Astrologian",
-        "Monk",
+        "Dragoon",
         "Ninja",
         "Bard",
         "Pictomancer"
       ],
       "timeline": [
         {
-          "t": 1292,
+          "t": 312,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 1026,
           "id": 7407,
           "name": "Stormbite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002614.png",
@@ -28115,7 +28123,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 1963,
+          "t": 1650,
           "id": 3559,
           "name": "The Wanderer's Minuet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
@@ -28123,7 +28131,7 @@
           "type": "ability"
         },
         {
-          "t": 2632,
+          "t": 2497,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -28131,7 +28139,7 @@
           "type": "ability"
         },
         {
-          "t": 3744,
+          "t": 3479,
           "id": 7406,
           "name": "Caustic Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002613.png",
@@ -28139,15 +28147,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 4458,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6198,
+          "t": 5665,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -28155,63 +28155,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 6823,
-          "id": 118,
-          "name": "Battle Voice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 7538,
-          "id": 25785,
-          "name": "Radiant Finale",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8204,
-          "id": 101,
-          "name": "Raging Strikes",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8872,
-          "id": 36977,
-          "name": "Radiant Encore",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 9542,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10257,
-          "id": 107,
-          "name": "Barrage",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11370,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 11994,
+          "t": 6869,
           "id": 7405,
           "name": "Troubadour",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
@@ -28219,7 +28163,63 @@
           "type": "ability"
         },
         {
-          "t": 12617,
+          "t": 7850,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 8693,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10031,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 10699,
+          "id": 118,
+          "name": "Battle Voice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11324,
+          "id": 25785,
+          "name": "Radiant Finale",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12216,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 12888,
+          "id": 101,
+          "name": "Raging Strikes",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13556,
           "id": 3562,
           "name": "Sidewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
@@ -28227,271 +28227,7 @@
           "type": "ability"
         },
         {
-          "t": 13373,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14045,
-          "id": 36976,
-          "name": "Resonant Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 14756,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 16537,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 17382,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18094,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19072,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 19784,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 21523,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 24019,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 26513,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 27135,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 29007,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 31542,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 33057,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 34035,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 34705,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 35416,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 36532,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 39025,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 40363,
-          "id": 7408,
-          "name": "Nature's Minne",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002615.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 41521,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 44060,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 44682,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 45308,
-          "id": 114,
-          "name": "Mage's Ballad",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 46510,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48072,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 49008,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 49720,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 51503,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 53998,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56539,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 57341,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 59034,
+          "t": 14761,
           "id": 16496,
           "name": "Apex Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
@@ -28499,7 +28235,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 61486,
+          "t": 15519,
+          "id": 107,
+          "name": "Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16100,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17216,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 17887,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18557,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 19718,
           "id": 25784,
           "name": "Blast Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
@@ -28507,7 +28283,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 62111,
+          "t": 20388,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -28515,55 +28291,31 @@
           "type": "ability"
         },
         {
-          "t": 63091,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "t": 21056,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 63985,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "t": 22215,
+          "id": 36977,
+          "name": "Radiant Encore",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 64609,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 65276,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 66524,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 24711,
+          "id": 36976,
+          "name": "Resonant Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 67194,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 69064,
+          "t": 27206,
           "id": 3560,
           "name": "Iron Jaws",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
@@ -28571,7 +28323,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 71513,
+          "t": 29705,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28579,7 +28331,255 @@
           "type": "weaponskill"
         },
         {
-          "t": 72626,
+          "t": 31129,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 32242,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 32912,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 33538,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 34742,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 37237,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38575,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 39734,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 42273,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 44365,
+          "id": 114,
+          "name": "Mage's Ballad",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 44986,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 46190,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 47527,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 48730,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 49488,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 50069,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 52567,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 53545,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 55062,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 57601,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 58358,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 60098,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 61122,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 62634,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63882,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 65129,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66020,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67623,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 68829,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70077,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 72621,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 74095,
           "id": 3562,
           "name": "Sidewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
@@ -28587,7 +28587,15 @@
           "type": "ability"
         },
         {
-          "t": 73251,
+          "t": 75076,
+          "id": 16496,
+          "name": "Apex Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 75877,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -28595,23 +28603,23 @@
           "type": "ability"
         },
         {
-          "t": 74008,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 77574,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 76457,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 78288,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 78151,
+          "t": 78914,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -28619,15 +28627,15 @@
           "type": "ability"
         },
         {
-          "t": 78957,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 80072,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 79625,
+          "t": 80742,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -28635,7 +28643,7 @@
           "type": "ability"
         },
         {
-          "t": 81452,
+          "t": 82571,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28643,7 +28651,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 82165,
+          "t": 83732,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -28651,7 +28659,7 @@
           "type": "ability"
         },
         {
-          "t": 83994,
+          "t": 85068,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28659,23 +28667,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 84660,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 86483,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 87821,
+          "t": 86895,
           "id": 116,
           "name": "Army's Paeon",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
@@ -28683,7 +28675,15 @@
           "type": "ability"
         },
         {
-          "t": 88981,
+          "t": 87562,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 90100,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28691,15 +28691,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 89785,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 91480,
+          "t": 92586,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28707,7 +28699,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 93130,
+          "t": 94059,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -28715,7 +28707,39 @@
           "type": "ability"
         },
         {
-          "t": 93846,
+          "t": 95081,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 97624,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 99943,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 102219,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104406,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -28723,7 +28747,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 96073,
+          "t": 106591,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28731,7 +28755,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 98257,
+          "t": 108688,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -28739,47 +28763,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 100349,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102531,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104626,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 106716,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 108807,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 109518,
+          "t": 109535,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -28787,7 +28771,15 @@
           "type": "ability"
         },
         {
-          "t": 110902,
+          "t": 110828,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 112924,
           "id": 3560,
           "name": "Iron Jaws",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
@@ -28795,7 +28787,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 112995,
+          "t": 115022,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -28803,7 +28795,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 115045,
+          "t": 117167,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28811,23 +28803,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 117228,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 119280,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 121373,
+          "t": 119311,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -28835,7 +28811,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 122039,
+          "t": 121363,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 123498,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 125103,
           "id": 3559,
           "name": "The Wanderer's Minuet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
@@ -28843,7 +28835,31 @@
           "type": "ability"
         },
         {
-          "t": 122705,
+          "t": 125902,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 126614,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 128086,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 128838,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -28851,7 +28867,7 @@
           "type": "ability"
         },
         {
-          "t": 123461,
+          "t": 130260,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28859,31 +28875,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 124709,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125645,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 126358,
-          "id": 25785,
-          "name": "Radiant Finale",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127028,
+          "t": 132263,
           "id": 118,
           "name": "Battle Voice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
@@ -28891,7 +28883,15 @@
           "type": "ability"
         },
         {
-          "t": 127831,
+          "t": 132888,
+          "id": 25785,
+          "name": "Radiant Finale",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133512,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -28899,15 +28899,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 128454,
-          "id": 7405,
-          "name": "Troubadour",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 129212,
+          "t": 134358,
           "id": 101,
           "name": "Raging Strikes",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
@@ -28915,207 +28907,7 @@
           "type": "ability"
         },
         {
-          "t": 130015,
-          "id": 16496,
-          "name": "Apex Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 130726,
-          "id": 107,
-          "name": "Barrage",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132241,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 132952,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133623,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134335,
-          "id": 3562,
-          "name": "Sidewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134961,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135583,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 137498,
-          "id": 36976,
-          "name": "Resonant Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 138211,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140040,
-          "id": 36977,
-          "name": "Radiant Encore",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 140751,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141464,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142532,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 145025,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147475,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 148590,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 149970,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 150683,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 152468,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154965,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 155723,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 156391,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 157506,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 159958,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160625,
+          "t": 135026,
           "id": 7408,
           "name": "Nature's Minne",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002615.png",
@@ -29123,103 +28915,7 @@
           "type": "ability"
         },
         {
-          "t": 162450,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163657,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 164947,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 165570,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 166238,
-          "id": 114,
-          "name": "Mage's Ballad",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 167485,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 169940,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170742,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 171365,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 172437,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 173106,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 174932,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 177473,
+          "t": 135735,
           "id": 16496,
           "name": "Apex Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
@@ -29227,111 +28923,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 178315,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 179966,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182459,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 183084,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 184953,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 185754,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186424,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 187448,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 188158,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 189940,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 192439,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 193329,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 194935,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 195604,
+          "t": 136579,
           "id": 3562,
           "name": "Sidewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
@@ -29339,23 +28931,15 @@
           "type": "ability"
         },
         {
-          "t": 197429,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 198143,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "t": 137203,
+          "id": 107,
+          "name": "Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 199927,
+          "t": 138269,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -29363,7 +28947,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 200772,
+          "t": 139025,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139737,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 140761,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 141607,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -29371,7 +28979,7 @@
           "type": "ability"
         },
         {
-          "t": 201441,
+          "t": 142320,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -29379,15 +28987,15 @@
           "type": "ability"
         },
         {
-          "t": 202422,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 143256,
+          "id": 36977,
+          "name": "Radiant Encore",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 203802,
+          "t": 143922,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -29395,15 +29003,23 @@
           "type": "ability"
         },
         {
-          "t": 204560,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
+          "t": 144546,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 205317,
+          "t": 145746,
+          "id": 36976,
+          "name": "Resonant Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148241,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29411,111 +29027,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 207810,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 209060,
-          "id": 116,
-          "name": "Army's Paeon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 210308,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212802,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 213472,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 215167,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 215837,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 217483,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219667,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 221762,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223857,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 225908,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227999,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 230094,
+          "t": 150778,
           "id": 3560,
           "name": "Iron Jaws",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
@@ -29523,7 +29035,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 230848,
+          "t": 153269,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 153938,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 154564,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 155188,
+          "id": 7405,
+          "name": "Troubadour",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 155858,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157240,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -29531,7 +29083,23 @@
           "type": "ability"
         },
         {
-          "t": 232230,
+          "t": 158445,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 159512,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 160895,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -29539,7 +29107,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 234325,
+          "t": 163387,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29547,7 +29115,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 236418,
+          "t": 165922,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29555,23 +29123,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 238512,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 167618,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 240607,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 168243,
+          "id": 114,
+          "name": "Mage's Ballad",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 242702,
+          "t": 168955,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -29579,7 +29147,407 @@
           "type": "weaponskill"
         },
         {
-          "t": 243461,
+          "t": 169578,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 171448,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172296,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 173899,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174790,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 176438,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 177553,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 178889,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181428,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 183922,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 184546,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186463,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187580,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 188918,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190338,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191407,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192562,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193941,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 196435,
+          "id": 16496,
+          "name": "Apex Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197414,
+          "id": 3562,
+          "name": "Sidewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 198969,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 199684,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 201421,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202088,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 202711,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 203960,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 204583,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 206453,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207523,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 208991,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 210726,
+          "id": 116,
+          "name": "Army's Paeon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 211484,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 213977,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 216335,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217756,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 218735,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220954,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223134,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225317,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 227411,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229504,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 231597,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 232757,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 233690,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 235783,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237878,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 240012,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242063,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243220,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 244153,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246201,
           "id": 3559,
           "name": "The Wanderer's Minuet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
@@ -29587,7 +29555,7 @@
           "type": "ability"
         },
         {
-          "t": 244797,
+          "t": 246866,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29595,7 +29563,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 245822,
+          "t": 247977,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -29603,7 +29571,7 @@
           "type": "ability"
         },
         {
-          "t": 246980,
+          "t": 249091,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29611,7 +29579,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 247692,
+          "t": 251270,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 253715,
           "id": 118,
           "name": "Battle Voice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
@@ -29619,7 +29595,7 @@
           "type": "ability"
         },
         {
-          "t": 248314,
+          "t": 254295,
           "id": 25785,
           "name": "Radiant Finale",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
@@ -29627,7 +29603,7 @@
           "type": "ability"
         },
         {
-          "t": 249250,
+          "t": 254963,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -29635,7 +29611,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 249873,
+          "t": 255585,
           "id": 101,
           "name": "Raging Strikes",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
@@ -29643,39 +29619,7 @@
           "type": "ability"
         },
         {
-          "t": 250589,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 251436,
-          "id": 16496,
-          "name": "Apex Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 252194,
-          "id": 107,
-          "name": "Barrage",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253664,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 254330,
+          "t": 256254,
           "id": 7404,
           "name": "Pitch Perfect",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
@@ -29683,55 +29627,7 @@
           "type": "ability"
         },
         {
-          "t": 254998,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 256159,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256869,
-          "id": 3562,
-          "name": "Sidewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257537,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258649,
-          "id": 36976,
-          "name": "Resonant Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 260830,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 261453,
+          "t": 257276,
           "id": 36977,
           "name": "Radiant Encore",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
@@ -29739,367 +29635,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 262078,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 264041,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 266493,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267160,
-          "id": 7405,
-          "name": "Troubadour",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268985,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 269654,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 271481,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 273972,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 274596,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 275844,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 276557,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 279007,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 280121,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 281498,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 284041,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 286491,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287112,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 287737,
-          "id": 114,
-          "name": "Mage's Ballad",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 288987,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 290366,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 291481,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 292105,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 292730,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 293977,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 296476,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 297101,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 298974,
-          "id": 16496,
-          "name": "Apex Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 301472,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303963,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 304633,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 306460,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 307130,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308958,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 309937,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 311452,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 312075,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313945,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 315371,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316440,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 317065,
-          "id": 3562,
-          "name": "Sidewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318934,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 321433,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 322057,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 322727,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 323928,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 324551,
+          "t": 257898,
           "id": 7408,
           "name": "Nature's Minne",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002615.png",
@@ -30107,15 +29643,15 @@
           "type": "ability"
         },
         {
-          "t": 325220,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "t": 258565,
+          "id": 3562,
+          "name": "Sidewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 326423,
+          "t": 259764,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30123,7 +29659,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 328923,
+          "t": 260432,
+          "id": 107,
+          "name": "Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 261055,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262257,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30131,23 +29683,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 330928,
-          "id": 116,
-          "name": "Army's Paeon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 331596,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 332266,
+          "t": 262925,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -30155,23 +29691,15 @@
           "type": "ability"
         },
         {
-          "t": 334137,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 264754,
+          "id": 16496,
+          "name": "Apex Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 336498,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 337792,
+          "t": 265421,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -30179,63 +29707,23 @@
           "type": "ability"
         },
         {
-          "t": 338905,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341135,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 343230,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 345322,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 347412,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 348080,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
+          "t": 266042,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 349507,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 267242,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 350219,
+          "t": 267910,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -30243,7 +29731,15 @@
           "type": "ability"
         },
         {
-          "t": 351644,
+          "t": 269727,
+          "id": 36976,
+          "name": "Resonant Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272263,
           "id": 3560,
           "name": "Iron Jaws",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
@@ -30251,7 +29747,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 352760,
+          "t": 274751,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 275418,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 277240,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 278618,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 279771,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 280394,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -30259,7 +29795,23 @@
           "type": "ability"
         },
         {
-          "t": 353697,
+          "t": 281236,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282306,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284796,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30267,7 +29819,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 355792,
+          "t": 287284,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30275,7 +29827,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 357888,
+          "t": 288751,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 289374,
+          "id": 114,
+          "name": "Mage's Ballad",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 290262,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30283,7 +29851,199 @@
           "type": "weaponskill"
         },
         {
-          "t": 359985,
+          "t": 291285,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292755,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 295210,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 295877,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 296590,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 297703,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 298679,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 300235,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 301706,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 302731,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305222,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307713,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 308339,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 310204,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311183,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312739,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 313584,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315229,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 316694,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 317717,
+          "id": 16496,
+          "name": "Apex Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 318786,
+          "id": 3562,
+          "name": "Sidewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320211,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 321056,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 322701,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 325193,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30291,7 +30051,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 362080,
+          "t": 326172,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326971,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 327728,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30299,7 +30075,55 @@
           "type": "weaponskill"
         },
         {
-          "t": 363236,
+          "t": 330262,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 331553,
+          "id": 116,
+          "name": "Army's Paeon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 332752,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 335243,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 337640,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339953,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 340622,
           "id": 7405,
           "name": "Troubadour",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
@@ -30307,7 +30131,15 @@
           "type": "ability"
         },
         {
-          "t": 364169,
+          "t": 341334,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342224,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30315,7 +30147,111 @@
           "type": "weaponskill"
         },
         {
-          "t": 364839,
+          "t": 344319,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346412,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 348549,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 349929,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 350642,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 352737,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354829,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 356295,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 356964,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 359096,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361192,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363281,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365370,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367065,
           "id": 3559,
           "name": "The Wanderer's Minuet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
@@ -30323,7 +30259,31 @@
           "type": "ability"
         },
         {
-          "t": 366266,
+          "t": 367735,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369916,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 371297,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 372099,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30331,15 +30291,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 366978,
-          "id": 25785,
-          "name": "Radiant Finale",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 367737,
+          "t": 373793,
           "id": 118,
           "name": "Battle Voice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
@@ -30347,7 +30299,15 @@
           "type": "ability"
         },
         {
-          "t": 368541,
+          "t": 374372,
+          "id": 25785,
+          "name": "Radiant Finale",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 375040,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30355,15 +30315,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 369249,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 369918,
+          "t": 376023,
           "id": 101,
           "name": "Raging Strikes",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
@@ -30371,79 +30323,7 @@
           "type": "ability"
         },
         {
-          "t": 370722,
-          "id": 16496,
-          "name": "Apex Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 371389,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 372102,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 372947,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 373703,
-          "id": 107,
-          "name": "Barrage",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 374463,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375127,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 377579,
-          "id": 36976,
-          "name": "Resonant Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378201,
-          "id": 3562,
-          "name": "Sidewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380117,
+          "t": 377225,
           "id": 36977,
           "name": "Radiant Encore",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
@@ -30451,7 +30331,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 380741,
+          "t": 377938,
           "id": 7404,
           "name": "Pitch Perfect",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
@@ -30459,7 +30339,7 @@
           "type": "ability"
         },
         {
-          "t": 381676,
+          "t": 378563,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -30467,223 +30347,7 @@
           "type": "ability"
         },
         {
-          "t": 382608,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384258,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 385104,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 386620,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 387646,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 390143,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 392636,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 395129,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 395799,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 396513,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397584,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399233,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400082,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 402581,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 404363,
-          "id": 7404,
-          "name": "Pitch Perfect",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 405078,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407618,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 408330,
-          "id": 114,
-          "name": "Mage's Ballad",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 410111,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 411092,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 412566,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414215,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 415059,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 415817,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 417511,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420053,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420764,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 422547,
+          "t": 379718,
           "id": 16496,
           "name": "Apex Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
@@ -30691,87 +30355,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 425087,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 426112,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "t": 380519,
+          "id": 107,
+          "name": "Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 427538,
-          "id": 3560,
-          "name": "Iron Jaws",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 429188,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 430035,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 430794,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 432531,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 433688,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 435067,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 437561,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 438227,
+          "t": 381143,
           "id": 3562,
           "name": "Sidewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
@@ -30779,23 +30371,7 @@
           "type": "ability"
         },
         {
-          "t": 440054,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 440721,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 442595,
+          "t": 382254,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30803,7 +30379,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 444290,
+          "t": 382922,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 383947,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384750,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385907,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 386576,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -30811,15 +30419,15 @@
           "type": "ability"
         },
         {
-          "t": 445047,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 387243,
+          "id": 36976,
+          "name": "Resonant Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 445757,
+          "t": 387911,
           "id": 7408,
           "name": "Nature's Minne",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002615.png",
@@ -30827,23 +30435,7 @@
           "type": "ability"
         },
         {
-          "t": 446423,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 447539,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 450036,
+          "t": 389736,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30851,95 +30443,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 450660,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451330,
-          "id": 116,
-          "name": "Army's Paeon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 452529,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 455022,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 456093,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 457432,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 459258,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 460014,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 462289,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 464558,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 466829,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469102,
+          "t": 392269,
           "id": 3560,
           "name": "Iron Jaws",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
@@ -30947,15 +30451,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 470038,
-          "id": 7405,
-          "name": "Troubadour",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
+          "t": 392893,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 471285,
+          "t": 394093,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 394761,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30963,7 +30475,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 473469,
+          "t": 397249,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30971,7 +30483,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 474228,
+          "t": 399739,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 400537,
+          "id": 3561,
+          "name": "The Warden's Paean",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002609.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 401163,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 402227,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 402980,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -30979,7 +30523,7 @@
           "type": "ability"
         },
         {
-          "t": 475651,
+          "t": 404760,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -30987,7 +30531,63 @@
           "type": "weaponskill"
         },
         {
-          "t": 477744,
+          "t": 407695,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 408362,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 409743,
+          "id": 7404,
+          "name": "Pitch Perfect",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 410546,
+          "id": 114,
+          "name": "Mage's Ballad",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002602.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 411214,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 411973,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 413706,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 416194,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -30995,7 +30595,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 479837,
+          "t": 416818,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 417976,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 418689,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -31003,7 +30619,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 481931,
+          "t": 419357,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 421184,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -31011,7 +30635,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 484072,
+          "t": 423677,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -31019,7 +30643,351 @@
           "type": "weaponskill"
         },
         {
-          "t": 484738,
+          "t": 424702,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 426174,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428672,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 429296,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 431165,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431832,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 433035,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 433658,
+          "id": 16496,
+          "name": "Apex Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 434815,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 436152,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438687,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 439886,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 441218,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 442416,
+          "id": 3562,
+          "name": "Sidewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 443703,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 444950,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 446197,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 448021,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 448733,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 449934,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 451223,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452869,
+          "id": 116,
+          "name": "Army's Paeon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002603.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 453715,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 456244,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458603,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 461002,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 463310,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 463976,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465486,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 467663,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 469753,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471804,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473894,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 476031,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478123,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 479412,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 480214,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 482349,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 484441,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 486532,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488002,
+          "id": 3559,
+          "name": "The Wanderer's Minuet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488758,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 490980,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491649,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -31027,15 +30995,7 @@
           "type": "ability"
         },
         {
-          "t": 485361,
-          "id": 3559,
-          "name": "The Wanderer's Minuet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002607.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 486163,
+          "t": 493164,
           "id": 16495,
           "name": "Burst Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
@@ -31043,15 +31003,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 486921,
-          "id": 25785,
-          "name": "Radiant Finale",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 487766,
+          "t": 493964,
           "id": 118,
           "name": "Battle Voice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002601.png",
@@ -31059,15 +31011,23 @@
           "type": "ability"
         },
         {
-          "t": 488434,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "t": 494719,
+          "id": 25785,
+          "name": "Radiant Finale",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495386,
+          "id": 7409,
+          "name": "Refulgent Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 489905,
+          "t": 496277,
           "id": 101,
           "name": "Raging Strikes",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000352.png",
@@ -31075,7 +31035,7 @@
           "type": "ability"
         },
         {
-          "t": 490616,
+          "t": 497611,
           "id": 16496,
           "name": "Apex Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002619.png",
@@ -31083,7 +31043,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 491328,
+          "t": 498278,
           "id": 3558,
           "name": "Empyreal Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
@@ -31091,23 +31051,7 @@
           "type": "ability"
         },
         {
-          "t": 491952,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492800,
-          "id": 25784,
-          "name": "Blast Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 493424,
+          "t": 498946,
           "id": 7404,
           "name": "Pitch Perfect",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
@@ -31115,7 +31059,23 @@
           "type": "ability"
         },
         {
-          "t": 494136,
+          "t": 499792,
+          "id": 3560,
+          "name": "Iron Jaws",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500415,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501083,
           "id": 107,
           "name": "Barrage",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000353.png",
@@ -31123,31 +31083,15 @@
           "type": "ability"
         },
         {
-          "t": 494982,
-          "id": 7409,
-          "name": "Refulgent Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
+          "t": 502279,
+          "id": 25784,
+          "name": "Blast Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002621.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 495604,
-          "id": 36975,
-          "name": "Heartbreak Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497211,
-          "id": 36976,
-          "name": "Resonant Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 498236,
+          "t": 502947,
           "id": 3562,
           "name": "Sidewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002610.png",
@@ -31155,15 +31099,7 @@
           "type": "ability"
         },
         {
-          "t": 499707,
-          "id": 36977,
-          "name": "Radiant Encore",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501175,
+          "t": 503616,
           "id": 36975,
           "name": "Heartbreak Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
@@ -31171,7 +31107,7 @@
           "type": "ability"
         },
         {
-          "t": 502201,
+          "t": 504775,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -31179,7 +31115,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 503850,
+          "t": 505487,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 507271,
+          "id": 36977,
+          "name": "Radiant Encore",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002100.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 507940,
           "id": 7404,
           "name": "Pitch Perfect",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
@@ -31187,23 +31139,23 @@
           "type": "ability"
         },
         {
-          "t": 504694,
-          "id": 16495,
-          "name": "Burst Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 506295,
-          "id": 3558,
-          "name": "Empyreal Arrow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "t": 509143,
+          "id": 7405,
+          "name": "Troubadour",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002612.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 507186,
+          "t": 509810,
+          "id": 36976,
+          "name": "Resonant Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 512348,
           "id": 7409,
           "name": "Refulgent Arrow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002616.png",
@@ -31211,7 +31163,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 508880,
+          "t": 513235,
+          "id": 3558,
+          "name": "Empyreal Arrow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002606.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 514837,
+          "id": 16495,
+          "name": "Burst Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002618.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 515460,
+          "id": 36975,
+          "name": "Heartbreak Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002623.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 516395,
           "id": 7404,
           "name": "Pitch Perfect",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002611.png",
