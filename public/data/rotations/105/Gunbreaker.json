@@ -1,7 +1,7 @@
 {
   "encounterId": 105,
   "job": "Gunbreaker",
-  "lastUpdated": "2026-04-04T03:48:56.130Z",
+  "lastUpdated": "2026-04-06T04:22:29.761Z",
   "rankings": [
     {
       "rank": 1,
@@ -2848,59 +2848,35 @@
       "rank": 2,
       "name": "Buns-to- Your-hun",
       "server": "Midgardsormr NA",
-      "rDPS": 28399,
-      "aDPS": 32099,
-      "nDPS": 28399,
-      "duration": 503349,
-      "reportCode": "xjYAhFzq6mgpCKwD",
-      "fightID": 22,
+      "rDPS": 28342,
+      "aDPS": 31769,
+      "nDPS": 28342,
+      "duration": 525095,
+      "reportCode": "8HYz3QV97Mg6qfRm",
+      "fightID": 7,
       "dpsGiven": 0,
-      "dpsTaken": 3638,
+      "dpsTaken": 1265,
       "party": [
-        "Warrior",
+        "Paladin",
         "Gunbreaker",
-        "Scholar",
         "Astrologian",
-        "Dragoon",
-        "Reaper",
-        "Bard",
-        "Summoner"
+        "Sage",
+        "Monk",
+        "Samurai",
+        "Dancer",
+        "BlackMage"
       ],
       "timeline": [
         {
           "t": 222,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 1069,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 1916,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 2765,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 3433,
+          "t": 1116,
           "id": 16164,
           "name": "Bloodfest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
@@ -2908,207 +2884,7 @@
           "type": "ability"
         },
         {
-          "t": 4278,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 5301,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 6057,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6859,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 7842,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 8868,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10341,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 11143,
-          "id": 16160,
-          "name": "Heart of Light",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 12831,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 13678,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 15327,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 17821,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 18623,
-          "id": 16142,
-          "name": "Royal Guard",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003406.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 20313,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 21159,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 22851,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 23561,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 25338,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 26361,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 27830,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 28545,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 29438,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 30289,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 31090,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 32788,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 35284,
+          "t": 2722,
           "id": 16139,
           "name": "Brutal Shell",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
@@ -3116,127 +2892,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 36887,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 37825,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 40325,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42817,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 43795,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 45311,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 47941,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48836,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 50439,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52940,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 55434,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56324,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 58013,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 58680,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 60503,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 61438,
+          "t": 3658,
           "id": 16138,
           "name": "No Mercy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
@@ -3244,2303 +2900,7 @@
           "type": "ability"
         },
         {
-          "t": 62242,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 63088,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 63802,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 65625,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 66380,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 67226,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 68161,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69007,
-          "id": 36935,
-          "name": "Great Nebula",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003435.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 69805,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 70694,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 73226,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 75816,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 76883,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 78354,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 79064,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 80840,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 81774,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 83331,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84132,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 85826,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 86675,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 88282,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 89401,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 90742,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 93248,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95745,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 97216,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 98245,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 100828,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 103314,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 105800,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 106600,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 108287,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 110823,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 111622,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 113313,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 114294,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 115939,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 116784,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 118480,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 119193,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 120971,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 121949,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 122841,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 123645,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124448,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 126137,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 128671,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 129514,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130314,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 131246,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 133732,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 134575,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136221,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 137110,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138795,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 139507,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141285,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 142353,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 143818,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146310,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 148795,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 151284,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 153773,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 156263,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 157062,
-          "id": 16160,
-          "name": "Heart of Light",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 158837,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160304,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 161327,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163812,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 166431,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 167278,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 168925,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 171413,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 173992,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 174838,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 176481,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 177460,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 179015,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 179770,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 181503,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182482,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183458,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 184214,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 184928,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186708,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187644,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 189251,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189964,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190813,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191749,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 194238,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 195124,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 196773,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 197750,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 198549,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 199660,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 200463,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202197,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 203085,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 204683,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 205440,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 206329,
-          "id": 7537,
-          "name": "Shirk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 207265,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 208198,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 209750,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212243,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 214740,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 217235,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219813,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 220923,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 222391,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 224882,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227462,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 229953,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 232453,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 233301,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234104,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234955,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 235758,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 237455,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 238301,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 239957,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 240716,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 242504,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 243440,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244240,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244997,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245796,
-          "id": 16152,
-          "name": "Superbolide",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003416.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 246553,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 247621,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 250160,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 250920,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 251766,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252616,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 255207,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256190,
-          "id": 32068,
-          "name": "Release Royal Guard",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003433.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257665,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258469,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 259269,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260206,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 260873,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 261631,
-          "id": 16160,
-          "name": "Heart of Light",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262699,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 263677,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 265191,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267778,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270274,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 272769,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 275227,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276299,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 277722,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 280219,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 281735,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 282804,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285263,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287720,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 288480,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 290227,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 291167,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 292771,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295262,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 297761,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 298698,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 300301,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 300972,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 302800,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303781,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 304630,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 305479,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 306550,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308019,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 310560,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 311364,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 312255,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313057,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313990,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315590,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 316966,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318121,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 319053,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 320653,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 321320,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 323230,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 324210,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 325721,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 326519,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 328212,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 328923,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 330698,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333192,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 335687,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 339469,
-          "id": 36934,
-          "name": "Trajectory",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 340313,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 342222,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 342934,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 345473,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 347969,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 350502,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 352991,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 355495,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356295,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 357983,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 359005,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 360520,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 361189,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 361989,
-          "id": 16160,
-          "name": "Heart of Light",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 363012,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 363948,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364663,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 365554,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 366580,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 368051,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 370637,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 371528,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 372461,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 373218,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 374108,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375708,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378335,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 379183,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380030,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380834,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381634,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 382437,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 384752,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 385730,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 387239,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 388484,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 389815,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 392304,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 394803,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 397387,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399875,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 402362,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 403208,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 404850,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407430,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 409919,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 410809,
-          "id": 16151,
-          "name": "Aurora",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 412412,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 413120,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 414902,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 415836,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 417394,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 418283,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 419929,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420592,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 422418,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 423934,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 424783,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 425494,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 426563,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 428031,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 429454,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 430609,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 431498,
-          "id": 16159,
-          "name": "Bow Shock",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 433094,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 433850,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 435628,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 438121,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 439011,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 439946,
-          "id": 36934,
-          "name": "Trajectory",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 440789,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 441588,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 443283,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 444264,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 445778,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 448273,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 449207,
-          "id": 16140,
-          "name": "Camouflage",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003404.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 450763,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 452143,
-          "id": 16160,
-          "name": "Heart of Light",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 453256,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 453967,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 455790,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458276,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 461165,
-          "id": 36934,
-          "name": "Trajectory",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 461918,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 463963,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 464807,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 467261,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468508,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 469757,
-          "id": 16162,
-          "name": "Burst Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 470513,
-          "id": 25759,
-          "name": "Hypervelocity",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 472293,
-          "id": 16137,
-          "name": "Keen Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 474829,
-          "id": 16139,
-          "name": "Brutal Shell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 477319,
-          "id": 16145,
-          "name": "Solid Barrel",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 478033,
+          "t": 4415,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -5548,7 +2908,7 @@
           "type": "ability"
         },
         {
-          "t": 479817,
+          "t": 5219,
           "id": 16146,
           "name": "Gnashing Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
@@ -5556,95 +2916,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 480660,
-          "id": 16156,
-          "name": "Jugular Rip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 481416,
-          "id": 36935,
-          "name": "Great Nebula",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003435.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 482395,
-          "id": 16147,
-          "name": "Savage Claw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 483152,
-          "id": 16157,
-          "name": "Abdomen Tear",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 483999,
-          "id": 25758,
-          "name": "Heart of Corundum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 484933,
-          "id": 16150,
-          "name": "Wicked Talon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 485956,
-          "id": 16138,
-          "name": "No Mercy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 486716,
-          "id": 16158,
-          "name": "Eye Gouge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 487829,
-          "id": 16153,
-          "name": "Sonic Break",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 488634,
-          "id": 16164,
-          "name": "Bloodfest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 490328,
-          "id": 25760,
-          "name": "Double Down",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491482,
+          "t": 6062,
           "id": 16159,
           "name": "Bow Shock",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
@@ -5652,47 +2924,7 @@
           "type": "ability"
         },
         {
-          "t": 492864,
-          "id": 36937,
-          "name": "Reign of Beasts",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 493929,
-          "id": 16165,
-          "name": "Blasting Zone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 495400,
-          "id": 36938,
-          "name": "Noble Blood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 497898,
-          "id": 36939,
-          "name": "Lion Heart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 500397,
-          "id": 16146,
-          "name": "Gnashing Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501379,
+          "t": 6908,
           "id": 16156,
           "name": "Jugular Rip",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
@@ -5700,12 +2932,2988 @@
           "type": "ability"
         },
         {
-          "t": 502899,
+          "t": 7752,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 8557,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 9359,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10295,
           "id": 16147,
           "name": "Savage Claw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
           "gcd": true,
           "type": "weaponskill"
+        },
+        {
+          "t": 10965,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11813,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12795,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 13642,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15290,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 16048,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17788,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 20283,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 22826,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 25319,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 27810,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 28658,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 29504,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 30352,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 30931,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 32848,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 33830,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 35346,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 36194,
+          "id": 16160,
+          "name": "Heart of Light",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 37886,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38689,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 40380,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 43009,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 43767,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 45504,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 48000,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 48755,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 50497,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 52994,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55449,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 57990,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 58794,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 60532,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 61200,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 62047,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 63028,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 64005,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 64764,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 65522,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66323,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 68015,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 68861,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 69617,
+          "id": 16152,
+          "name": "Superbolide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003416.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70554,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 73093,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 75588,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78087,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78979,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 80628,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 81384,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 82140,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 83121,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 84057,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 85617,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 86642,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 88111,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 88871,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 89673,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 90610,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91676,
+          "id": 36935,
+          "name": "Great Nebula",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003435.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 93146,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 95644,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98141,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98985,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 100770,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 103265,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 105759,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106606,
+          "id": 16140,
+          "name": "Camouflage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003404.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 107409,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 108254,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 110748,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 113243,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 114045,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 115739,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 116761,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 118231,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 119031,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 120769,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 121481,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 122283,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 123353,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 124288,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 125092,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 125848,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 126559,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 128433,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 130926,
+          "id": 36934,
+          "name": "Trajectory",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 131638,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 132352,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133111,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134183,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 134895,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136677,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 139259,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 140106,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 141800,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 142468,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 144294,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 145229,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 146791,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 149285,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 151779,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154276,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 156771,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157528,
+          "id": 16160,
+          "name": "Heart of Light",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 159266,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161849,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162696,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 164347,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 165283,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 166887,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 169383,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 170184,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 171880,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172772,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 174378,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 176913,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 179408,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 180300,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 181950,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182616,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183506,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 184444,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185378,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186134,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186982,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187694,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 189476,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190319,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191965,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192810,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194505,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197042,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197981,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 199539,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 200604,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 202074,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202787,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 204569,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 205553,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 207065,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207913,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 208849,
+          "id": 7537,
+          "name": "Shirk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 209564,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 210321,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 212188,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214685,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217175,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220157,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 222652,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 224751,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 225640,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 227022,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 228183,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230676,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 233167,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 235661,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 236376,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 238156,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 238914,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 239715,
+          "id": 16140,
+          "name": "Camouflage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003404.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 240651,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 241452,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 242340,
+          "id": 36935,
+          "name": "Great Nebula",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003435.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 243230,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243853,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 244744,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 245724,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246660,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 247460,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 248262,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 249063,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249775,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 250800,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 253293,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 255874,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 256672,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 258362,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 259120,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 260856,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 261748,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263398,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 264065,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264866,
+          "id": 16160,
+          "name": "Heart of Light",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 265889,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 266783,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 268388,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 270885,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 273382,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 275920,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 276724,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 277526,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 278460,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 280953,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 283539,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 286080,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 286836,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 288573,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 291069,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 291784,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 293570,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294503,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 296061,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 298560,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 301061,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 301997,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 302800,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 303603,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 304316,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 305118,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 306098,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307037,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 307795,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308641,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 309443,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 311139,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 313631,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 316172,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 316974,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 318758,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 321252,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 322098,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 322900,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 323794,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324550,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326286,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 327266,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 328111,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 328914,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330075,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 331412,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332170,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 333908,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336451,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339076,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 340637,
+          "id": 36934,
+          "name": "Trajectory",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 341574,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 342373,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 344066,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346561,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347409,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 349148,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 351647,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354141,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 356637,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 357397,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 359135,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 359893,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 360739,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 361631,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 362566,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 363324,
+          "id": 16160,
+          "name": "Heart of Light",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 364171,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365017,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 365866,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366666,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367736,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 368627,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 369429,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 370142,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371924,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 372863,
+          "id": 16140,
+          "name": "Camouflage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003404.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 374598,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 375714,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 377098,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 377946,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 379598,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 382093,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 382986,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384636,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385349,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 387132,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 388161,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 389588,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 392086,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 394583,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 397161,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 399659,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 403542,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 404299,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 406036,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407902,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 408616,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 411111,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 413651,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 414455,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 416151,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 418644,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 421185,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 423680,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 424974,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 425731,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 426490,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 427737,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 428539,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429340,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 430279,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 431080,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 431837,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 432638,
+          "id": 36935,
+          "name": "Great Nebula",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003435.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 434511,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 437008,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 437899,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 440889,
+          "id": 36934,
+          "name": "Trajectory",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 441647,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 442493,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 444230,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 446722,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 447612,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 449262,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 449975,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 451757,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452692,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 454252,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 455007,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 455806,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 456742,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 457633,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 459238,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 460396,
+          "id": 16160,
+          "name": "Heart of Light",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003424.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 461602,
+          "id": 36934,
+          "name": "Trajectory",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003434.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 462449,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 464945,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 466192,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 467440,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 468243,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 470029,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 470785,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471587,
+          "id": 16151,
+          "name": "Aurora",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003415.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 472526,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473504,
+          "id": 7537,
+          "name": "Shirk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 475022,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 476178,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 477559,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 479121,
+          "id": 16152,
+          "name": "Superbolide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003416.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 480055,
+          "id": 16145,
+          "name": "Solid Barrel",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003409.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 481080,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 482552,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483354,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 485090,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 485714,
+          "id": 16164,
+          "name": "Bloodfest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003428.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 486695,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 487586,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488565,
+          "id": 16138,
+          "name": "No Mercy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003402.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 489412,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 490303,
+          "id": 16153,
+          "name": "Sonic Break",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003417.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491148,
+          "id": 16159,
+          "name": "Bow Shock",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003423.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 492798,
+          "id": 36937,
+          "name": "Reign of Beasts",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003437.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 495292,
+          "id": 36938,
+          "name": "Noble Blood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003438.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 497784,
+          "id": 25760,
+          "name": "Double Down",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003432.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 498539,
+          "id": 16165,
+          "name": "Blasting Zone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003429.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 500321,
+          "id": 36939,
+          "name": "Lion Heart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003439.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 502861,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503753,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 505403,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 506116,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 507897,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 508835,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 510393,
+          "id": 16162,
+          "name": "Burst Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003426.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 511106,
+          "id": 25759,
+          "name": "Hypervelocity",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003431.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 512888,
+          "id": 16137,
+          "name": "Keen Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003401.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 514224,
+          "id": 25758,
+          "name": "Heart of Corundum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003430.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 515380,
+          "id": 16139,
+          "name": "Brutal Shell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003403.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 517877,
+          "id": 16146,
+          "name": "Gnashing Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003410.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 518769,
+          "id": 16156,
+          "name": "Jugular Rip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003420.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 520415,
+          "id": 16147,
+          "name": "Savage Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003411.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 521036,
+          "id": 16157,
+          "name": "Abdomen Tear",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003421.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 522909,
+          "id": 16150,
+          "name": "Wicked Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003414.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 523798,
+          "id": 16158,
+          "name": "Eye Gouge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003422.png",
+          "gcd": false,
+          "type": "ability"
         }
       ]
     },
