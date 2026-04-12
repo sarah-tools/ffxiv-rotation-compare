@@ -1,28 +1,28 @@
 {
   "encounterId": 104,
   "job": "Pictomancer",
-  "lastUpdated": "2026-04-10T04:17:13.397Z",
+  "lastUpdated": "2026-04-12T04:20:01.762Z",
   "rankings": [
     {
       "rank": 1,
       "name": "Mew Yukimiya",
       "server": "Masamune JP",
-      "rDPS": 46938,
+      "rDPS": 47427,
       "aDPS": 49157,
-      "nDPS": 42181,
-      "duration": 389564,
-      "reportCode": "CRjqXYth976HAkn2",
-      "fightID": 16,
-      "dpsGiven": 4594,
-      "dpsTaken": 7607,
+      "nDPS": 42568,
+      "duration": 391968,
+      "reportCode": "7HAW8Gfr93N2mTFR",
+      "fightID": 4,
+      "dpsGiven": 4692,
+      "dpsTaken": 5030,
       "party": [
         "DarkKnight",
         "DarkKnight",
         "Scholar",
         "Astrologian",
-        "Dragoon",
         "Ninja",
-        "Bard",
+        "Samurai",
+        "Dancer",
         "Pictomancer"
       ],
       "timeline": [
@@ -35,7 +35,7 @@
           "type": "spell"
         },
         {
-          "t": 1114,
+          "t": 1024,
           "id": 34603669,
           "name": "Grade 4 Gemdraught of Intelligence [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
@@ -43,7 +43,7 @@
           "type": "ability"
         },
         {
-          "t": 1826,
+          "t": 1646,
           "id": 34670,
           "name": "Pom Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
@@ -51,7 +51,7 @@
           "type": "ability"
         },
         {
-          "t": 2450,
+          "t": 2271,
           "id": 34674,
           "name": "Striking Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
@@ -59,7 +59,7 @@
           "type": "ability"
         },
         {
-          "t": 5609,
+          "t": 5378,
           "id": 34665,
           "name": "Wing Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
@@ -67,7 +67,7 @@
           "type": "spell"
         },
         {
-          "t": 6323,
+          "t": 6092,
           "id": 34675,
           "name": "Starry Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
@@ -75,7 +75,7 @@
           "type": "ability"
         },
         {
-          "t": 7127,
+          "t": 6893,
           "id": 34678,
           "name": "Hammer Stamp",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
@@ -83,7 +83,7 @@
           "type": "spell"
         },
         {
-          "t": 7795,
+          "t": 7516,
           "id": 7560,
           "name": "Addle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
@@ -91,7 +91,7 @@
           "type": "ability"
         },
         {
-          "t": 8508,
+          "t": 8183,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -99,7 +99,7 @@
           "type": "ability"
         },
         {
-          "t": 10870,
+          "t": 10626,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -107,7 +107,7 @@
           "type": "spell"
         },
         {
-          "t": 13319,
+          "t": 13115,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -115,7 +115,7 @@
           "type": "spell"
         },
         {
-          "t": 14610,
+          "t": 14358,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -123,7 +123,7 @@
           "type": "spell"
         },
         {
-          "t": 15277,
+          "t": 14981,
           "id": 34685,
           "name": "Tempera Coat",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
@@ -131,7 +131,7 @@
           "type": "ability"
         },
         {
-          "t": 18265,
+          "t": 18056,
           "id": 34655,
           "name": "Thunder in Magenta",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
@@ -139,7 +139,7 @@
           "type": "spell"
         },
         {
-          "t": 19557,
+          "t": 19308,
           "id": 34681,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
@@ -147,23 +147,7 @@
           "type": "spell"
         },
         {
-          "t": 20807,
-          "id": 34682,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 21431,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 22057,
+          "t": 19930,
           "id": 34671,
           "name": "Winged Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
@@ -171,7 +155,15 @@
           "type": "ability"
         },
         {
-          "t": 23929,
+          "t": 20552,
+          "id": 34682,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 21176,
           "id": 34688,
           "name": "Rainbow Drip",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
@@ -179,7 +171,7 @@
           "type": "spell"
         },
         {
-          "t": 24554,
+          "t": 21843,
           "id": 34676,
           "name": "Mog of the Ages",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
@@ -187,7 +179,15 @@
           "type": "ability"
         },
         {
-          "t": 26425,
+          "t": 23668,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 26205,
           "id": 34680,
           "name": "Polishing Hammer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
@@ -195,7 +195,7 @@
           "type": "spell"
         },
         {
-          "t": 29900,
+          "t": 29677,
           "id": 34650,
           "name": "Fire in Red",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
@@ -203,7 +203,7 @@
           "type": "spell"
         },
         {
-          "t": 30568,
+          "t": 30301,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -211,7 +211,7 @@
           "type": "ability"
         },
         {
-          "t": 31415,
+          "t": 31191,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -219,7 +219,7 @@
           "type": "spell"
         },
         {
-          "t": 34939,
+          "t": 34658,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -227,7 +227,7 @@
           "type": "spell"
         },
         {
-          "t": 37437,
+          "t": 37196,
           "id": 34650,
           "name": "Fire in Red",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
@@ -235,7 +235,7 @@
           "type": "spell"
         },
         {
-          "t": 39933,
+          "t": 39692,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -243,7 +243,7 @@
           "type": "spell"
         },
         {
-          "t": 42428,
+          "t": 42185,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -251,7 +251,7 @@
           "type": "spell"
         },
         {
-          "t": 44925,
+          "t": 44677,
           "id": 34650,
           "name": "Fire in Red",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
@@ -259,7 +259,7 @@
           "type": "spell"
         },
         {
-          "t": 47465,
+          "t": 47208,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -267,7 +267,7 @@
           "type": "spell"
         },
         {
-          "t": 49959,
+          "t": 49697,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -275,7 +275,7 @@
           "type": "spell"
         },
         {
-          "t": 52456,
+          "t": 52234,
           "id": 34650,
           "name": "Fire in Red",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
@@ -283,7 +283,7 @@
           "type": "spell"
         },
         {
-          "t": 54951,
+          "t": 54728,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -291,7 +291,7 @@
           "type": "spell"
         },
         {
-          "t": 58965,
+          "t": 58738,
           "id": 34668,
           "name": "Hammer Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
@@ -299,7 +299,7 @@
           "type": "spell"
         },
         {
-          "t": 59590,
+          "t": 59405,
           "id": 34674,
           "name": "Striking Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
@@ -307,7 +307,7 @@
           "type": "ability"
         },
         {
-          "t": 61461,
+          "t": 61231,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -315,7 +315,7 @@
           "type": "spell"
         },
         {
-          "t": 62127,
+          "t": 61945,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -323,7 +323,7 @@
           "type": "ability"
         },
         {
-          "t": 64800,
+          "t": 64524,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -331,7 +331,7 @@
           "type": "spell"
         },
         {
-          "t": 68812,
+          "t": 68564,
           "id": 34666,
           "name": "Claw Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
@@ -339,7 +339,7 @@
           "type": "spell"
         },
         {
-          "t": 69437,
+          "t": 69186,
           "id": 34672,
           "name": "Clawed Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
@@ -347,7 +347,7 @@
           "type": "ability"
         },
         {
-          "t": 72819,
+          "t": 72570,
           "id": 34667,
           "name": "Maw Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
@@ -355,7 +355,7 @@
           "type": "spell"
         },
         {
-          "t": 73487,
+          "t": 73282,
           "id": 34673,
           "name": "Fanged Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
@@ -363,7 +363,7 @@
           "type": "ability"
         },
         {
-          "t": 76790,
+          "t": 76585,
           "id": 34664,
           "name": "Pom Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
@@ -371,7 +371,7 @@
           "type": "spell"
         },
         {
-          "t": 78348,
+          "t": 78144,
           "id": 34678,
           "name": "Hammer Stamp",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
@@ -379,7 +379,7 @@
           "type": "spell"
         },
         {
-          "t": 79061,
+          "t": 78768,
           "id": 34685,
           "name": "Tempera Coat",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
@@ -387,7 +387,7 @@
           "type": "ability"
         },
         {
-          "t": 80887,
+          "t": 80640,
           "id": 34679,
           "name": "Hammer Brush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
@@ -395,7 +395,7 @@
           "type": "spell"
         },
         {
-          "t": 83380,
+          "t": 83137,
           "id": 34680,
           "name": "Polishing Hammer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
@@ -403,7 +403,7 @@
           "type": "spell"
         },
         {
-          "t": 84093,
+          "t": 83805,
           "id": 34686,
           "name": "Tempera Grassa",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003836.png",
@@ -411,7 +411,7 @@
           "type": "ability"
         },
         {
-          "t": 85922,
+          "t": 85632,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -419,15 +419,7 @@
           "type": "spell"
         },
         {
-          "t": 86634,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 87348,
+          "t": 86389,
           "id": 34670,
           "name": "Pom Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
@@ -435,15 +427,7 @@
           "type": "ability"
         },
         {
-          "t": 89179,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 95639,
+          "t": 91422,
           "id": 34665,
           "name": "Wing Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
@@ -451,7 +435,31 @@
           "type": "spell"
         },
         {
-          "t": 98933,
+          "t": 92047,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 92941,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 93699,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 98689,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -459,7 +467,7 @@
           "type": "spell"
         },
         {
-          "t": 99645,
+          "t": 99356,
           "id": 7560,
           "name": "Addle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
@@ -467,7 +475,7 @@
           "type": "ability"
         },
         {
-          "t": 102229,
+          "t": 101985,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -475,7 +483,7 @@
           "type": "spell"
         },
         {
-          "t": 104774,
+          "t": 104480,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -483,15 +491,7 @@
           "type": "spell"
         },
         {
-          "t": 107272,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 111281,
+          "t": 108527,
           "id": 34669,
           "name": "Starry Sky Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
@@ -499,7 +499,15 @@
           "type": "spell"
         },
         {
-          "t": 113779,
+          "t": 111017,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 113510,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -507,7 +515,7 @@
           "type": "spell"
         },
         {
-          "t": 116275,
+          "t": 115999,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -515,7 +523,7 @@
           "type": "spell"
         },
         {
-          "t": 116900,
+          "t": 116665,
           "id": 34674,
           "name": "Striking Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
@@ -523,7 +531,7 @@
           "type": "ability"
         },
         {
-          "t": 117790,
+          "t": 117552,
           "id": 34678,
           "name": "Hammer Stamp",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
@@ -531,7 +539,7 @@
           "type": "spell"
         },
         {
-          "t": 118503,
+          "t": 118263,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -539,7 +547,7 @@
           "type": "ability"
         },
         {
-          "t": 122112,
+          "t": 121825,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -547,7 +555,7 @@
           "type": "spell"
         },
         {
-          "t": 125404,
+          "t": 125111,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -555,7 +563,7 @@
           "type": "spell"
         },
         {
-          "t": 126341,
+          "t": 126088,
           "id": 34675,
           "name": "Starry Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
@@ -563,7 +571,7 @@
           "type": "ability"
         },
         {
-          "t": 128212,
+          "t": 128002,
           "id": 34655,
           "name": "Thunder in Magenta",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
@@ -571,7 +579,7 @@
           "type": "spell"
         },
         {
-          "t": 129508,
+          "t": 129245,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -579,7 +587,7 @@
           "type": "spell"
         },
         {
-          "t": 130176,
+          "t": 129867,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -587,7 +595,7 @@
           "type": "ability"
         },
         {
-          "t": 133163,
+          "t": 132936,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -595,7 +603,7 @@
           "type": "spell"
         },
         {
-          "t": 135613,
+          "t": 135429,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -603,7 +611,7 @@
           "type": "spell"
         },
         {
-          "t": 136903,
+          "t": 136675,
           "id": 34681,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
@@ -611,7 +619,7 @@
           "type": "spell"
         },
         {
-          "t": 137528,
+          "t": 137432,
           "id": 34677,
           "name": "Retribution of the Madeen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
@@ -619,7 +627,7 @@
           "type": "ability"
         },
         {
-          "t": 138151,
+          "t": 137922,
           "id": 34682,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
@@ -627,23 +635,7 @@
           "type": "spell"
         },
         {
-          "t": 138821,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 139444,
-          "id": 34671,
-          "name": "Winged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141316,
+          "t": 138546,
           "id": 34688,
           "name": "Rainbow Drip",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
@@ -651,215 +643,15 @@
           "type": "spell"
         },
         {
-          "t": 143813,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 146309,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 148005,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "t": 139167,
+          "id": 34671,
+          "name": "Winged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 149606,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 155387,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 157881,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 160419,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 162911,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 163579,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 166202,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 169491,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 171092,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 171761,
-          "id": 34676,
-          "name": "Mog of the Ages",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 176163,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 178658,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 181156,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 181824,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183649,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 184318,
-          "id": 34685,
-          "name": "Tempera Coat",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186146,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 188640,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 191176,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 191800,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 194473,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 198484,
-          "id": 34666,
-          "name": "Claw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 199998,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 202491,
+          "t": 141078,
           "id": 34679,
           "name": "Hammer Brush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
@@ -867,7 +659,7 @@
           "type": "spell"
         },
         {
-          "t": 204985,
+          "t": 143567,
           "id": 34680,
           "name": "Polishing Hammer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
@@ -875,15 +667,7 @@
           "type": "spell"
         },
         {
-          "t": 205608,
-          "id": 34672,
-          "name": "Clawed Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 207523,
+          "t": 146055,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -891,7 +675,7 @@
           "type": "spell"
         },
         {
-          "t": 208147,
+          "t": 147524,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -899,15 +683,7 @@
           "type": "ability"
         },
         {
-          "t": 210913,
-          "id": 34667,
-          "name": "Maw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 217377,
+          "t": 149392,
           "id": 34668,
           "name": "Hammer Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
@@ -915,7 +691,239 @@
           "type": "spell"
         },
         {
-          "t": 221337,
+          "t": 155165,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 157696,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 160184,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162672,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 163337,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 166005,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 167516,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 172590,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 173212,
+          "id": 34676,
+          "name": "Mog of the Ages",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 175919,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 178409,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 180944,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 181614,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183439,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 184105,
+          "id": 34685,
+          "name": "Tempera Coat",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 185931,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 188423,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 190956,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 191577,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194248,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 198249,
+          "id": 34666,
+          "name": "Claw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 199805,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 202292,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 202915,
+          "id": 34672,
+          "name": "Clawed Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 204823,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 207313,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 207978,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 210647,
+          "id": 34667,
+          "name": "Maw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 217095,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 221103,
           "id": 34669,
           "name": "Starry Sky Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
@@ -923,7 +931,7 @@
           "type": "spell"
         },
         {
-          "t": 222902,
+          "t": 222657,
           "id": 34662,
           "name": "Holy in White",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
@@ -931,7 +939,7 @@
           "type": "spell"
         },
         {
-          "t": 223614,
+          "t": 223322,
           "id": 34673,
           "name": "Fanged Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
@@ -939,7 +947,7 @@
           "type": "ability"
         },
         {
-          "t": 227891,
+          "t": 227637,
           "id": 34664,
           "name": "Pom Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
@@ -947,39 +955,7 @@
           "type": "spell"
         },
         {
-          "t": 231144,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 231812,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234442,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 236938,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 238451,
+          "t": 229148,
           "id": 34662,
           "name": "Holy in White",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
@@ -987,31 +963,7 @@
           "type": "spell"
         },
         {
-          "t": 239164,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 240990,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 241658,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 245268,
+          "t": 233424,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -1019,7 +971,63 @@
           "type": "spell"
         },
         {
-          "t": 246339,
+          "t": 234092,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 236719,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 239214,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 239882,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 240815,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 241528,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 245094,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 246073,
           "id": 34675,
           "name": "Starry Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
@@ -1027,7 +1035,7 @@
           "type": "ability"
         },
         {
-          "t": 248210,
+          "t": 247947,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -1035,7 +1043,7 @@
           "type": "spell"
         },
         {
-          "t": 250664,
+          "t": 250392,
           "id": 34655,
           "name": "Thunder in Magenta",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
@@ -1043,7 +1051,7 @@
           "type": "spell"
         },
         {
-          "t": 251959,
+          "t": 251684,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -1051,7 +1059,7 @@
           "type": "spell"
         },
         {
-          "t": 252626,
+          "t": 252394,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -1059,7 +1067,7 @@
           "type": "ability"
         },
         {
-          "t": 255611,
+          "t": 255328,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -1067,7 +1075,7 @@
           "type": "spell"
         },
         {
-          "t": 256948,
+          "t": 256665,
           "id": 34681,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
@@ -1075,7 +1083,7 @@
           "type": "spell"
         },
         {
-          "t": 257659,
+          "t": 257290,
           "id": 34677,
           "name": "Retribution of the Madeen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
@@ -1083,7 +1091,7 @@
           "type": "ability"
         },
         {
-          "t": 258193,
+          "t": 257912,
           "id": 34682,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
@@ -1091,7 +1099,7 @@
           "type": "spell"
         },
         {
-          "t": 258817,
+          "t": 258538,
           "id": 34679,
           "name": "Hammer Brush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
@@ -1099,7 +1107,7 @@
           "type": "spell"
         },
         {
-          "t": 259530,
+          "t": 259162,
           "id": 34670,
           "name": "Pom Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
@@ -1107,7 +1115,7 @@
           "type": "ability"
         },
         {
-          "t": 261307,
+          "t": 261030,
           "id": 34680,
           "name": "Polishing Hammer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
@@ -1115,7 +1123,7 @@
           "type": "spell"
         },
         {
-          "t": 262018,
+          "t": 261741,
           "id": 34685,
           "name": "Tempera Coat",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
@@ -1123,7 +1131,7 @@
           "type": "ability"
         },
         {
-          "t": 263801,
+          "t": 263563,
           "id": 34688,
           "name": "Rainbow Drip",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
@@ -1131,7 +1139,7 @@
           "type": "spell"
         },
         {
-          "t": 264471,
+          "t": 264320,
           "id": 34686,
           "name": "Tempera Grassa",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003836.png",
@@ -1139,7 +1147,7 @@
           "type": "ability"
         },
         {
-          "t": 266300,
+          "t": 266055,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -1147,23 +1155,7 @@
           "type": "spell"
         },
         {
-          "t": 272097,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 272767,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 273656,
+          "t": 271848,
           "id": 34665,
           "name": "Wing Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
@@ -1171,175 +1163,7 @@
           "type": "spell"
         },
         {
-          "t": 274325,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 277621,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 278291,
-          "id": 34684,
-          "name": "Smudge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 280121,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 282709,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 283379,
-          "id": 34671,
-          "name": "Winged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 285166,
-          "id": 34662,
-          "name": "Holy in White",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 289444,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 292740,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 293361,
-          "id": 34676,
-          "name": "Mog of the Ages",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 295237,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 297732,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 300226,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 302767,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 303389,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 306062,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 310081,
-          "id": 34666,
-          "name": "Claw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 314090,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 314715,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318101,
-          "id": 34669,
-          "name": "Starry Sky Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 319617,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 321090,
+          "t": 272473,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -1347,55 +1171,7 @@
           "type": "ability"
         },
         {
-          "t": 322116,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 322739,
-          "id": 34672,
-          "name": "Clawed Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 324655,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 327194,
-          "id": 34667,
-          "name": "Maw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 331156,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 331821,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 336943,
+          "t": 273321,
           "id": 34668,
           "name": "Hammer Motif",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
@@ -1403,7 +1179,55 @@
           "type": "spell"
         },
         {
-          "t": 340195,
+          "t": 274075,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 277368,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 279861,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 282352,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 283064,
+          "id": 34671,
+          "name": "Winged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 284842,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 289110,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -1411,7 +1235,15 @@
           "type": "spell"
         },
         {
-          "t": 343538,
+          "t": 289734,
+          "id": 34676,
+          "name": "Mog of the Ages",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292403,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -1419,7 +1251,7 @@
           "type": "spell"
         },
         {
-          "t": 346036,
+          "t": 294947,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -1427,15 +1259,7 @@
           "type": "spell"
         },
         {
-          "t": 346660,
-          "id": 34684,
-          "name": "Smudge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 348531,
+          "t": 297433,
           "id": 34650,
           "name": "Fire in Red",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
@@ -1443,7 +1267,7 @@
           "type": "spell"
         },
         {
-          "t": 351032,
+          "t": 299924,
           "id": 34651,
           "name": "Aero in Green",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
@@ -1451,7 +1275,7 @@
           "type": "spell"
         },
         {
-          "t": 353528,
+          "t": 302461,
           "id": 34652,
           "name": "Water in Blue",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
@@ -1459,7 +1283,7 @@
           "type": "spell"
         },
         {
-          "t": 354196,
+          "t": 303085,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -1467,7 +1291,111 @@
           "type": "ability"
         },
         {
-          "t": 355090,
+          "t": 305759,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 309775,
+          "id": 34666,
+          "name": "Claw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313791,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 314459,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 317759,
+          "id": 34669,
+          "name": "Starry Sky Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 319366,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 321866,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 322492,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 324322,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 325081,
+          "id": 34672,
+          "name": "Clawed Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326865,
+          "id": 34667,
+          "name": "Maw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 333329,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 333908,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 334800,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -1475,7 +1403,79 @@
           "type": "spell"
         },
         {
-          "t": 357009,
+          "t": 339921,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 343223,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 345723,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 346395,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 348224,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 350724,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353222,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353893,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 354783,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 356345,
           "id": 34603669,
           "name": "Grade 4 Gemdraught of Intelligence [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
@@ -1483,7 +1483,15 @@
           "type": "ability"
         },
         {
-          "t": 360129,
+          "t": 357192,
+          "id": 7559,
+          "name": "Surecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 359823,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -1491,7 +1499,7 @@
           "type": "spell"
         },
         {
-          "t": 360799,
+          "t": 360538,
           "id": 34685,
           "name": "Tempera Coat",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
@@ -1499,7 +1507,7 @@
           "type": "ability"
         },
         {
-          "t": 363433,
+          "t": 363124,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -1507,7 +1515,7 @@
           "type": "spell"
         },
         {
-          "t": 364057,
+          "t": 363837,
           "id": 34674,
           "name": "Striking Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
@@ -1515,7 +1523,7 @@
           "type": "ability"
         },
         {
-          "t": 364949,
+          "t": 364729,
           "id": 34678,
           "name": "Hammer Stamp",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
@@ -1523,7 +1531,7 @@
           "type": "spell"
         },
         {
-          "t": 365707,
+          "t": 365441,
           "id": 34686,
           "name": "Tempera Grassa",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003836.png",
@@ -1531,7 +1539,7 @@
           "type": "ability"
         },
         {
-          "t": 366598,
+          "t": 366288,
           "id": 34675,
           "name": "Starry Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
@@ -1539,7 +1547,7 @@
           "type": "ability"
         },
         {
-          "t": 368689,
+          "t": 368429,
           "id": 34655,
           "name": "Thunder in Magenta",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
@@ -1547,7 +1555,7 @@
           "type": "spell"
         },
         {
-          "t": 369313,
+          "t": 369006,
           "id": 34683,
           "name": "Subtractive Palette",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
@@ -1555,7 +1563,7 @@
           "type": "ability"
         },
         {
-          "t": 371190,
+          "t": 370876,
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
@@ -1563,7 +1571,7 @@
           "type": "spell"
         },
         {
-          "t": 373691,
+          "t": 373329,
           "id": 34654,
           "name": "Stone in Yellow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
@@ -1571,7 +1579,7 @@
           "type": "spell"
         },
         {
-          "t": 374940,
+          "t": 374621,
           "id": 34681,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
@@ -1579,7 +1587,7 @@
           "type": "spell"
         },
         {
-          "t": 375698,
+          "t": 375291,
           "id": 34673,
           "name": "Fanged Muse",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
@@ -1587,7 +1595,7 @@
           "type": "ability"
         },
         {
-          "t": 376189,
+          "t": 375871,
           "id": 34682,
           "name": "Star Prism",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
@@ -1595,7 +1603,7 @@
           "type": "spell"
         },
         {
-          "t": 376814,
+          "t": 376493,
           "id": 34663,
           "name": "Comet in Black",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
@@ -1603,7 +1611,7 @@
           "type": "spell"
         },
         {
-          "t": 377526,
+          "t": 377206,
           "id": 34677,
           "name": "Retribution of the Madeen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
@@ -1611,7 +1619,15 @@
           "type": "ability"
         },
         {
-          "t": 379355,
+          "t": 379032,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381529,
           "id": 34679,
           "name": "Hammer Brush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
@@ -1619,15 +1635,7 @@
           "type": "spell"
         },
         {
-          "t": 381851,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 384349,
+          "t": 384026,
           "id": 34680,
           "name": "Polishing Hammer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
@@ -1635,7 +1643,7 @@
           "type": "spell"
         },
         {
-          "t": 385064,
+          "t": 385099,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -1643,7 +1651,15 @@
           "type": "ability"
         },
         {
-          "t": 386847,
+          "t": 386483,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 388981,
           "id": 34688,
           "name": "Rainbow Drip",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
@@ -1651,7 +1667,7 @@
           "type": "spell"
         },
         {
-          "t": 387471,
+          "t": 389692,
           "id": 7562,
           "name": "Lucid Dreaming",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
@@ -1662,6 +1678,1647 @@
     },
     {
       "rank": 2,
+      "name": "Swag Daddy",
+      "server": "Cactuar NA",
+      "rDPS": 46846,
+      "aDPS": 47067,
+      "nDPS": 42448,
+      "duration": 386987,
+      "reportCode": "qn7RLMh682Xw19rp",
+      "fightID": 18,
+      "dpsGiven": 4246,
+      "dpsTaken": 4748,
+      "party": [
+        "DarkKnight",
+        "Gunbreaker",
+        "Scholar",
+        "Astrologian",
+        "Dragoon",
+        "Samurai",
+        "Dancer",
+        "Pictomancer"
+      ],
+      "timeline": [
+        {
+          "t": 0,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 579,
+          "id": 34603669,
+          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 1203,
+          "id": 34670,
+          "name": "Pom Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 1828,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 4995,
+          "id": 34665,
+          "name": "Wing Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 5709,
+          "id": 34675,
+          "name": "Starry Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 6512,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 7136,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7760,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10215,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 12669,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 15128,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 16424,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 17091,
+          "id": 34671,
+          "name": "Winged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17717,
+          "id": 34676,
+          "name": "Mog of the Ages",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18875,
+          "id": 34681,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 20122,
+          "id": 34682,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 20746,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 23244,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 25741,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 29262,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 29889,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 30779,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 34259,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 36763,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 39265,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 41766,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 44262,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 46762,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 49263,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 51802,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 52426,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 54299,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 58305,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 58975,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 60801,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 61470,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 64101,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 68115,
+          "id": 34666,
+          "name": "Claw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 68741,
+          "id": 34672,
+          "name": "Clawed Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 72130,
+          "id": 34667,
+          "name": "Maw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 72755,
+          "id": 34673,
+          "name": "Fanged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 76145,
+          "id": 34664,
+          "name": "Pom Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 77663,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 79048,
+          "id": 34685,
+          "name": "Tempera Coat",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 80205,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 80919,
+          "id": 34686,
+          "name": "Tempera Grassa",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003836.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 82703,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 83279,
+          "id": 34670,
+          "name": "Pom Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 85200,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 90956,
+          "id": 34665,
+          "name": "Wing Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 91581,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 92519,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 98275,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 98855,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 101575,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 102198,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104071,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 108084,
+          "id": 34669,
+          "name": "Starry Sky Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 110582,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 113080,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 115574,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 116197,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 117088,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 117713,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 121368,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 124712,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 125691,
+          "id": 34675,
+          "name": "Starry Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 127518,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 128767,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 129391,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132468,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 134924,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 136216,
+          "id": 34681,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 136840,
+          "id": 34677,
+          "name": "Retribution of the Madeen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137461,
+          "id": 34682,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 138084,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 139331,
+          "id": 34671,
+          "name": "Winged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 140577,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 143068,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 145608,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 146231,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 148907,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 154703,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 157201,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 159691,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162181,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162806,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 165473,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 168804,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 169426,
+          "id": 34676,
+          "name": "Mog of the Ages",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 172096,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 173605,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 177913,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 180407,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 181077,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 182903,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 185397,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 187934,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 190430,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 191141,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193724,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 197731,
+          "id": 34666,
+          "name": "Claw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 198353,
+          "id": 34672,
+          "name": "Clawed Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 199244,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 201776,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 204267,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 206760,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 207695,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 210094,
+          "id": 34667,
+          "name": "Maw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 216584,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 220593,
+          "id": 34669,
+          "name": "Starry Sky Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 222734,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 223447,
+          "id": 34673,
+          "name": "Fanged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 225231,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 229509,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 230087,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 232805,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 233385,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235301,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 235925,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 239314,
+          "id": 34664,
+          "name": "Pom Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 240831,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 241500,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 245107,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 245822,
+          "id": 34675,
+          "name": "Starry Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 247828,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 250280,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 251573,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 252196,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 255223,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 256517,
+          "id": 34681,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 257141,
+          "id": 34677,
+          "name": "Retribution of the Madeen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257765,
+          "id": 34682,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 258435,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 259057,
+          "id": 34670,
+          "name": "Pom Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 260933,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 263433,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 265932,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 267004,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 267674,
+          "id": 34685,
+          "name": "Tempera Coat",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 269189,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 270660,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 273200,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 274493,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 275739,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 278231,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 283215,
+          "id": 34665,
+          "name": "Wing Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 283839,
+          "id": 34671,
+          "name": "Winged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 284771,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 289039,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 289618,
+          "id": 34676,
+          "name": "Mog of the Ages",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292331,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 294821,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 297313,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 299803,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 302338,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 302959,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 305628,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 309629,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 310251,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 311140,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 316165,
+          "id": 34666,
+          "name": "Claw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 320168,
+          "id": 34669,
+          "name": "Starry Sky Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 321680,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 322302,
+          "id": 34672,
+          "name": "Clawed Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326659,
+          "id": 34667,
+          "name": "Maw Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 328216,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 333205,
+          "id": 34668,
+          "name": "Hammer Motif",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 334677,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 339761,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 340386,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 343058,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 345601,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 348097,
+          "id": 34650,
+          "name": "Fire in Red",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 348768,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 350595,
+          "id": 34651,
+          "name": "Aero in Green",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353095,
+          "id": 34652,
+          "name": "Water in Blue",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353765,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 354612,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 355818,
+          "id": 34603669,
+          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 357113,
+          "id": 7559,
+          "name": "Surecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 359700,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 362997,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 363665,
+          "id": 34674,
+          "name": "Striking Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 364514,
+          "id": 34678,
+          "name": "Hammer Stamp",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 366255,
+          "id": 34675,
+          "name": "Starry Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 368214,
+          "id": 34655,
+          "name": "Thunder in Magenta",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 368883,
+          "id": 34685,
+          "name": "Tempera Coat",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 369506,
+          "id": 34679,
+          "name": "Hammer Brush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 370129,
+          "id": 34683,
+          "name": "Subtractive Palette",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 373205,
+          "id": 34653,
+          "name": "Blizzard in Cyan",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 375700,
+          "id": 34654,
+          "name": "Stone in Yellow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 376951,
+          "id": 34681,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 378200,
+          "id": 34682,
+          "name": "Star Prism",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 378870,
+          "id": 34680,
+          "name": "Polishing Hammer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381326,
+          "id": 34663,
+          "name": "Comet in Black",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381994,
+          "id": 34684,
+          "name": "Smudge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382796,
+          "id": 34673,
+          "name": "Fanged Muse",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 383421,
+          "id": 34677,
+          "name": "Retribution of the Madeen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384669,
+          "id": 34662,
+          "name": "Holy in White",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 386541,
+          "id": 34688,
+          "name": "Rainbow Drip",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
+          "gcd": true,
+          "type": "spell"
+        }
+      ]
+    },
+    {
+      "rank": 3,
       "name": "Anonymous",
       "server": "",
       "rDPS": 46452,
@@ -3310,7 +4967,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Critney' Spears",
       "server": "Odin EU",
       "rDPS": 46442,
@@ -4935,7 +6592,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "name": "Taco Teurastaja",
       "server": "Cerberus EU",
       "rDPS": 46388,
@@ -6552,7 +8209,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Dalian Lieselotte",
       "server": "Anima JP",
       "rDPS": 46145,
@@ -8241,7 +9898,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "name": "Luna Parfait",
       "server": "Siren NA",
       "rDPS": 46126,
@@ -9866,7 +11523,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "name": "Mizu Amai",
       "server": "Gilgamesh NA",
       "rDPS": 46101,
@@ -11451,7 +13108,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "name": "Chacachaca Chuuchuuuu",
       "server": "Aegis JP",
       "rDPS": 46051,
@@ -13030,1599 +14687,6 @@
           "id": 34653,
           "name": "Blizzard in Cyan",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "name": "Swag Daddy",
-      "server": "Cactuar NA",
-      "rDPS": 45993,
-      "aDPS": 47067,
-      "nDPS": 41871,
-      "duration": 384871,
-      "reportCode": "6DGfTdhmMJc3qyw7",
-      "fightID": 15,
-      "dpsGiven": 3980,
-      "dpsTaken": 4029,
-      "party": [
-        "Paladin",
-        "Gunbreaker",
-        "WhiteMage",
-        "Scholar",
-        "Dragoon",
-        "Reaper",
-        "Bard",
-        "Pictomancer"
-      ],
-      "timeline": [
-        {
-          "t": 223,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 847,
-          "id": 34603669,
-          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 1471,
-          "id": 34670,
-          "name": "Pom Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 2096,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 5214,
-          "id": 34665,
-          "name": "Wing Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 5926,
-          "id": 34675,
-          "name": "Starry Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6770,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 7435,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8058,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10460,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 12909,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 15406,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 16654,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 17277,
-          "id": 34671,
-          "name": "Winged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 17899,
-          "id": 34676,
-          "name": "Mog of the Ages",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19148,
-          "id": 34681,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 20395,
-          "id": 34682,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 21018,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 23511,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 26001,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 29512,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 30135,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 31024,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 34494,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 37026,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 39512,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 42002,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 44530,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 47016,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 49545,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 52034,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 52745,
-          "id": 34684,
-          "name": "Smudge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 54523,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 58566,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 59277,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 61053,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 61675,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 64343,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 68386,
-          "id": 34666,
-          "name": "Claw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 69008,
-          "id": 34672,
-          "name": "Clawed Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 72386,
-          "id": 34667,
-          "name": "Maw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 73008,
-          "id": 34673,
-          "name": "Fanged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 76383,
-          "id": 34664,
-          "name": "Pom Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 77986,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 80519,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 83007,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 84160,
-          "id": 34670,
-          "name": "Pom Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 85492,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 91266,
-          "id": 34665,
-          "name": "Wing Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 91843,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 92825,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 98556,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 101850,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 102558,
-          "id": 34684,
-          "name": "Smudge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 104333,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 104956,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 106820,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 110872,
-          "id": 34669,
-          "name": "Starry Sky Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 113368,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 115865,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 116488,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 118358,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 118984,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 121650,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 124946,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 125926,
-          "id": 34675,
-          "name": "Starry Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127707,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 128993,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 129659,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132690,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 133934,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 134559,
-          "id": 34677,
-          "name": "Retribution of the Madeen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135182,
-          "id": 34671,
-          "name": "Winged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136388,
-          "id": 34681,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 137641,
-          "id": 34682,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 138268,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 140766,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 143305,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 145792,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 146503,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 148281,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 153398,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 155890,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 158382,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 160870,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 163405,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 165891,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 166513,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 167402,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 168068,
-          "id": 34676,
-          "name": "Mog of the Ages",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 172519,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 175817,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 179822,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 180533,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183115,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 185650,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 188139,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 190672,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 191295,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 193957,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 197958,
-          "id": 34666,
-          "name": "Claw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 198582,
-          "id": 34672,
-          "name": "Clawed Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202005,
-          "id": 34667,
-          "name": "Maw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 202583,
-          "id": 34673,
-          "name": "Fanged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 203515,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 206000,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 208493,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 209204,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 211113,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 217560,
-          "id": 34664,
-          "name": "Pom Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003815.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 221517,
-          "id": 34669,
-          "name": "Starry Sky Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 223114,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 226445,
-          "id": 34662,
-          "name": "Holy in White",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003813.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 230707,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 231241,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 233997,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 234753,
-          "id": 34684,
-          "name": "Smudge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003834.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 236483,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 237194,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 239013,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 239635,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 242301,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 245634,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 246255,
-          "id": 34675,
-          "name": "Starry Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248340,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 249626,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 250204,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253272,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 254561,
-          "id": 34681,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 255184,
-          "id": 34677,
-          "name": "Retribution of the Madeen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255806,
-          "id": 34682,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 256520,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 257141,
-          "id": 34670,
-          "name": "Pom Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258961,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 261538,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 264026,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 266518,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 270782,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 271403,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 272292,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 273447,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 276288,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 278779,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 281267,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 285532,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 286154,
-          "id": 34685,
-          "name": "Tempera Coat",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003835.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 288021,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 290514,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 294559,
-          "id": 34665,
-          "name": "Wing Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003816.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 297053,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 299546,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 302039,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 302662,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 305333,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 305999,
-          "id": 34671,
-          "name": "Winged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309375,
-          "id": 34666,
-          "name": "Claw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003817.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 309999,
-          "id": 34676,
-          "name": "Mog of the Ages",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003827.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313376,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 314044,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 317376,
-          "id": 34669,
-          "name": "Starry Sky Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003820.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 318887,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 321465,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 322088,
-          "id": 34672,
-          "name": "Clawed Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 323951,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 326439,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 332221,
-          "id": 34667,
-          "name": "Maw Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003818.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 332803,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 336226,
-          "id": 34668,
-          "name": "Hammer Motif",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003819.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 339522,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 342819,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 345307,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 347927,
-          "id": 34650,
-          "name": "Fire in Red",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003801.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 348548,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 349481,
-          "id": 34651,
-          "name": "Aero in Green",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003802.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 352950,
-          "id": 34652,
-          "name": "Water in Blue",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003803.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 353484,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 354505,
-          "id": 34663,
-          "name": "Comet in Black",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003814.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 356506,
-          "id": 34603669,
-          "name": "Grade 4 Gemdraught of Intelligence [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 357438,
-          "id": 7559,
-          "name": "Surecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 359841,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 363135,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 363804,
-          "id": 34674,
-          "name": "Striking Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003825.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364740,
-          "id": 34678,
-          "name": "Hammer Stamp",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003829.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 366342,
-          "id": 34675,
-          "name": "Starry Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003826.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 368429,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 369008,
-          "id": 34683,
-          "name": "Subtractive Palette",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003833.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 370875,
-          "id": 34653,
-          "name": "Blizzard in Cyan",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003804.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 373320,
-          "id": 34654,
-          "name": "Stone in Yellow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003805.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 373941,
-          "id": 34673,
-          "name": "Fanged Muse",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003824.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375765,
-          "id": 34655,
-          "name": "Thunder in Magenta",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003806.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 376473,
-          "id": 34677,
-          "name": "Retribution of the Madeen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 377142,
-          "id": 34681,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003832.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 378383,
-          "id": 34682,
-          "name": "Star Prism",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000405.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 379005,
-          "id": 34679,
-          "name": "Hammer Brush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003830.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 381493,
-          "id": 34680,
-          "name": "Polishing Hammer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003831.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 384024,
-          "id": 34688,
-          "name": "Rainbow Drip",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003838.png",
           "gcd": true,
           "type": "spell"
         }
