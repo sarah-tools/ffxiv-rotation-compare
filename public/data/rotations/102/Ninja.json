@@ -1,7 +1,7 @@
 {
   "encounterId": 102,
   "job": "Ninja",
-  "lastUpdated": "2026-04-13T04:32:40.573Z",
+  "lastUpdated": "2026-04-15T04:20:23.179Z",
   "rankings": [
     {
       "rank": 1,
@@ -27918,29 +27918,29 @@
     },
     {
       "rank": 10,
-      "name": "Shiora Alexis",
-      "server": "Pandaemonium JP",
-      "rDPS": 44745,
-      "aDPS": 45068,
-      "nDPS": 40797,
-      "duration": 541256,
-      "reportCode": "7t8pk2gycC1MaH6b",
-      "fightID": 27,
-      "dpsGiven": 3749,
-      "dpsTaken": 4056,
+      "name": "Fresh Bread",
+      "server": "Gilgamesh NA",
+      "rDPS": 44885,
+      "aDPS": 44009,
+      "nDPS": 41738,
+      "duration": 537816,
+      "reportCode": "pv2xyAV1BRbh4Qc6",
+      "fightID": 5,
+      "dpsGiven": 2989,
+      "dpsTaken": 2430,
       "party": [
-        "Paladin",
         "DarkKnight",
-        "WhiteMage",
+        "Gunbreaker",
         "Scholar",
-        "Monk",
+        "Astrologian",
         "Ninja",
-        "Bard",
-        "Pictomancer"
+        "Viper",
+        "Machinist",
+        "RedMage"
       ],
       "timeline": [
         {
-          "t": 488,
+          "t": 0,
           "id": 2271,
           "name": "Suiton",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
@@ -27948,7 +27948,15 @@
           "type": "ability"
         },
         {
-          "t": 2097,
+          "t": 627,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 1474,
           "id": 2240,
           "name": "Spinning Edge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
@@ -27956,7 +27964,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 2811,
+          "t": 2185,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -27964,7 +27972,7 @@
           "type": "ability"
         },
         {
-          "t": 4192,
+          "t": 3569,
           "id": 2242,
           "name": "Gust Slash",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
@@ -27972,7 +27980,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 4863,
+          "t": 4242,
           "id": 36957,
           "name": "Dokumori",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
@@ -27980,7 +27988,7 @@
           "type": "ability"
         },
         {
-          "t": 5529,
+          "t": 4865,
           "id": 16493,
           "name": "Bunshin",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
@@ -27988,39 +27996,7 @@
           "type": "ability"
         },
         {
-          "t": 6329,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6817,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 7307,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 7974,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8822,
+          "t": 5757,
           "id": 25774,
           "name": "Phantom Kamaitachi",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
@@ -28028,7 +28004,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 9493,
+          "t": 7897,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9101,
           "id": 36958,
           "name": "Kunai's Bane",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
@@ -28036,1839 +28020,7 @@
           "type": "ability"
         },
         {
-          "t": 10160,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10961,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11451,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11942,
-          "id": 16492,
-          "name": "Hyosho Ranryu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 12610,
-          "id": 7403,
-          "name": "Ten Chi Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13505,
-          "id": 18873,
-          "name": "Fuma Shuriken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14530,
-          "id": 18877,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 15555,
-          "id": 18881,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 16269,
-          "id": 16489,
-          "name": "Meisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 17026,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 17737,
-          "id": 36960,
-          "name": "Zesho Meppo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002933.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18406,
-          "id": 36961,
-          "name": "Tenri Jindo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19170,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19653,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 20187,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 21702,
-          "id": 25777,
-          "name": "Forked Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 23796,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 24556,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 25936,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 26606,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 28073,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 30211,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 32304,
-          "id": 2247,
-          "name": "Throwing Dagger",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 34977,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 37117,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 39208,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 41522,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42278,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 43615,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 45797,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 47889,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 50027,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 50739,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 52121,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 52610,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 53146,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 53635,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 55147,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 57284,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 59422,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 61516,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 62274,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 63610,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 65794,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 67889,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 68556,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 70025,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 70740,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 71494,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 72208,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 72740,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 73232,
-          "id": 16492,
-          "name": "Hyosho Ranryu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 73944,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 74836,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 75325,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 75816,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 77286,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 77777,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 78313,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 79827,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 80583,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 81965,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84060,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 86247,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 88343,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 91598,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 93735,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95828,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 96985,
-          "id": 16493,
-          "name": "Bunshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 97919,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 100061,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102197,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102910,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 104292,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 106427,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 115691,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 116226,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 116715,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 118140,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 119655,
-          "id": 25774,
-          "name": "Phantom Kamaitachi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 120368,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 121795,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 122508,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 123935,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124960,
-          "id": 36957,
-          "name": "Dokumori",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 126028,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 128168,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 128881,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130261,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 130927,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 131597,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132444,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132890,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133381,
-          "id": 16492,
-          "name": "Hyosho Ranryu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134094,
-          "id": 7403,
-          "name": "Ten Chi Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134984,
-          "id": 18873,
-          "name": "Fuma Shuriken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136007,
-          "id": 18877,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136987,
-          "id": 18881,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 137746,
-          "id": 36961,
-          "name": "Tenri Jindo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138501,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138992,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 139528,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140240,
-          "id": 36960,
-          "name": "Zesho Meppo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002933.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140997,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 141710,
-          "id": 16489,
-          "name": "Meisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142471,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 143139,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 143628,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 144164,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 145633,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147774,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 148488,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 149912,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152008,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154145,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 156287,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 158421,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160519,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 166090,
-          "id": 2241,
-          "name": "Shade Shift",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000607.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 175182,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 175673,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 176161,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 178434,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 179906,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 181998,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182800,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 184180,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 186275,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187525,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 188416,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189175,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190556,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 191267,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191980,
-          "id": 16493,
-          "name": "Bunshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 192647,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 193137,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 193672,
-          "id": 16492,
-          "name": "Hyosho Ranryu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 194341,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195277,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195725,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 196261,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 197729,
-          "id": 25774,
-          "name": "Phantom Kamaitachi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 199911,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 200401,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 200936,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202407,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 204500,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 206636,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 208775,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 209487,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 211849,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 213943,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 214608,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 216079,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219017,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 221111,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 222089,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 223249,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 225342,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227481,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 228193,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 229575,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 231756,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 233896,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 234563,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 235989,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 238082,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 238570,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 239149,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 239638,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 241108,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 242311,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 243203,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245342,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 246055,
-          "id": 36957,
-          "name": "Dokumori",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 247483,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248017,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248507,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 249217,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 249974,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 251265,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252158,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252693,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253183,
-          "id": 16492,
-          "name": "Hyosho Ranryu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255545,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256168,
-          "id": 7403,
-          "name": "Ten Chi Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257642,
-          "id": 18873,
-          "name": "Fuma Shuriken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258667,
-          "id": 18877,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 259690,
-          "id": 18881,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260405,
-          "id": 36961,
-          "name": "Tenri Jindo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 261162,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 261831,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262547,
-          "id": 16489,
-          "name": "Meisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 263304,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 263838,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 264329,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 265799,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267982,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 268695,
-          "id": 36959,
-          "name": "Deathfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 270074,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270921,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 272216,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 274353,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276451,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 278589,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 280686,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 281978,
-          "id": 16493,
-          "name": "Bunshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 282782,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 284921,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287103,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 289198,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 289866,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 291340,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 294818,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 295309,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 295753,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 296735,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 298251,
-          "id": 25774,
-          "name": "Phantom Kamaitachi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299010,
-          "id": 7548,
-          "name": "Arm's Length",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 300395,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 302535,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303383,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 304630,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 306725,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 308862,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 309662,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 310997,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 311666,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313091,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313627,
+          "t": 9949,
           "id": 18805,
           "name": "Ten",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
@@ -29876,415 +28028,7 @@
           "type": "ability"
         },
         {
-          "t": 314116,
-          "id": 16491,
-          "name": "Goka Mekkyaku",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315675,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316165,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316700,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318258,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 320392,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 320885,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 321376,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 322091,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 322890,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 325033,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 327174,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 327842,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 329266,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 331406,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333502,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 335640,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 337824,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 340053,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341078,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 342147,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 344288,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 346382,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 348518,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 350656,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 352747,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 353506,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 354887,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356978,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 357513,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 358001,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 359559,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 361695,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 363877,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364368,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364858,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 366374,
-          "id": 25777,
-          "name": "Forked Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 368466,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 370648,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 372787,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 373456,
-          "id": 16493,
-          "name": "Bunshin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 374881,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 377018,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 379111,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 381292,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 382004,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 383387,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 385477,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 387614,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 389796,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 390240,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 390728,
+          "t": 10440,
           "id": 18807,
           "name": "Jin",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
@@ -30292,15 +28036,159 @@
           "type": "ability"
         },
         {
-          "t": 391265,
-          "id": 2271,
+          "t": 10974,
+          "id": 16492,
+          "name": "Hyosho Ranryu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11644,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12668,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13115,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13605,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 14276,
+          "id": 7403,
+          "name": "Ten Chi Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15124,
+          "id": 18873,
+          "name": "Fuma Shuriken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16105,
+          "id": 18877,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17131,
+          "id": 18881,
           "name": "Suiton",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 393180,
+          "t": 17756,
+          "id": 16489,
+          "name": "Meisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18648,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 19273,
+          "id": 36961,
+          "name": "Tenri Jindo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 19941,
+          "id": 36960,
+          "name": "Zesho Meppo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002933.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20789,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 21415,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 22930,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 23418,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 23908,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 25424,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 27520,
           "id": 2240,
           "name": "Spinning Edge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
@@ -30308,15 +28196,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 394206,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 395277,
+          "t": 29617,
           "id": 2242,
           "name": "Gust Slash",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
@@ -30324,7 +28204,2079 @@
           "type": "weaponskill"
         },
         {
-          "t": 395946,
+          "t": 31980,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 34078,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 36758,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38895,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 41033,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 43125,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 43928,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 45267,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 47361,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49504,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 50128,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 51601,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 52224,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 53693,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 54229,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 54764,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 55254,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 56725,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 58861,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 60954,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 61668,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 63095,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65238,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65863,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67333,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 69475,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 70101,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70770,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 71572,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 72105,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 72596,
+          "id": 16492,
+          "name": "Hyosho Ranryu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 73221,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 74333,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 74778,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 75312,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 76784,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 77320,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 77808,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 79281,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 81421,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 83560,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 85697,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 86767,
+          "id": 2262,
+          "name": "Shukuchi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002905.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 87835,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91223,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 93363,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 94879,
+          "id": 16493,
+          "name": "Bunshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 95547,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 97643,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 99784,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 100407,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 101922,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104019,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106200,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 114037,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 114527,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 115062,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 117733,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 119250,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 120365,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 121344,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 123439,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 124108,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 125575,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 126199,
+          "id": 36957,
+          "name": "Dokumori",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 127714,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 129805,
+          "id": 25774,
+          "name": "Phantom Kamaitachi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 131006,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 131941,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132430,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132919,
+          "id": 16492,
+          "name": "Hyosho Ranryu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133587,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134566,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135057,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135591,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136260,
+          "id": 7403,
+          "name": "Ten Chi Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137061,
+          "id": 18873,
+          "name": "Fuma Shuriken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138083,
+          "id": 18877,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139062,
+          "id": 18881,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139729,
+          "id": 36960,
+          "name": "Zesho Meppo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002933.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 140574,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 141242,
+          "id": 16489,
+          "name": "Meisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 141867,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 142715,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 143340,
+          "id": 36961,
+          "name": "Tenri Jindo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 144812,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 145481,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 146953,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 147444,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 147934,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 149448,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 151586,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 153724,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 155821,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157959,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 160051,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162189,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174355,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 174845,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 175379,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 178183,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 179654,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181746,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182724,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183881,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 184549,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186021,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 188115,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 188785,
+          "id": 16493,
+          "name": "Bunshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 190303,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190971,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192351,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192886,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193378,
+          "id": 16492,
+          "name": "Hyosho Ranryu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194043,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 195068,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 195601,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 196091,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 197652,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 199791,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 200281,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 200772,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 202241,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 204425,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 206520,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 208615,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 211557,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 213740,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214453,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 215834,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 218641,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220782,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 222920,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225013,
+          "id": 25774,
+          "name": "Phantom Kamaitachi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225679,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227150,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229247,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 231387,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 232012,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 233524,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 234015,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 234505,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235041,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 236512,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 238653,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 240790,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242887,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 245024,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 245692,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246317,
+          "id": 36957,
+          "name": "Dokumori",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 247161,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 249301,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 249925,
+          "id": 36959,
+          "name": "Deathfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 250989,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 251660,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252194,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252684,
+          "id": 16492,
+          "name": "Hyosho Ranryu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002926.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 253841,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254422,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254955,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 255490,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 256244,
+          "id": 7403,
+          "name": "Ten Chi Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 256958,
+          "id": 18873,
+          "name": "Fuma Shuriken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257940,
+          "id": 18877,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 258965,
+          "id": 18881,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 260480,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 261104,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262620,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263067,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263602,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264271,
+          "id": 16489,
+          "name": "Meisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 265073,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 265743,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 267256,
+          "id": 25777,
+          "name": "Forked Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 269347,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 270016,
+          "id": 36961,
+          "name": "Tenri Jindo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 272113,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 274251,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 276344,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 278483,
+          "id": 2247,
+          "name": "Throwing Dagger",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279061,
+          "id": 16493,
+          "name": "Bunshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 280756,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 282848,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 283652,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 284945,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287086,
+          "id": 25774,
+          "name": "Phantom Kamaitachi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 289224,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 290383,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 291318,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 293990,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 294524,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 295058,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 295548,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 297061,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 297509,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 298043,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 299559,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 303130,
+          "id": 2247,
+          "name": "Throwing Dagger",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 306164,
+          "id": 2247,
+          "name": "Throwing Dagger",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307147,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308304,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 309420,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 310402,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311025,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 311831,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312677,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 313120,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 313611,
+          "id": 16491,
+          "name": "Goka Mekkyaku",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315218,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 317358,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 319452,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 319987,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320476,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 321190,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 321992,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324129,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 326226,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328363,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 329077,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 330458,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332600,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 334740,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336881,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339019,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341113,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 343207,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345394,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347491,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 347937,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 348472,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 350033,
+          "id": 25777,
+          "name": "Forked Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 352131,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354228,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354853,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 356325,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 358465,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360602,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361585,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 362697,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 364839,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 366934,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369075,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 371213,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371702,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 372192,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 373709,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 375804,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 377988,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 380129,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 380620,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381112,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381601,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382360,
+          "id": 2262,
+          "name": "Shukuchi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002905.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 383210,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385308,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385974,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 387444,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389543,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 390212,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 391013,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -30332,223 +30284,7 @@
           "type": "ability"
         },
         {
-          "t": 396615,
-          "id": 36957,
-          "name": "Dokumori",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397417,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 398129,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 398885,
-          "id": 36959,
-          "name": "Deathfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 399552,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400043,
-          "id": 18805,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400533,
-          "id": 16491,
-          "name": "Goka Mekkyaku",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 401247,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 402098,
-          "id": 2261,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 402631,
-          "id": 18805,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403167,
-          "id": 2266,
-          "name": "Katon",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002908.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403836,
-          "id": 7403,
-          "name": "Ten Chi Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 404682,
-          "id": 18873,
-          "name": "Fuma Shuriken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 405661,
-          "id": 18877,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 406640,
-          "id": 18881,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 407354,
-          "id": 16489,
-          "name": "Meisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 408156,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 408825,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 409535,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 410295,
-          "id": 25774,
-          "name": "Phantom Kamaitachi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 410962,
-          "id": 36961,
-          "name": "Tenri Jindo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 412388,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414522,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 415592,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 416707,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 418844,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420937,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 423030,
+          "t": 393287,
           "id": 3563,
           "name": "Armor Crush",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
@@ -30556,175 +30292,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 423742,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 428643,
-          "id": 2247,
-          "name": "Throwing Dagger",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 430736,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 432873,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 435014,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 437151,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 437639,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 438175,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 439644,
-          "id": 2247,
-          "name": "Throwing Dagger",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 441824,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 443919,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 444632,
-          "id": 7548,
-          "name": "Arm's Length",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 446058,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 446771,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 448239,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 450332,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 450868,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451314,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451850,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 453320,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 454078,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 454746,
+          "t": 394314,
           "id": 2264,
           "name": "Kassatsu",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
@@ -30732,23 +30300,23 @@
           "type": "ability"
         },
         {
-          "t": 455460,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "t": 394982,
+          "id": 36957,
+          "name": "Dokumori",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 395606,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 457597,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458354,
+          "t": 396273,
           "id": 36958,
           "name": "Kunai's Bane",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
@@ -30756,135 +30324,7 @@
           "type": "ability"
         },
         {
-          "t": 459692,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 460180,
-          "id": 18805,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 460761,
-          "id": 16491,
-          "name": "Goka Mekkyaku",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 461473,
-          "id": 7401,
-          "name": "Hellfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 462407,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 462852,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 463387,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 464903,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 466995,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469130,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469798,
-          "id": 2241,
-          "name": "Shade Shift",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000607.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 470510,
-          "id": 3566,
-          "name": "Dream Within a Dream",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 471312,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 473402,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 475543,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 477635,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 478304,
+          "t": 396893,
           "id": 16493,
           "name": "Bunshin",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
@@ -30892,23 +30332,7 @@
           "type": "ability"
         },
         {
-          "t": 479726,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 482443,
-          "id": 2247,
-          "name": "Throwing Dagger",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 484537,
+          "t": 397739,
           "id": 25774,
           "name": "Phantom Kamaitachi",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
@@ -30916,343 +30340,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 487166,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 488058,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 489263,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491450,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 493545,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 495683,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 497820,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 499916,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 500629,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 502054,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502721,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504147,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504639,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 505173,
-          "id": 18807,
-          "name": "Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 505662,
-          "id": 2271,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 507532,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 509623,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 511759,
-          "id": 2255,
-          "name": "Aeolian Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 513851,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 516028,
-          "id": 2247,
-          "name": "Throwing Dagger",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000614.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 518123,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 520259,
-          "id": 3563,
-          "name": "Armor Crush",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 520971,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 522356,
-          "id": 2240,
-          "name": "Spinning Edge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 523251,
-          "id": 36957,
-          "name": "Dokumori",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 524544,
-          "id": 2242,
-          "name": "Gust Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 525215,
-          "id": 2264,
-          "name": "Kassatsu",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 525883,
-          "id": 36958,
-          "name": "Kunai's Bane",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 526640,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 527132,
-          "id": 18805,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 527622,
-          "id": 16491,
-          "name": "Goka Mekkyaku",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 528291,
-          "id": 7403,
-          "name": "Ten Chi Jin",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 529185,
-          "id": 18873,
-          "name": "Fuma Shuriken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 530164,
-          "id": 18877,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 531190,
-          "id": 18881,
-          "name": "Suiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 531948,
-          "id": 36961,
-          "name": "Tenri Jindo",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 532702,
-          "id": 25777,
-          "name": "Forked Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 533369,
-          "id": 36959,
-          "name": "Deathfrog Medium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 534038,
-          "id": 16489,
-          "name": "Meisui",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 534795,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 535331,
-          "id": 18806,
-          "name": "Chi",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 535821,
-          "id": 2267,
-          "name": "Raiton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 536576,
+          "t": 398407,
           "id": 3566,
           "name": "Dream Within a Dream",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
@@ -31260,31 +30348,7 @@
           "type": "ability"
         },
         {
-          "t": 537332,
-          "id": 25778,
-          "name": "Fleeting Raiju",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 537998,
-          "id": 7402,
-          "name": "Bhavacakra",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 539469,
-          "id": 2259,
-          "name": "Ten",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 539959,
+          "t": 399835,
           "id": 18806,
           "name": "Chi",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
@@ -31292,12 +30356,852 @@
           "type": "ability"
         },
         {
-          "t": 540492,
+          "t": 400371,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 400861,
+          "id": 16491,
+          "name": "Goka Mekkyaku",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 401527,
+          "id": 7403,
+          "name": "Ten Chi Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 402555,
+          "id": 18873,
+          "name": "Fuma Shuriken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 403535,
+          "id": 18877,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404559,
+          "id": 18881,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 405186,
+          "id": 16489,
+          "name": "Meisui",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002924.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 406032,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 406702,
+          "id": 36959,
+          "name": "Deathfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 407327,
+          "id": 36961,
+          "name": "Tenri Jindo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 408265,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 410406,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 411607,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 412497,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 414681,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417581,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419723,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 420214,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 420704,
           "id": 2267,
           "name": "Raiton",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
           "gcd": false,
           "type": "ability"
+        },
+        {
+          "t": 422219,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 424534,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 424980,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 425472,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 426988,
+          "id": 25777,
+          "name": "Forked Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002931.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 427966,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429084,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431222,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431892,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 435369,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 441119,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 442099,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 443213,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 445346,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 447445,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 449585,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 450075,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 450610,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 451145,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 452614,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 454712,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 455379,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 456271,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 456894,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 457429,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 457920,
+          "id": 16491,
+          "name": "Goka Mekkyaku",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 458590,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 459214,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 459839,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 461979,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 462469,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 463004,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 464476,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 466615,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 468751,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 470844,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 472984,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475079,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475790,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 477217,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 479401,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 481496,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483592,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 486221,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487022,
+          "id": 16493,
+          "name": "Bunshin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002927.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488315,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 490496,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491475,
+          "id": 2262,
+          "name": "Shukuchi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002905.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 492634,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 493213,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 494729,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 496823,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 498963,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 501056,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501592,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 502127,
+          "id": 18807,
+          "name": "Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002903.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 502619,
+          "id": 2271,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 504088,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 507031,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 509616,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 510240,
+          "id": 7402,
+          "name": "Bhavacakra",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002921.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 511754,
+          "id": 2255,
+          "name": "Aeolian Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000605.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 513852,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 517147,
+          "id": 2242,
+          "name": "Gust Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 518482,
+          "id": 2264,
+          "name": "Kassatsu",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002906.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 519239,
+          "id": 3563,
+          "name": "Armor Crush",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002915.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 521383,
+          "id": 2240,
+          "name": "Spinning Edge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 522096,
+          "id": 36957,
+          "name": "Dokumori",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 522676,
+          "id": 36958,
+          "name": "Kunai's Bane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000620.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523435,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523970,
+          "id": 18805,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 524460,
+          "id": 16491,
+          "name": "Goka Mekkyaku",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002925.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 525084,
+          "id": 36959,
+          "name": "Deathfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002934.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 525755,
+          "id": 2241,
+          "name": "Shade Shift",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000607.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 526380,
+          "id": 2259,
+          "name": "Ten",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002901.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 526916,
+          "id": 18806,
+          "name": "Chi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002902.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 527409,
+          "id": 2267,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528033,
+          "id": 7401,
+          "name": "Hellfrog Medium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002920.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528927,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 529595,
+          "id": 3566,
+          "name": "Dream Within a Dream",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002918.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 531068,
+          "id": 25774,
+          "name": "Phantom Kamaitachi",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002929.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 531693,
+          "id": 7403,
+          "name": "Ten Chi Jin",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002922.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 533165,
+          "id": 18873,
+          "name": "Fuma Shuriken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002907.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 534147,
+          "id": 18877,
+          "name": "Raiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002912.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 535174,
+          "id": 18881,
+          "name": "Suiton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002913.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 535798,
+          "id": 36961,
+          "name": "Tenri Jindo",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002935.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 536647,
+          "id": 25778,
+          "name": "Fleeting Raiju",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002932.png",
+          "gcd": true,
+          "type": "weaponskill"
         }
       ]
     }
