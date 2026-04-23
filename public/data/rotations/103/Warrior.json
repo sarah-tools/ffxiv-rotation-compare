@@ -1,7 +1,7 @@
 {
   "encounterId": 103,
   "job": "Warrior",
-  "lastUpdated": "2026-04-21T04:31:36.811Z",
+  "lastUpdated": "2026-04-23T04:32:22.867Z",
   "rankings": [
     {
       "rank": 1,
@@ -27700,29 +27700,29 @@
     },
     {
       "rank": 10,
-      "name": "Aori Valantine",
-      "server": "Diabolos NA",
-      "rDPS": 27080,
-      "aDPS": 28891,
-      "nDPS": 27080,
-      "duration": 635122,
-      "reportCode": "qZhJgjfv3kyKC9c7",
-      "fightID": 20,
+      "name": "Tepico Yajima",
+      "server": "Titan JP",
+      "rDPS": 27087,
+      "aDPS": 28854,
+      "nDPS": 27087,
+      "duration": 638837,
+      "reportCode": "9FAkwPdbNCc64GMQ",
+      "fightID": 8,
       "dpsGiven": 0,
-      "dpsTaken": 1397,
+      "dpsTaken": 1523,
       "party": [
+        "Paladin",
         "Warrior",
-        "DarkKnight",
-        "Astrologian",
+        "Scholar",
         "Sage",
-        "Ninja",
-        "Machinist",
-        "BlackMage",
+        "Reaper",
+        "Viper",
+        "Dancer",
         "Summoner"
       ],
       "timeline": [
         {
-          "t": 1383,
+          "t": 357,
           "id": 46,
           "name": "Tomahawk",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
@@ -27730,23 +27730,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 2185,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 3873,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 4761,
+          "t": 1021,
           "id": 7533,
           "name": "Provoke",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
@@ -27754,7 +27738,31 @@
           "type": "ability"
         },
         {
-          "t": 6367,
+          "t": 1691,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 2894,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 3873,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 5383,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -27762,15 +27770,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 8858,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 9659,
+          "t": 6051,
           "id": 7389,
           "name": "Inner Release",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
@@ -27778,7 +27778,23 @@
           "type": "ability"
         },
         {
-          "t": 10504,
+          "t": 7208,
+          "id": 16464,
+          "name": "Nascent Flash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002567.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7874,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9032,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -27786,15 +27802,7 @@
           "type": "ability"
         },
         {
-          "t": 11348,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 12236,
+          "t": 9701,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -27802,23 +27810,23 @@
           "type": "ability"
         },
         {
-          "t": 13079,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13879,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "t": 10368,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 15213,
+          "t": 11033,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11701,
           "id": 7386,
           "name": "Onslaught",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
@@ -27826,7 +27834,7 @@
           "type": "ability"
         },
         {
-          "t": 16411,
+          "t": 12860,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -27834,7 +27842,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 17257,
+          "t": 13752,
+          "id": 7388,
+          "name": "Shake It Off",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 14419,
           "id": 36923,
           "name": "Damnation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
@@ -27842,15 +27858,7 @@
           "type": "ability"
         },
         {
-          "t": 18100,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18945,
+          "t": 15398,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -27858,7 +27866,71 @@
           "type": "weaponskill"
         },
         {
-          "t": 19790,
+          "t": 16066,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17090,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17894,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 18562,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 19762,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20428,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 22920,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 25415,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 26038,
           "id": 40,
           "name": "Thrill of Battle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
@@ -27866,1135 +27938,7 @@
           "type": "ability"
         },
         {
-          "t": 20636,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 21527,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 22372,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 23082,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 24060,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 24905,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 26547,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 29036,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 31523,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 34098,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 36586,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 37432,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 39077,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 41567,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42321,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 44098,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 46585,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 47385,
-          "id": 7388,
-          "name": "Shake It Off",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 48138,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 49074,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 51655,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52722,
-          "id": 16464,
-          "name": "Nascent Flash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002567.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 54232,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56855,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 59610,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 62102,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 64590,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 67170,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69658,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 70369,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 71214,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 72146,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 72990,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 74634,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 77125,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 77879,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 78724,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 79614,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 82104,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84908,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 87440,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 89929,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 92422,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 93400,
-          "id": 16464,
-          "name": "Nascent Flash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002567.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 94912,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 97448,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 99933,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102469,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 103315,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 104963,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 107456,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 109988,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 112483,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 115013,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 117504,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 119989,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 120745,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 122483,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124971,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 127468,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 129959,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 130803,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 131648,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132450,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 133295,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134096,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134939,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135783,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 137515,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 138314,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 139159,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140005,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 141341,
-          "id": 7388,
-          "name": "Shake It Off",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142498,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 144987,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147605,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 148405,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 150092,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 150982,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 152583,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 153470,
-          "id": 36923,
-          "name": "Damnation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 155158,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 157644,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 158980,
-          "id": 40,
-          "name": "Thrill of Battle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 160142,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 161343,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 162633,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163525,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 165132,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 167623,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170122,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 172577,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 175075,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 177574,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 180074,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182570,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 185193,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187688,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 190182,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 190895,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 192683,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 193660,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 194418,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195310,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 197853,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 200345,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 201144,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202834,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 203636,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 205334,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 207826,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 210325,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212870,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 213897,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 215591,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 218130,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 220587,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223046,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223893,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 225549,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 226398,
-          "id": 43,
-          "name": "Holmgang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000266.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 228048,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 230555,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 231405,
-          "id": 7388,
-          "name": "Shake It Off",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 233055,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 235648,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 238111,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 240573,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 243035,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245538,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 248035,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 248795,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 250538,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 251431,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252145,
-          "id": 40,
-          "name": "Thrill of Battle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253040,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 253889,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 254692,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255586,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 257103,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258084,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258932,
+          "t": 26976,
           "id": 3552,
           "name": "Equilibrium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
@@ -29002,55 +27946,39 @@
           "type": "ability"
         },
         {
-          "t": 260587,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "t": 27956,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 261343,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262275,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 263078,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "t": 30448,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 263835,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 265577,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "t": 32940,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 266379,
+          "t": 35432,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 36680,
           "id": 52,
           "name": "Infuriate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
@@ -29058,15 +27986,7 @@
           "type": "ability"
         },
         {
-          "t": 267227,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268076,
+          "t": 37973,
           "id": 16465,
           "name": "Inner Chaos",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
@@ -29074,55 +27994,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 270576,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 273078,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 275586,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 278223,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 280684,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283235,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283994,
+          "t": 39707,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -29130,7 +28002,7 @@
           "type": "ability"
         },
         {
-          "t": 285695,
+          "t": 40466,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -29138,63 +28010,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 288197,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 290658,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 293115,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295618,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 298122,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299373,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 300668,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303126,
+          "t": 42962,
           "id": 45,
           "name": "Storm's Eye",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
@@ -29202,15 +28018,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 304690,
-          "id": 34603666,
-          "name": "Grade 4 Gemdraught of Strength [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 305628,
+          "t": 45456,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29218,23 +28026,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 308265,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 309246,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 310766,
+          "t": 47994,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -29242,7 +28034,71 @@
           "type": "weaponskill"
         },
         {
-          "t": 311614,
+          "t": 50535,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 53027,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55524,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 58062,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 60334,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 61004,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63543,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66039,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66750,
           "id": 7389,
           "name": "Inner Release",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
@@ -29250,15 +28106,7 @@
           "type": "ability"
         },
         {
-          "t": 312327,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313264,
+          "t": 68932,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29266,7 +28114,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 314065,
+          "t": 69733,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -29274,7 +28122,7 @@
           "type": "ability"
         },
         {
-          "t": 315760,
+          "t": 71471,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29282,15 +28130,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 317144,
-          "id": 36923,
-          "name": "Damnation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318260,
+          "t": 73962,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29298,15 +28138,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 320754,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 322180,
+          "t": 74630,
           "id": 36924,
           "name": "Primal Wrath",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
@@ -29314,15 +28146,7 @@
           "type": "ability"
         },
         {
-          "t": 323250,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 324055,
+          "t": 75298,
           "id": 52,
           "name": "Infuriate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
@@ -29330,7 +28154,23 @@
           "type": "ability"
         },
         {
-          "t": 325708,
+          "t": 76452,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78945,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 81437,
           "id": 16465,
           "name": "Inner Chaos",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
@@ -29338,7 +28178,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 328253,
+          "t": 83976,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -29346,79 +28186,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 330803,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333259,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 335807,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 338263,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 340723,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 343181,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 344030,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 346269,
-          "id": 46,
-          "name": "Tomahawk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 348997,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 349937,
+          "t": 86509,
           "id": 45,
           "name": "Storm's Eye",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
@@ -29426,7 +28194,111 @@
           "type": "weaponskill"
         },
         {
-          "t": 350921,
+          "t": 88383,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 89096,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91633,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 94132,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 96627,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 99119,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 99789,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 101611,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104100,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106638,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109132,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 111623,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 114160,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 114829,
           "id": 7388,
           "name": "Shake It Off",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
@@ -29434,7 +28306,7 @@
           "type": "ability"
         },
         {
-          "t": 352393,
+          "t": 116655,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -29442,7 +28314,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 354893,
+          "t": 119150,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -29450,15 +28322,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 357349,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 359810,
+          "t": 121647,
           "id": 42,
           "name": "Storm's Path",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
@@ -29466,31 +28330,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 360526,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 362308,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 367362,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 369861,
+          "t": 124144,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29498,7 +28338,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 371601,
+          "t": 126641,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 127310,
           "id": 7389,
           "name": "Inner Release",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
@@ -29506,7 +28354,7 @@
           "type": "ability"
         },
         {
-          "t": 372358,
+          "t": 129097,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29514,7 +28362,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 374053,
+          "t": 129810,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -29522,23 +28370,7 @@
           "type": "ability"
         },
         {
-          "t": 374856,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 375706,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 376556,
+          "t": 130879,
           "id": 7386,
           "name": "Onslaught",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
@@ -29546,47 +28378,7 @@
           "type": "ability"
         },
         {
-          "t": 377358,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378160,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 379942,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 380653,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381498,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 382434,
+          "t": 131993,
           "id": 25753,
           "name": "Primal Rend",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
@@ -29594,15 +28386,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 383907,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "t": 133244,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 384889,
+          "t": 134493,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 137035,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 138060,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138730,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139535,
           "id": 36925,
           "name": "Primal Ruination",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
@@ -29610,7 +28434,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 387393,
+          "t": 142030,
           "id": 16465,
           "name": "Inner Chaos",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
@@ -29618,31 +28442,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 390030,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 394100,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 394907,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 396563,
+          "t": 144524,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -29650,7 +28450,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 399025,
+          "t": 147027,
           "id": 42,
           "name": "Storm's Path",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
@@ -29658,7 +28458,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 401482,
+          "t": 147652,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 149609,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -29666,7 +28474,359 @@
           "type": "weaponskill"
         },
         {
-          "t": 404080,
+          "t": 150278,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 152105,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154602,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 155315,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 156160,
+          "id": 36923,
+          "name": "Damnation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 157095,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 158386,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 159589,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 160303,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 162082,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 164575,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 167113,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 169610,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172104,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174600,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 175314,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 177101,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 179602,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182090,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 183202,
+          "id": 3552,
+          "name": "Equilibrium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 184630,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185570,
+          "id": 16464,
+          "name": "Nascent Flash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002567.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 187174,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187845,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 189629,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190967,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192124,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192790,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194660,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197155,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 197868,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 199693,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202192,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 204687,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207179,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207847,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 209714,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 212208,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214700,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217193,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 219692,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220943,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222193,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 224739,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 227237,
           "id": 46,
           "name": "Tomahawk",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
@@ -29674,7 +28834,871 @@
           "type": "weaponskill"
         },
         {
-          "t": 405914,
+          "t": 228348,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 229729,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230442,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 231113,
+          "id": 7388,
+          "name": "Shake It Off",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 232224,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 234721,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237214,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 239709,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242199,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 244694,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 247190,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 247991,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 248701,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249726,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 250929,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252224,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 253425,
+          "id": 43,
+          "name": "Holmgang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000266.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254719,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 255565,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257216,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 258149,
+          "id": 40,
+          "name": "Thrill of Battle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 258816,
+          "id": 3552,
+          "name": "Equilibrium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 259752,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 261178,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262250,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263096,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263719,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264744,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 267236,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 269773,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 270440,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 272265,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 274763,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277304,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279799,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 280913,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282341,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284838,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287331,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 289831,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 292329,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294824,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 297322,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 297990,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 298660,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 299818,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302312,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 304808,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 306456,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 307434,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 308103,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308770,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 309929,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311129,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312421,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 314912,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 317452,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 318207,
+          "id": 36923,
+          "name": "Damnation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 319947,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 320617,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 322447,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324988,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 327483,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328687,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 329980,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332477,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 334977,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336715,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 337473,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339965,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341170,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342463,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345005,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347503,
+          "id": 46,
+          "name": "Tomahawk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 348928,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 350040,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 352536,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 353650,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 355028,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 357525,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360019,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360734,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 362475,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 366712,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 368097,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 369210,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 370502,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371706,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 372376,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 374204,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 376033,
+          "id": 7388,
+          "name": "Shake It Off",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 376790,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 377458,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 379280,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 380257,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 380926,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381773,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 384267,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 386762,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389255,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 393492,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 394205,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 396695,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 397406,
+          "id": 3552,
+          "name": "Equilibrium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 399187,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 401681,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 402439,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404223,
+          "id": 46,
+          "name": "Tomahawk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 405829,
           "id": 7386,
           "name": "Onslaught",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
@@ -29683,38 +29707,6 @@
         },
         {
           "t": 406716,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407564,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 409176,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 411675,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414176,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -29722,7 +29714,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 416677,
+          "t": 409207,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -29730,15 +29722,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 417883,
-          "id": 40,
-          "name": "Thrill of Battle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 419176,
+          "t": 411697,
           "id": 42,
           "name": "Storm's Path",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
@@ -29746,7 +29730,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 420024,
+          "t": 414192,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 416690,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 418203,
           "id": 25751,
           "name": "Bloodwhetting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
@@ -29754,7 +29754,15 @@
           "type": "ability"
         },
         {
-          "t": 421719,
+          "t": 419187,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 421722,
           "id": 46,
           "name": "Tomahawk",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
@@ -29762,23 +29770,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 426319,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 428778,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 431277,
+          "t": 425647,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29786,7 +29778,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 432171,
+          "t": 428141,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428810,
           "id": 7389,
           "name": "Inner Release",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
@@ -29794,7 +29794,7 @@
           "type": "ability"
         },
         {
-          "t": 433777,
+          "t": 430637,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29802,7 +29802,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 436317,
+          "t": 432420,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 433133,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 435626,
           "id": 46,
           "name": "Tomahawk",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
@@ -29810,7 +29826,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 438810,
+          "t": 438121,
           "id": 25753,
           "name": "Primal Rend",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
@@ -29818,15 +29834,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 440371,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 441309,
+          "t": 440661,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -29834,167 +29842,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 443769,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 444529,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 445376,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 446312,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 447162,
-          "id": 7388,
-          "name": "Shake It Off",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 448810,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 451308,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 453803,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 456301,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458801,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 461262,
-          "id": 46,
-          "name": "Tomahawk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 464525,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 466985,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469526,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 471133,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 472070,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 472829,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 474526,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 476983,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 479530,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 480335,
+          "t": 441375,
           "id": 7535,
           "name": "Reprisal",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
@@ -30002,151 +29850,7 @@
           "type": "ability"
         },
         {
-          "t": 481987,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 484534,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486989,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 487747,
-          "id": 36923,
-          "name": "Damnation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 488593,
-          "id": 3552,
-          "name": "Equilibrium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 489484,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 490331,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 491981,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 492786,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 493499,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494480,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 495507,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 496975,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 498405,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499474,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501969,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502860,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504469,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 505939,
+          "t": 442044,
           "id": 36924,
           "name": "Primal Wrath",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
@@ -30154,7 +29858,7 @@
           "type": "ability"
         },
         {
-          "t": 506964,
+          "t": 443157,
           "id": 36925,
           "name": "Primal Ruination",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
@@ -30162,7 +29866,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 507677,
+          "t": 443868,
           "id": 52,
           "name": "Infuriate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
@@ -30170,7 +29874,7 @@
           "type": "ability"
         },
         {
-          "t": 509463,
+          "t": 445647,
           "id": 16465,
           "name": "Inner Chaos",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
@@ -30178,7 +29882,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 511919,
+          "t": 448141,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -30186,47 +29890,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 514504,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 517005,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 519461,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 520487,
-          "id": 16464,
-          "name": "Nascent Flash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002567.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 521963,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 524463,
+          "t": 450635,
           "id": 45,
           "name": "Storm's Eye",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
@@ -30234,7 +29898,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 526965,
+          "t": 451839,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 453130,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 455668,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -30242,7 +29922,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 529460,
+          "t": 458164,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -30250,15 +29930,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 531961,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "t": 460660,
+          "id": 46,
+          "name": "Tomahawk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 532855,
+          "t": 463600,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 464358,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -30266,15 +29954,15 @@
           "type": "ability"
         },
         {
-          "t": 534511,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "t": 466092,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 537010,
+          "t": 468588,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -30282,7 +29970,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 539645,
+          "t": 470545,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471257,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -30290,15 +29986,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 542102,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 542909,
+          "t": 471971,
           "id": 7388,
           "name": "Shake It Off",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
@@ -30306,7 +29994,15 @@
           "type": "ability"
         },
         {
-          "t": 544597,
+          "t": 473751,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 476242,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -30314,7 +30010,319 @@
           "type": "weaponskill"
         },
         {
-          "t": 545534,
+          "t": 478741,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 481237,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483730,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 486219,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488717,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 489429,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 490096,
+          "id": 36923,
+          "name": "Damnation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 490764,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491436,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 492191,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 494020,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 494999,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 496512,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 497267,
+          "id": 3552,
+          "name": "Equilibrium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 499005,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500253,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501501,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 502707,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 504000,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 506497,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 508100,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 508990,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 511483,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 513983,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 515770,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 516484,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 519027,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 521525,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 524024,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 525095,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 526480,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 528977,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 531521,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 532281,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 534021,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 536522,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 539022,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 541514,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 544099,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 545305,
           "id": 7531,
           "name": "Rampart",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
@@ -30322,7 +30330,15 @@
           "type": "ability"
         },
         {
-          "t": 547140,
+          "t": 546598,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 549055,
           "id": 37,
           "name": "Maim",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
@@ -30330,15 +30346,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 549639,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "t": 549725,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 551512,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 550935,
+          "t": 554093,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 554855,
           "id": 40,
           "name": "Thrill of Battle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000263.png",
@@ -30346,79 +30378,7 @@
           "type": "ability"
         },
         {
-          "t": 552097,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 552945,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 554551,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 557089,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 557891,
-          "id": 25751,
-          "name": "Bloodwhetting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 559584,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 560298,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 561143,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 562080,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 562882,
+          "t": 555568,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -30426,7 +30386,55 @@
           "type": "ability"
         },
         {
-          "t": 564576,
+          "t": 557218,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 558020,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 559717,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 560385,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 561051,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 562207,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 564703,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -30434,15 +30442,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 567071,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "t": 565417,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 567243,
+          "id": 46,
+          "name": "Tomahawk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000261.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 569881,
+          "t": 569738,
           "id": 25753,
           "name": "Primal Rend",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
@@ -30450,7 +30466,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 572424,
+          "t": 572413,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 574909,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 577447,
           "id": 36925,
           "name": "Primal Ruination",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
@@ -30458,23 +30490,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 574967,
-          "id": 45,
-          "name": "Storm's Eye",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 577466,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 578358,
+          "t": 578205,
           "id": 7535,
           "name": "Reprisal",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
@@ -30482,55 +30498,7 @@
           "type": "ability"
         },
         {
-          "t": 579965,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 582464,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 584958,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 585851,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 587457,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 589956,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 592415,
+          "t": 579940,
           "id": 45,
           "name": "Storm's Eye",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
@@ -30538,7 +30506,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 593171,
+          "t": 580832,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 582482,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 584976,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 585823,
           "id": 7387,
           "name": "Upheaval",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
@@ -30546,55 +30538,7 @@
           "type": "ability"
         },
         {
-          "t": 594871,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 597372,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 599873,
-          "id": 42,
-          "name": "Storm's Path",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 602376,
-          "id": 31,
-          "name": "Heavy Swing",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 604878,
-          "id": 37,
-          "name": "Maim",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 606532,
-          "id": 34603666,
-          "name": "Grade 4 Gemdraught of Strength [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 607380,
+          "t": 587470,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -30602,31 +30546,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 608899,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 609880,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "t": 589967,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 610724,
-          "id": 36923,
-          "name": "Damnation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
-          "gcd": false,
-          "type": "ability"
+          "t": 592460,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
         },
         {
-          "t": 611618,
+          "t": 594954,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 596199,
           "id": 25751,
           "name": "Bloodwhetting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
@@ -30634,7 +30578,7 @@
           "type": "ability"
         },
         {
-          "t": 612555,
+          "t": 597445,
           "id": 42,
           "name": "Storm's Path",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
@@ -30642,23 +30586,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 613404,
-          "id": 7389,
-          "name": "Inner Release",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 614164,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 615056,
+          "t": 599937,
           "id": 3549,
           "name": "Fell Cleave",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
@@ -30666,111 +30594,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 615904,
-          "id": 52,
-          "name": "Infuriate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "t": 600605,
+          "id": 7388,
+          "name": "Shake It Off",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 617423,
-          "id": 43,
-          "name": "Holmgang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000266.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 618271,
-          "id": 16465,
-          "name": "Inner Chaos",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 619117,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 620770,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 621526,
-          "id": 7386,
-          "name": "Onslaught",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 623306,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 624062,
-          "id": 7387,
-          "name": "Upheaval",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 624913,
-          "id": 36924,
-          "name": "Primal Wrath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 625806,
-          "id": 3549,
-          "name": "Fell Cleave",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 628301,
-          "id": 25753,
-          "name": "Primal Rend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 630790,
-          "id": 36925,
-          "name": "Primal Ruination",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 631810,
-          "id": 3552,
-          "name": "Equilibrium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002560.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 633285,
+          "t": 602430,
           "id": 31,
           "name": "Heavy Swing",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
@@ -30778,10 +30610,210 @@
           "type": "weaponskill"
         },
         {
-          "t": 634044,
-          "id": 7388,
-          "name": "Shake It Off",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002563.png",
+          "t": 604968,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 606393,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 607462,
+          "id": 45,
+          "name": "Storm's Eye",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000264.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 608486,
+          "id": 52,
+          "name": "Infuriate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002555.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 609732,
+          "id": 7389,
+          "name": "Inner Release",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002564.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 610401,
+          "id": 16465,
+          "name": "Inner Chaos",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002568.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 611601,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 612894,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 615392,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 616017,
+          "id": 43,
+          "name": "Holmgang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000266.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 616686,
+          "id": 7387,
+          "name": "Upheaval",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002562.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 617891,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 620426,
+          "id": 25753,
+          "name": "Primal Rend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002571.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 621634,
+          "id": 36924,
+          "name": "Primal Wrath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002574.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 622922,
+          "id": 36925,
+          "name": "Primal Ruination",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002050.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 625462,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 626131,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 627955,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 630449,
+          "id": 42,
+          "name": "Storm's Path",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000258.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 632945,
+          "id": 3549,
+          "name": "Fell Cleave",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002557.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 634145,
+          "id": 36923,
+          "name": "Damnation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002573.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 635441,
+          "id": 31,
+          "name": "Heavy Swing",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000260.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 636110,
+          "id": 25751,
+          "name": "Bloodwhetting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002569.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 636777,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 637938,
+          "id": 37,
+          "name": "Maim",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000255.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 638607,
+          "id": 7386,
+          "name": "Onslaught",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002561.png",
           "gcd": false,
           "type": "ability"
         }
