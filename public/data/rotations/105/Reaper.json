@@ -1,7 +1,7 @@
 {
   "encounterId": 105,
   "job": "Reaper",
-  "lastUpdated": "2026-04-22T04:23:11.415Z",
+  "lastUpdated": "2026-04-24T04:32:14.403Z",
   "rankings": [
     {
       "rank": 1,
@@ -2832,14 +2832,14 @@
       "rank": 2,
       "name": "Lily Harper",
       "server": "Chocobo JP",
-      "rDPS": 44838,
-      "aDPS": 47592,
-      "nDPS": 42410,
-      "duration": 517374,
-      "reportCode": "W7mh2gBKDq4MptRF",
-      "fightID": 28,
-      "dpsGiven": 2425,
-      "dpsTaken": 4747,
+      "rDPS": 45893,
+      "aDPS": 48716,
+      "nDPS": 43489,
+      "duration": 515264,
+      "reportCode": "6PH3c8nC2FXZj4xw",
+      "fightID": 10,
+      "dpsGiven": 2402,
+      "dpsTaken": 5222,
       "party": [
         "DarkKnight",
         "DarkKnight",
@@ -2852,7 +2852,7 @@
       ],
       "timeline": [
         {
-          "t": 397,
+          "t": 43,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -2860,15 +2860,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 2853,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "t": 1115,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 2543,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 3478,
+          "t": 3210,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -2876,15 +2884,7 @@
           "type": "ability"
         },
         {
-          "t": 4324,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 5123,
+          "t": 4100,
           "id": 24405,
           "name": "Arcane Circle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
@@ -2892,23 +2892,7 @@
           "type": "ability"
         },
         {
-          "t": 6856,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 7479,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8369,
+          "t": 5035,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -2916,7 +2900,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 8993,
+          "t": 5745,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -2924,7 +2908,7 @@
           "type": "ability"
         },
         {
-          "t": 9836,
+          "t": 6593,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -2932,7 +2916,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 10460,
+          "t": 7262,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -2940,7 +2924,31 @@
           "type": "ability"
         },
         {
-          "t": 12109,
+          "t": 8063,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9577,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 10247,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11803,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -2948,7 +2956,7 @@
           "type": "spell"
         },
         {
-          "t": 12775,
+          "t": 12470,
           "id": 7549,
           "name": "Feint",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
@@ -2956,7 +2964,7 @@
           "type": "ability"
         },
         {
-          "t": 13844,
+          "t": 13586,
           "id": 24385,
           "name": "Plentiful Harvest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
@@ -2964,7 +2972,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 14469,
+          "t": 14253,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -2972,7 +2980,7 @@
           "type": "ability"
         },
         {
-          "t": 15134,
+          "t": 14924,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -2980,7 +2988,7 @@
           "type": "ability"
         },
         {
-          "t": 16382,
+          "t": 16083,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -2988,7 +2996,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 17851,
+          "t": 17552,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -2996,7 +3004,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 18473,
+          "t": 18220,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -3004,7 +3012,7 @@
           "type": "ability"
         },
         {
-          "t": 19363,
+          "t": 19066,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3012,7 +3020,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 20879,
+          "t": 20580,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -3020,7 +3028,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 21501,
+          "t": 21247,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -3028,7 +3036,7 @@
           "type": "ability"
         },
         {
-          "t": 23153,
+          "t": 22806,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -3036,7 +3044,7 @@
           "type": "spell"
         },
         {
-          "t": 24890,
+          "t": 24588,
           "id": 36973,
           "name": "Perfectio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
@@ -3044,7 +3052,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 25557,
+          "t": 25657,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -3052,15 +3060,7 @@
           "type": "ability"
         },
         {
-          "t": 27379,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 29916,
+          "t": 27089,
           "id": 36971,
           "name": "Executioner's Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
@@ -3068,7 +3068,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 32408,
+          "t": 29582,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 32068,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -3076,7 +3084,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 33076,
+          "t": 32781,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 34607,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 37099,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 37812,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -3084,7 +3116,7 @@
           "type": "ability"
         },
         {
-          "t": 33743,
+          "t": 38525,
           "id": 7546,
           "name": "True North",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
@@ -3092,7 +3124,7 @@
           "type": "ability"
         },
         {
-          "t": 34948,
+          "t": 39641,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -3100,7 +3132,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 35616,
+          "t": 42135,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 44630,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 45344,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -3108,7 +3156,7 @@
           "type": "ability"
         },
         {
-          "t": 37435,
+          "t": 47128,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -3116,15 +3164,167 @@
           "type": "weaponskill"
         },
         {
-          "t": 38103,
-          "id": 24404,
-          "name": "Arcane Crest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
+          "t": 49664,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 50418,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 39928,
+          "t": 52154,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 54647,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55319,
+          "id": 36969,
+          "name": "Sacrificium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 56118,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 56830,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 57678,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59148,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59817,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 61380,
+          "id": 24398,
+          "name": "Communio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 62046,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 63159,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63785,
+          "id": 36969,
+          "name": "Sacrificium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 64675,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65385,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 66144,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 67700,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 68369,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 69928,
+          "id": 24398,
+          "name": "Communio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 71662,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -3132,7 +3332,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 40595,
+          "t": 72333,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -3140,7 +3340,7 @@
           "type": "ability"
         },
         {
-          "t": 42467,
+          "t": 74166,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -3148,7 +3348,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 44964,
+          "t": 76701,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -3156,183 +3356,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 45588,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 47457,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48929,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 49553,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 50401,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 51028,
-          "id": 36969,
-          "name": "Sacrificium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 51919,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52545,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 54189,
-          "id": 24398,
-          "name": "Communio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 54856,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 55928,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56597,
-          "id": 36969,
-          "name": "Sacrificium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 57489,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 58159,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 58961,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 60430,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 61053,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 62702,
-          "id": 24398,
-          "name": "Communio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 64439,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 65106,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 66978,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69473,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 71965,
+          "t": 79197,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -3340,7 +3364,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 74459,
+          "t": 81690,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -3348,7 +3372,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 76999,
+          "t": 84184,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -3356,7 +3380,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 79490,
+          "t": 86723,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -3364,23 +3388,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 81989,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84488,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 85557,
+          "t": 87439,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -3388,15 +3396,7 @@
           "type": "ability"
         },
         {
-          "t": 86979,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 89512,
+          "t": 89221,
           "id": 36971,
           "name": "Executioner's Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
@@ -3404,15 +3404,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 92002,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "t": 91714,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 94494,
+          "t": 94206,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -3420,47 +3420,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 95163,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 97027,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 99517,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102006,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104539,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 105161,
+          "t": 94831,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -3468,7 +3428,7 @@
           "type": "ability"
         },
         {
-          "t": 107030,
+          "t": 96747,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -3476,15 +3436,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 109520,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 112054,
+          "t": 99241,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -3492,7 +3444,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 114541,
+          "t": 101776,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -3500,7 +3452,55 @@
           "type": "weaponskill"
         },
         {
-          "t": 115385,
+          "t": 104272,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106768,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109263,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 111758,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 112472,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 114215,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 115418,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -3508,7 +3508,7 @@
           "type": "ability"
         },
         {
-          "t": 117073,
+          "t": 116753,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3516,7 +3516,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 118539,
+          "t": 118271,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -3524,15 +3524,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 119162,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 120053,
+          "t": 119743,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3540,7 +3532,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 121565,
+          "t": 120457,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 121258,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -3549,14 +3549,6 @@
         },
         {
           "t": 124102,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 125125,
           "id": 24405,
           "name": "Arcane Circle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
@@ -3564,15 +3556,15 @@
           "type": "ability"
         },
         {
-          "t": 125792,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
+          "t": 124772,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
         },
         {
-          "t": 126680,
+          "t": 126331,
           "id": 24388,
           "name": "Harvest Moon",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003616.png",
@@ -3580,7 +3572,7 @@
           "type": "spell"
         },
         {
-          "t": 127344,
+          "t": 127450,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -3588,15 +3580,15 @@
           "type": "ability"
         },
         {
-          "t": 130544,
-          "id": 24401,
-          "name": "Hell's Ingress",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003629.png",
+          "t": 128918,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 132188,
+          "t": 130348,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -3604,7 +3596,7 @@
           "type": "spell"
         },
         {
-          "t": 133922,
+          "t": 132087,
           "id": 24385,
           "name": "Plentiful Harvest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
@@ -3612,7 +3604,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 134545,
+          "t": 132799,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -3620,7 +3612,7 @@
           "type": "ability"
         },
         {
-          "t": 135169,
+          "t": 133468,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -3628,7 +3620,7 @@
           "type": "ability"
         },
         {
-          "t": 136413,
+          "t": 134584,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3636,7 +3628,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 137882,
+          "t": 136099,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -3644,7 +3636,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 138550,
+          "t": 136769,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -3652,7 +3644,7 @@
           "type": "ability"
         },
         {
-          "t": 139438,
+          "t": 137615,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3660,7 +3652,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 140904,
+          "t": 139129,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -3668,7 +3660,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 141526,
+          "t": 139796,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -3676,7 +3668,7 @@
           "type": "ability"
         },
         {
-          "t": 143214,
+          "t": 141356,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -3684,7 +3676,7 @@
           "type": "spell"
         },
         {
-          "t": 144901,
+          "t": 143093,
           "id": 36973,
           "name": "Perfectio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
@@ -3692,7 +3684,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 147392,
+          "t": 145587,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -3700,7 +3692,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 148105,
+          "t": 147414,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -3708,15 +3700,7 @@
           "type": "ability"
         },
         {
-          "t": 149924,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152418,
+          "t": 148125,
           "id": 36971,
           "name": "Executioner's Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
@@ -3724,7 +3708,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 154906,
+          "t": 150619,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 153114,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -3732,71 +3724,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 155529,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 157443,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 159937,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 162472,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163183,
-          "id": 24404,
-          "name": "Arcane Crest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 164965,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 167457,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 169945,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170567,
+          "t": 153832,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -3804,15 +3732,7 @@
           "type": "ability"
         },
         {
-          "t": 171188,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 172432,
+          "t": 155655,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -3820,23 +3740,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 174963,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 156992,
+          "id": 24404,
+          "name": "Arcane Crest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 177497,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 179986,
+          "t": 158152,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -3844,7 +3756,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 180608,
+          "t": 160649,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 163140,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 165638,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 168133,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 171565,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172366,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -3852,7 +3804,15 @@
           "type": "ability"
         },
         {
-          "t": 182476,
+          "t": 173210,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 174059,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -3860,7 +3820,55 @@
           "type": "weaponskill"
         },
         {
-          "t": 183987,
+          "t": 176597,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 179095,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181585,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182251,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 184078,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 186575,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187246,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -3868,7 +3876,7 @@
           "type": "ability"
         },
         {
-          "t": 184967,
+          "t": 189073,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -3876,7 +3884,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 185589,
+          "t": 190589,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 191216,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192107,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192731,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -3884,7 +3916,7 @@
           "type": "ability"
         },
         {
-          "t": 186432,
+          "t": 193620,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -3892,7 +3924,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 187053,
+          "t": 194289,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -3900,31 +3932,7 @@
           "type": "ability"
         },
         {
-          "t": 187941,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189452,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 190118,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191762,
+          "t": 195851,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -3932,159 +3940,7 @@
           "type": "spell"
         },
         {
-          "t": 193457,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 195948,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 196574,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 198483,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 200973,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 203462,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 205993,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 208524,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 211010,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 211634,
-          "id": 24393,
-          "name": "Gluttony",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 212344,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 213499,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 215989,
-          "id": 36971,
-          "name": "Executioner's Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 218481,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219149,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 221014,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223497,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 224922,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 226034,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 226744,
+          "t": 196565,
           "id": 24404,
           "name": "Arcane Crest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
@@ -4092,15 +3948,15 @@
           "type": "ability"
         },
         {
-          "t": 228519,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "t": 197634,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 231009,
+          "t": 200176,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -4108,7 +3964,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 233504,
+          "t": 202669,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -4116,39 +3972,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 234177,
-          "id": 7542,
-          "name": "Bloodbath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234799,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 236001,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 238499,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 241035,
+          "t": 205163,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -4156,23 +3980,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 241659,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 243528,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245042,
+          "t": 207661,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -4180,7 +3988,183 @@
           "type": "weaponskill"
         },
         {
-          "t": 245665,
+          "t": 208330,
+          "id": 24393,
+          "name": "Gluttony",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 210157,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 212696,
+          "id": 36971,
+          "name": "Executioner's Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 215189,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217730,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220228,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220897,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 221655,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222728,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223396,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 225220,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 227716,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230212,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 232703,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 233639,
+          "id": 24404,
+          "name": "Arcane Crest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235196,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237691,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 240185,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 240854,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 242681,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243305,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 245178,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 245889,
           "id": 24405,
           "name": "Arcane Circle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
@@ -4188,7 +4172,7 @@
           "type": "ability"
         },
         {
-          "t": 247539,
+          "t": 246691,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4196,7 +4180,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 248205,
+          "t": 247360,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4204,7 +4188,7 @@
           "type": "ability"
         },
         {
-          "t": 249050,
+          "t": 248162,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4212,7 +4196,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 249718,
+          "t": 248877,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -4220,7 +4204,7 @@
           "type": "ability"
         },
         {
-          "t": 250519,
+          "t": 249724,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4228,7 +4212,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 251143,
+          "t": 250437,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4236,7 +4220,7 @@
           "type": "ability"
         },
         {
-          "t": 252829,
+          "t": 251953,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -4244,7 +4228,7 @@
           "type": "spell"
         },
         {
-          "t": 254519,
+          "t": 253690,
           "id": 24385,
           "name": "Plentiful Harvest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
@@ -4252,7 +4236,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 255186,
+          "t": 254313,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -4260,7 +4244,7 @@
           "type": "ability"
         },
         {
-          "t": 255808,
+          "t": 254936,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -4268,7 +4252,7 @@
           "type": "ability"
         },
         {
-          "t": 257053,
+          "t": 256183,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4276,7 +4260,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 258523,
+          "t": 257694,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4284,7 +4268,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 259146,
+          "t": 258364,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4292,7 +4276,7 @@
           "type": "ability"
         },
         {
-          "t": 260036,
+          "t": 259209,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4300,7 +4284,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 261553,
+          "t": 260680,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4308,7 +4292,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 262443,
+          "t": 261304,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4316,7 +4300,7 @@
           "type": "ability"
         },
         {
-          "t": 263821,
+          "t": 262996,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -4324,7 +4308,7 @@
           "type": "spell"
         },
         {
-          "t": 265603,
+          "t": 264734,
           "id": 36973,
           "name": "Perfectio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
@@ -4332,7 +4316,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 268104,
+          "t": 267227,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268167,
+          "id": 24404,
+          "name": "Arcane Crest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 269724,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -4340,15 +4340,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 270646,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 271672,
+          "t": 270392,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -4356,15 +4348,7 @@
           "type": "ability"
         },
         {
-          "t": 273142,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 275602,
+          "t": 272267,
           "id": 36971,
           "name": "Executioner's Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
@@ -4372,7 +4356,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 278109,
+          "t": 274759,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277256,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279752,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -4380,55 +4380,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 278777,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 280651,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283143,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285634,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 288123,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 290655,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 291323,
+          "t": 280419,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -4436,7 +4388,7 @@
           "type": "ability"
         },
         {
-          "t": 293151,
+          "t": 282290,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -4444,7 +4396,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 295693,
+          "t": 284746,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -4452,15 +4404,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 298149,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 300647,
+          "t": 287238,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -4468,15 +4412,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 303140,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "t": 289733,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 303762,
+          "t": 292230,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 292899,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -4484,7 +4436,7 @@
           "type": "ability"
         },
         {
-          "t": 305675,
+          "t": 294726,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -4492,95 +4444,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 307013,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308175,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 308799,
-          "id": 36969,
-          "name": "Sacrificium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309691,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 310315,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 311163,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 312685,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313311,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 314922,
-          "id": 24398,
-          "name": "Communio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 316667,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 319167,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 321669,
+          "t": 297223,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -4588,7 +4452,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 324170,
+          "t": 299761,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -4596,7 +4460,103 @@
           "type": "weaponskill"
         },
         {
-          "t": 326670,
+          "t": 302254,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302924,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 304796,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305464,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 307287,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307954,
+          "id": 36969,
+          "name": "Sacrificium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308755,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 309425,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 310274,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311743,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 312366,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 314015,
+          "id": 24398,
+          "name": "Communio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 315754,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -4604,7 +4564,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 329174,
+          "t": 318251,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -4612,7 +4572,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 331716,
+          "t": 320788,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 323287,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -4620,7 +4588,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 332386,
+          "t": 325779,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328316,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330817,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 331484,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -4628,7 +4620,7 @@
           "type": "ability"
         },
         {
-          "t": 333010,
+          "t": 332153,
           "id": 7546,
           "name": "True North",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
@@ -4636,15 +4628,7 @@
           "type": "ability"
         },
         {
-          "t": 334217,
-          "id": 36971,
-          "name": "Executioner's Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 336717,
+          "t": 333312,
           "id": 36970,
           "name": "Executioner's Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
@@ -4652,7 +4636,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 337433,
+          "t": 335806,
+          "id": 36971,
+          "name": "Executioner's Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336694,
           "id": 24401,
           "name": "Hell's Ingress",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003629.png",
@@ -4660,7 +4652,7 @@
           "type": "ability"
         },
         {
-          "t": 339255,
+          "t": 338296,
           "id": 24386,
           "name": "Harpe",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003614.png",
@@ -4668,63 +4660,7 @@
           "type": "spell"
         },
         {
-          "t": 341753,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 342376,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 343046,
-          "id": 24404,
-          "name": "Arcane Crest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 344250,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 344917,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 345541,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 346747,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 349208,
+          "t": 340837,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -4732,7 +4668,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 349879,
+          "t": 341506,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342175,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -4740,7 +4684,7 @@
           "type": "ability"
         },
         {
-          "t": 351709,
+          "t": 343377,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -4748,23 +4692,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 354256,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356714,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 359253,
+          "t": 345871,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -4772,7 +4700,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 361749,
+          "t": 348370,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -4780,7 +4708,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 362420,
+          "t": 349036,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -4788,7 +4716,7 @@
           "type": "ability"
         },
         {
-          "t": 364250,
+          "t": 350864,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -4796,15 +4724,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 364875,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
+          "t": 353357,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
         },
         {
-          "t": 365542,
+          "t": 355850,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 358349,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360840,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361954,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -4812,7 +4764,39 @@
           "type": "ability"
         },
         {
-          "t": 366745,
+          "t": 363336,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 364003,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 365961,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 366629,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 368456,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4820,7 +4804,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 367369,
+          "t": 369126,
           "id": 24405,
           "name": "Arcane Circle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
@@ -4828,7 +4812,7 @@
           "type": "ability"
         },
         {
-          "t": 368303,
+          "t": 369930,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4836,7 +4820,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 368969,
+          "t": 370555,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4844,7 +4828,7 @@
           "type": "ability"
         },
         {
-          "t": 369771,
+          "t": 371444,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4852,7 +4836,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 370393,
+          "t": 372112,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -4860,7 +4844,7 @@
           "type": "ability"
         },
         {
-          "t": 371238,
+          "t": 372958,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4868,7 +4852,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 371864,
+          "t": 373584,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4876,7 +4860,7 @@
           "type": "ability"
         },
         {
-          "t": 373554,
+          "t": 375231,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -4884,7 +4868,7 @@
           "type": "spell"
         },
         {
-          "t": 375290,
+          "t": 376968,
           "id": 24385,
           "name": "Plentiful Harvest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
@@ -4892,7 +4876,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 375913,
+          "t": 377591,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -4900,7 +4884,7 @@
           "type": "ability"
         },
         {
-          "t": 376536,
+          "t": 378213,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -4908,7 +4892,7 @@
           "type": "ability"
         },
         {
-          "t": 377828,
+          "t": 379507,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4916,7 +4900,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 379297,
+          "t": 380978,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4924,7 +4908,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 379917,
+          "t": 381649,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4932,7 +4916,7 @@
           "type": "ability"
         },
         {
-          "t": 380763,
+          "t": 382493,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -4940,7 +4924,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 382276,
+          "t": 383563,
+          "id": 24401,
+          "name": "Hell's Ingress",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003629.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 385302,
+          "id": 24386,
+          "name": "Harpe",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003614.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 387128,
+          "id": 24403,
+          "name": "Regress",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003631.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 388022,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -4948,7 +4956,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 382900,
+          "t": 388691,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -4956,7 +4964,7 @@
           "type": "ability"
         },
         {
-          "t": 384546,
+          "t": 390251,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -4964,7 +4972,7 @@
           "type": "spell"
         },
         {
-          "t": 386283,
+          "t": 391988,
           "id": 36973,
           "name": "Perfectio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
@@ -4972,7 +4980,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 388824,
+          "t": 394530,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -4980,7 +4988,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 391320,
+          "t": 397020,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -4988,15 +4996,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 391946,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 392570,
+          "t": 397734,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -5004,15 +5004,7 @@
           "type": "ability"
         },
         {
-          "t": 393865,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 396360,
+          "t": 399559,
           "id": 36971,
           "name": "Executioner's Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
@@ -5020,7 +5012,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 397652,
+          "t": 402059,
+          "id": 36970,
+          "name": "Executioner's Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 404550,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407044,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 408065,
           "id": 24404,
           "name": "Arcane Crest",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
@@ -5028,47 +5044,7 @@
           "type": "ability"
         },
         {
-          "t": 398856,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399526,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 401400,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 403895,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 406392,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 408847,
+          "t": 409534,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -5076,31 +5052,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 411307,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 413811,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416357,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416984,
+          "t": 410963,
           "id": 24391,
           "name": "Unveiled Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
@@ -5108,7 +5060,7 @@
           "type": "ability"
         },
         {
-          "t": 418819,
+          "t": 412030,
           "id": 24383,
           "name": "Gallows",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
@@ -5116,7 +5068,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 421320,
+          "t": 414525,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417016,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419510,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422010,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -5124,15 +5100,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 423820,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 424447,
+          "t": 422678,
           "id": 24390,
           "name": "Unveiled Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
@@ -5140,7 +5108,7 @@
           "type": "ability"
         },
         {
-          "t": 426360,
+          "t": 424507,
           "id": 24382,
           "name": "Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
@@ -5148,7 +5116,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 426984,
+          "t": 427048,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 427673,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429589,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 430255,
           "id": 24394,
           "name": "Enshroud",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
@@ -5156,7 +5148,7 @@
           "type": "ability"
         },
         {
-          "t": 428856,
+          "t": 432081,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -5164,7 +5156,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 429526,
+          "t": 432707,
           "id": 36969,
           "name": "Sacrificium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
@@ -5172,7 +5164,7 @@
           "type": "ability"
         },
         {
-          "t": 430330,
+          "t": 433556,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -5180,7 +5172,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 430956,
+          "t": 434223,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -5188,7 +5180,7 @@
           "type": "ability"
         },
         {
-          "t": 432474,
+          "t": 435026,
           "id": 24395,
           "name": "Void Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
@@ -5196,7 +5188,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 433988,
+          "t": 436538,
           "id": 24396,
           "name": "Cross Reaping",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
@@ -5204,7 +5196,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 434657,
+          "t": 437251,
           "id": 24399,
           "name": "Lemure's Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
@@ -5212,7 +5204,7 @@
           "type": "ability"
         },
         {
-          "t": 436221,
+          "t": 438812,
           "id": 24398,
           "name": "Communio",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
@@ -5220,7 +5212,7 @@
           "type": "spell"
         },
         {
-          "t": 437965,
+          "t": 440552,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -5228,7 +5220,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 440471,
+          "t": 443051,
           "id": 24374,
           "name": "Waxing Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
@@ -5236,7 +5228,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 442972,
+          "t": 445546,
           "id": 24375,
           "name": "Infernal Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
@@ -5244,7 +5236,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 445472,
+          "t": 448039,
           "id": 24378,
           "name": "Shadow of Death",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
@@ -5252,7 +5244,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 447971,
+          "t": 450578,
           "id": 24373,
           "name": "Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
@@ -5260,55 +5252,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 450469,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 453014,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 453639,
-          "id": 24393,
-          "name": "Gluttony",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 454667,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 455519,
-          "id": 36971,
-          "name": "Executioner's Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458019,
-          "id": 36970,
-          "name": "Executioner's Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 460516,
+          "t": 453070,
           "id": 24380,
           "name": "Soul Slice",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
@@ -5316,39 +5260,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 461143,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "t": 455606,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 456274,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 463064,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "t": 456941,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 458102,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 465557,
-          "id": 24378,
-          "name": "Shadow of Death",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468058,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469127,
+          "t": 458769,
           "id": 7549,
           "name": "Feint",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
@@ -5356,279 +5300,7 @@
           "type": "ability"
         },
         {
-          "t": 470512,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 471181,
-          "id": 24404,
-          "name": "Arcane Crest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 473012,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 473679,
-          "id": 24390,
-          "name": "Unveiled Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 475510,
-          "id": 24382,
-          "name": "Gibbet",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 478055,
-          "id": 24373,
-          "name": "Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 480550,
-          "id": 24374,
-          "name": "Waxing Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 483050,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 483719,
-          "id": 24391,
-          "name": "Unveiled Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 484343,
-          "id": 7546,
-          "name": "True North",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 485589,
-          "id": 24383,
-          "name": "Gallows",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486258,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 487415,
-          "id": 24405,
-          "name": "Arcane Circle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 488084,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 489552,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 490221,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 491070,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491691,
-          "id": 36969,
-          "name": "Sacrificium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492541,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 493165,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494816,
-          "id": 24398,
-          "name": "Communio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 496559,
-          "id": 24385,
-          "name": "Plentiful Harvest",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 497228,
-          "id": 24394,
-          "name": "Enshroud",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497898,
-          "id": 36969,
-          "name": "Sacrificium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499060,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 500581,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501251,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 502100,
-          "id": 24395,
-          "name": "Void Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 503616,
-          "id": 24396,
-          "name": "Cross Reaping",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 504241,
-          "id": 24399,
-          "name": "Lemure's Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 505850,
-          "id": 24398,
-          "name": "Communio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 507592,
-          "id": 36973,
-          "name": "Perfectio",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 510089,
-          "id": 24375,
-          "name": "Infernal Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 512636,
-          "id": 24380,
-          "name": "Soul Slice",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 513663,
+          "t": 459437,
           "id": 24393,
           "name": "Gluttony",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003621.png",
@@ -5636,12 +5308,316 @@
           "type": "ability"
         },
         {
-          "t": 515139,
+          "t": 460595,
+          "id": 36971,
+          "name": "Executioner's Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003636.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 463138,
           "id": 36970,
           "name": "Executioner's Gibbet",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003635.png",
           "gcd": true,
           "type": "weaponskill"
+        },
+        {
+          "t": 465633,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 468128,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 468750,
+          "id": 24404,
+          "name": "Arcane Crest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 470624,
+          "id": 24374,
+          "name": "Waxing Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003602.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473121,
+          "id": 24375,
+          "name": "Infernal Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003603.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475616,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 476283,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 478106,
+          "id": 24383,
+          "name": "Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003611.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 480600,
+          "id": 24378,
+          "name": "Shadow of Death",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003606.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483142,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483855,
+          "id": 24390,
+          "name": "Unveiled Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003618.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 484612,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 485681,
+          "id": 24382,
+          "name": "Gibbet",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003610.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 486530,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488175,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 489156,
+          "id": 24405,
+          "name": "Arcane Circle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 489824,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 490449,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491296,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 492008,
+          "id": 36969,
+          "name": "Sacrificium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 492810,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 493479,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495084,
+          "id": 24398,
+          "name": "Communio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 496820,
+          "id": 24385,
+          "name": "Plentiful Harvest",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003613.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 497490,
+          "id": 24394,
+          "name": "Enshroud",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003622.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 498113,
+          "id": 36969,
+          "name": "Sacrificium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 499318,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500831,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 501499,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 502344,
+          "id": 24395,
+          "name": "Void Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003623.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503817,
+          "id": 24396,
+          "name": "Cross Reaping",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003624.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 504441,
+          "id": 24399,
+          "name": "Lemure's Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 506089,
+          "id": 24398,
+          "name": "Communio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003626.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 507828,
+          "id": 36973,
+          "name": "Perfectio",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003638.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 510366,
+          "id": 24373,
+          "name": "Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003601.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 512857,
+          "id": 24380,
+          "name": "Soul Slice",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003608.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 513525,
+          "id": 24391,
+          "name": "Unveiled Gallows",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003619.png",
+          "gcd": false,
+          "type": "ability"
         }
       ]
     },

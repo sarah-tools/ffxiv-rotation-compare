@@ -1,7 +1,7 @@
 {
   "encounterId": 105,
   "job": "Paladin",
-  "lastUpdated": "2026-04-22T04:20:15.899Z",
+  "lastUpdated": "2026-04-24T04:29:21.814Z",
   "rankings": [
     {
       "rank": 1,
@@ -23764,28 +23764,29 @@
     },
     {
       "rank": 10,
-      "name": "Kek Kristoff",
-      "server": "Siren NA",
-      "rDPS": 28128,
-      "nDPS": 28128,
-      "duration": 509204,
-      "reportCode": "hGf3PwmCrQtT1kHc",
-      "fightID": 59,
+      "name": "A'runa Menh",
+      "server": "Goblin NA",
+      "rDPS": 28141,
+      "aDPS": 30556,
+      "nDPS": 28141,
+      "duration": 514449,
+      "reportCode": "cqNFRnzZhJ7t3bDa",
+      "fightID": 27,
       "dpsGiven": 0,
-      "dpsTaken": 1664,
+      "dpsTaken": 2074,
       "party": [
         "Paladin",
-        "Warrior",
+        "DarkKnight",
         "WhiteMage",
-        "Scholar",
-        "Monk",
+        "Sage",
+        "Dragoon",
         "Viper",
-        "Dancer",
-        "Pictomancer"
+        "Bard",
+        "Summoner"
       ],
       "timeline": [
         {
-          "t": 402,
+          "t": 44,
           "id": 7384,
           "name": "Holy Spirit",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
@@ -23793,7 +23794,31 @@
           "type": "spell"
         },
         {
-          "t": 1426,
+          "t": 668,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 1559,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 2271,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 2983,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -23801,31 +23826,7 @@
           "type": "ability"
         },
         {
-          "t": 2049,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 2717,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 3340,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 4542,
+          "t": 4096,
           "id": 15,
           "name": "Riot Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
@@ -23833,23 +23834,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 5166,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "t": 4807,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 5833,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "t": 5518,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 7037,
+          "t": 6587,
           "id": 3538,
           "name": "Goring Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
@@ -23857,7 +23858,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 7707,
+          "t": 7300,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7966,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 9078,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9747,
           "id": 16461,
           "name": "Intervene",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
@@ -23865,31 +23890,7 @@
           "type": "ability"
         },
         {
-          "t": 9535,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 10161,
-          "id": 28,
-          "name": "Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 12028,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 12740,
+          "t": 10416,
           "id": 3540,
           "name": "Divine Veil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
@@ -23897,247 +23898,7 @@
           "type": "ability"
         },
         {
-          "t": 13364,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14567,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 17064,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 17689,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19563,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 22055,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 24553,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 27092,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 29590,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 32088,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 34583,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 35251,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 35920,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 37080,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 39575,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42113,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 44604,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 47142,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 49630,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 52123,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 54618,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 57154,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 59649,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 60896,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 62142,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 62810,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 63477,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 64636,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 65304,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 65928,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 67174,
+          "t": 11575,
           "id": 16459,
           "name": "Confiteor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
@@ -24145,7 +23906,7 @@
           "type": "spell"
         },
         {
-          "t": 67798,
+          "t": 12241,
           "id": 16461,
           "name": "Intervene",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
@@ -24153,63 +23914,7 @@
           "type": "ability"
         },
         {
-          "t": 69663,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 70331,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 70999,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 72202,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 72868,
-          "id": 36920,
-          "name": "Guardian",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002524.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 74694,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 75362,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 76030,
+          "t": 13219,
           "id": 25746,
           "name": "Holy Sheltron",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
@@ -24217,255 +23922,7 @@
           "type": "ability"
         },
         {
-          "t": 77185,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 77985,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 79720,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 82255,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 83010,
-          "id": 7537,
-          "name": "Shirk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 84745,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 87235,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 88034,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 89724,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 92213,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 94792,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 95416,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 96084,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 97289,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 99780,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 102272,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104768,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 107261,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 109757,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 112251,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 113320,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 114792,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 117290,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 119783,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 122277,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 122946,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 123616,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 124820,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 125489,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127319,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 129413,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130039,
+          "t": 14062,
           "id": 25748,
           "name": "Blade of Faith",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
@@ -24473,15 +23930,7 @@
           "type": "spell"
         },
         {
-          "t": 131021,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132583,
+          "t": 16559,
           "id": 25749,
           "name": "Blade of Truth",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
@@ -24489,15 +23938,7 @@
           "type": "spell"
         },
         {
-          "t": 133295,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135082,
+          "t": 19051,
           "id": 25750,
           "name": "Blade of Valor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
@@ -24505,15 +23946,7 @@
           "type": "spell"
         },
         {
-          "t": 135709,
-          "id": 3540,
-          "name": "Divine Veil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136377,
+          "t": 19721,
           "id": 36922,
           "name": "Blade of Honor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
@@ -24521,7 +23954,7 @@
           "type": "ability"
         },
         {
-          "t": 137581,
+          "t": 21547,
           "id": 7384,
           "name": "Holy Spirit",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
@@ -24529,47 +23962,7 @@
           "type": "spell"
         },
         {
-          "t": 140078,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 142577,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 145077,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147570,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 150107,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152564,
+          "t": 24092,
           "id": 16460,
           "name": "Atonement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
@@ -24577,7 +23970,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 155107,
+          "t": 26587,
           "id": 36918,
           "name": "Supplication",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
@@ -24585,15 +23978,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 155775,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 157602,
+          "t": 29130,
           "id": 36919,
           "name": "Sepulchre",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
@@ -24601,23 +23986,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 160098,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 161795,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 162641,
+          "t": 31627,
           "id": 9,
           "name": "Fast Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
@@ -24625,191 +23994,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 165139,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 167638,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170138,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 172630,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 175169,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 177667,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 180163,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182703,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 183282,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183951,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 185199,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 185778,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186979,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 187689,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 188312,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190182,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 191784,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 192675,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 195171,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 195836,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 196949,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 197706,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 198463,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 199131,
+          "t": 32296,
           "id": 22,
           "name": "Bulwark",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000167.png",
@@ -24817,63 +24002,15 @@
           "type": "ability"
         },
         {
-          "t": 200199,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 202737,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 203404,
-          "id": 7537,
-          "name": "Shirk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
+          "t": 32964,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 205229,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 205986,
-          "id": 32065,
-          "name": "Release Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 207720,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 210211,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212749,
+          "t": 34122,
           "id": 15,
           "name": "Riot Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
@@ -24881,7 +24018,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 215243,
+          "t": 36617,
           "id": 3539,
           "name": "Royal Authority",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
@@ -24889,39 +24026,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 215870,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 217739,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 220271,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 222764,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 223387,
+          "t": 37285,
           "id": 25747,
           "name": "Expiacion",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
@@ -24929,71 +24034,15 @@
           "type": "ability"
         },
         {
-          "t": 224008,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "t": 37957,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 225256,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227748,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 228370,
-          "id": 3540,
-          "name": "Divine Veil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 230236,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 232770,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 233392,
-          "id": 28,
-          "name": "Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234284,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 235262,
+          "t": 39074,
           "id": 16460,
           "name": "Atonement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
@@ -25001,23 +24050,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 237799,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "t": 41608,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 240290,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "t": 44102,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 242788,
+          "t": 44771,
+          "id": 32065,
+          "name": "Release Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 46642,
           "id": 7384,
           "name": "Holy Spirit",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
@@ -25025,7 +24082,79 @@
           "type": "spell"
         },
         {
-          "t": 243411,
+          "t": 49098,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49811,
+          "id": 7382,
+          "name": "Intervention",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 51597,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 54094,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 56632,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 59130,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 61632,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63239,
+          "id": 36920,
+          "name": "Guardian",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002524.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 64178,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 64890,
           "id": 20,
           "name": "Fight or Flight",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
@@ -25033,7 +24162,7 @@
           "type": "ability"
         },
         {
-          "t": 244034,
+          "t": 65605,
           "id": 36921,
           "name": "Imperator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
@@ -25041,7 +24170,903 @@
           "type": "ability"
         },
         {
-          "t": 244701,
+          "t": 66679,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 67347,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 68016,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 69173,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 69844,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70559,
+          "id": 28,
+          "name": "Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 71631,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 72301,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 73015,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 74129,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 76673,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 77921,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 79169,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 79836,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 81709,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 84203,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 86697,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 89189,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91683,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 92349,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 94178,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 96715,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 97381,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 98049,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 99208,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 101703,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104197,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106699,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109195,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 109863,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 111733,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 114232,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 116727,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 118109,
+          "id": 3540,
+          "name": "Divine Veil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 119224,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 121721,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 122390,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 124217,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 124885,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 125598,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 126757,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 127469,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 128185,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 129298,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 131346,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132016,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 133042,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134514,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 135182,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137010,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 137678,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139555,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 142051,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 144549,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 147041,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 149539,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 152076,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154564,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157057,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157724,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 158436,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 159590,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162080,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162792,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 164572,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 167106,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 169596,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172130,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174625,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 177161,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 179659,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 182155,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 184652,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185366,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186034,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 187146,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187815,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 188484,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 189644,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 190313,
+          "id": 32065,
+          "name": "Release Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 190980,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192183,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 192852,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194680,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 197178,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 197846,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 198650,
+          "id": 7382,
+          "name": "Intervention",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 199675,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 200341,
+          "id": 28,
+          "name": "Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 202171,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 203595,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 204665,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207162,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 209655,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 210324,
+          "id": 22,
+          "name": "Bulwark",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 212195,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214690,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217183,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217897,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 218565,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 219679,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 222220,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 224715,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225429,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227211,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229709,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230644,
+          "id": 3540,
+          "name": "Divine Veil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 232248,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 234745,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237240,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 239739,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242242,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243492,
           "id": 30,
           "name": "Hallowed Ground",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002502.png",
@@ -25049,1199 +25074,7 @@
           "type": "ability"
         },
         {
-          "t": 245367,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 246036,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 246704,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 247862,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 250443,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 251201,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252939,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 254992,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255618,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 256688,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257313,
-          "id": 32065,
-          "name": "Release Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258116,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258740,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260613,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 263154,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 265649,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267075,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268147,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270642,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 271307,
-          "id": 28,
-          "name": "Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 273135,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 273803,
-          "id": 32065,
-          "name": "Release Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 275632,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276301,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 278128,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 280632,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 283134,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285631,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 286302,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 288131,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 290632,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 293128,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295672,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 298171,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 300705,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 301600,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 303205,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303828,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 304451,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 305701,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 306325,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 306994,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308156,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 310652,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 313196,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 314622,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315650,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 316317,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316987,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318193,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 320693,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 323193,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 325694,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 328239,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 330735,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333235,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 335736,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 336360,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 338232,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341662,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 342331,
-          "id": 3540,
-          "name": "Divine Veil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 344118,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 346612,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 347277,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 349104,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 351602,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 354144,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356642,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 359141,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 360256,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 361636,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 363151,
-          "id": 34603666,
-          "name": "Grade 4 Gemdraught of Strength [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364131,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 364801,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 365470,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 366673,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 367345,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 367970,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 369173,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 371671,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 374217,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 375332,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 376713,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 377605,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 378273,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 379210,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 379880,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380459,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381705,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 384202,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 386700,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 389245,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 391741,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 392452,
-          "id": 7382,
-          "name": "Intervention",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 394233,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 396724,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 397390,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 399216,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 401753,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 404249,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 406748,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 409243,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 409867,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 411787,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414283,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416781,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 419278,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 421775,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 424269,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 426768,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 427392,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 428017,
-          "id": 36921,
-          "name": "Imperator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 429265,
-          "id": 3538,
-          "name": "Goring Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 429890,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 430559,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 431763,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 432657,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 433326,
-          "id": 22,
-          "name": "Bulwark",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000167.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 434261,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 434885,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 436756,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 437914,
-          "id": 3540,
-          "name": "Divine Veil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 439248,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 440671,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 441649,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 442404,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 443823,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 444887,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 447374,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 449856,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 452339,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 454876,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 455679,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 457415,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458039,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 461685,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 462666,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 463288,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 465779,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468271,
-          "id": 9,
-          "name": "Fast Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 470763,
-          "id": 15,
-          "name": "Riot Blade",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 472810,
-          "id": 25747,
-          "name": "Expiacion",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 473523,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 474725,
-          "id": 28,
-          "name": "Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 476015,
-          "id": 36919,
-          "name": "Sepulchre",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 478512,
-          "id": 7384,
-          "name": "Holy Spirit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 481004,
-          "id": 3539,
-          "name": "Royal Authority",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 481803,
-          "id": 7533,
-          "name": "Provoke",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 483496,
-          "id": 16460,
-          "name": "Atonement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 484120,
+          "t": 244160,
           "id": 36920,
           "name": "Guardian",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002524.png",
@@ -26249,31 +25082,7 @@
           "type": "ability"
         },
         {
-          "t": 484787,
-          "id": 25746,
-          "name": "Holy Sheltron",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 486036,
-          "id": 36918,
-          "name": "Supplication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 487413,
-          "id": 20,
-          "name": "Fight or Flight",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 488526,
+          "t": 244828,
           "id": 7384,
           "name": "Holy Spirit",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
@@ -26281,7 +25090,15 @@
           "type": "spell"
         },
         {
-          "t": 489194,
+          "t": 245497,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246164,
           "id": 36921,
           "name": "Imperator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
@@ -26289,15 +25106,7 @@
           "type": "ability"
         },
         {
-          "t": 489815,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 491014,
+          "t": 247324,
           "id": 3538,
           "name": "Goring Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
@@ -26305,79 +25114,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 492169,
-          "id": 7537,
-          "name": "Shirk",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 493504,
-          "id": 16459,
-          "name": "Confiteor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 494171,
-          "id": 23,
-          "name": "Circle of Scorn",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494836,
-          "id": 32065,
-          "name": "Release Iron Will",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 495991,
-          "id": 25748,
-          "name": "Blade of Faith",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 496705,
-          "id": 16461,
-          "name": "Intervene",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 498525,
-          "id": 25749,
-          "name": "Blade of Truth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 501018,
-          "id": 25750,
-          "name": "Blade of Valor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 501728,
-          "id": 36922,
-          "name": "Blade of Honor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 502837,
+          "t": 247993,
           "id": 25747,
           "name": "Expiacion",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
@@ -26385,7 +25122,15 @@
           "type": "ability"
         },
         {
-          "t": 503503,
+          "t": 248662,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249867,
           "id": 36919,
           "name": "Sepulchre",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
@@ -26393,7 +25138,127 @@
           "type": "weaponskill"
         },
         {
-          "t": 506038,
+          "t": 250536,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 251206,
+          "id": 7382,
+          "name": "Intervention",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002512.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252363,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 253078,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254329,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254997,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 257495,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 259994,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 260660,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262531,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 265075,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 266010,
+          "id": 7385,
+          "name": "Passage of Arms",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002515.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 267570,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 270067,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272563,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 275056,
           "id": 9,
           "name": "Fast Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
@@ -26401,10 +25266,1258 @@
           "type": "weaponskill"
         },
         {
-          "t": 508531,
+          "t": 277549,
           "id": 15,
           "name": "Riot Blade",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 278217,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 278884,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 280043,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 280711,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282537,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 285078,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287572,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 290066,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 292561,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 295052,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 297549,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 300088,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302587,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 303656,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 305084,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305751,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 306422,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 307582,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 308250,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308918,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 310078,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 310745,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312574,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313244,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315116,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 317611,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 318280,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320105,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 322598,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 323264,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 323933,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 325090,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 327583,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330118,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332606,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 333805,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 335141,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 337675,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 340167,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 341057,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 341771,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342662,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 343329,
+          "id": 3540,
+          "name": "Divine Veil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 345155,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347642,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 350183,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 352676,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 355175,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 355883,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 357665,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360160,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 362653,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363454,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 364432,
+          "id": 22,
+          "name": "Bulwark",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 365188,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365901,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366614,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 367681,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369061,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 370175,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 371021,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371735,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 372715,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 375256,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 377747,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 378503,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 380241,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381131,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381846,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382736,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 385232,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 387725,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 390217,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 392712,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 395211,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 397756,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 399047,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 400251,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 401054,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 401722,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 402748,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 405247,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407792,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 410290,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 412787,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 415283,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417825,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 420320,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422858,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 425348,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 426015,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 426681,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 427882,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428551,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 430378,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431046,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 431714,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 432873,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 435415,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 436751,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 437911,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438978,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 440403,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 441249,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 442902,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 444239,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 445400,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 447942,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 450441,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452936,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 455433,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 456104,
+          "id": 22,
+          "name": "Bulwark",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000167.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 457976,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458690,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 460432,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 463464,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 464177,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 464891,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465962,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 467121,
+          "id": 3540,
+          "name": "Divine Veil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 468456,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 470464,
+          "id": 7385,
+          "name": "Passage of Arms",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002515.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471131,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471800,
+          "id": 32065,
+          "name": "Release Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002521.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 472823,
+          "id": 7537,
+          "name": "Shirk",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000810.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 473669,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 475051,
+          "id": 28,
+          "name": "Iron Will",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002505.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 476166,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 477548,
+          "id": 7531,
+          "name": "Rampart",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 478665,
+          "id": 9,
+          "name": "Fast Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000158.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 479468,
+          "id": 36920,
+          "name": "Guardian",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002524.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 481161,
+          "id": 15,
+          "name": "Riot Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000156.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483657,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 485308,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 486200,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 486914,
+          "id": 20,
+          "name": "Fight or Flight",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000166.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 487626,
+          "id": 36921,
+          "name": "Imperator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002955.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 488696,
+          "id": 16459,
+          "name": "Confiteor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002518.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 489411,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491196,
+          "id": 3538,
+          "name": "Goring Blade",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491864,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 493736,
+          "id": 25748,
+          "name": "Blade of Faith",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002952.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 494406,
+          "id": 25747,
+          "name": "Expiacion",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002951.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495077,
+          "id": 23,
+          "name": "Circle of Scorn",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000161.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 496194,
+          "id": 25749,
+          "name": "Blade of Truth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002953.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 496868,
+          "id": 16461,
+          "name": "Intervene",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002520.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 498691,
+          "id": 25750,
+          "name": "Blade of Valor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002954.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 499359,
+          "id": 36922,
+          "name": "Blade of Honor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002956.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 501186,
+          "id": 36919,
+          "name": "Sepulchre",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002523.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503684,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 504355,
+          "id": 25746,
+          "name": "Holy Sheltron",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002950.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 505069,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 506184,
+          "id": 3539,
+          "name": "Royal Authority",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002507.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 508729,
+          "id": 7384,
+          "name": "Holy Spirit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002514.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 511228,
+          "id": 16460,
+          "name": "Atonement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002519.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 513729,
+          "id": 36918,
+          "name": "Supplication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002522.png",
           "gcd": true,
           "type": "weaponskill"
         }
