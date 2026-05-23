@@ -1,7 +1,7 @@
 {
   "encounterId": 102,
   "job": "WhiteMage",
-  "lastUpdated": "2026-05-21T05:23:44.999Z",
+  "lastUpdated": "2026-05-23T04:58:52.093Z",
   "rankings": [
     {
       "rank": 1,
@@ -21318,29 +21318,29 @@
     },
     {
       "rank": 10,
-      "name": "Svenn Huin",
-      "server": "Adamantoise NA",
-      "rDPS": 27779,
-      "aDPS": 28821,
-      "nDPS": 27779,
-      "duration": 527232,
-      "reportCode": "4w9qmQrkxnYtaWfX",
-      "fightID": 5,
+      "name": "Ishgrimm Tahar",
+      "server": "Lich EU",
+      "rDPS": 27867,
+      "aDPS": 28569,
+      "nDPS": 27867,
+      "duration": 547823,
+      "reportCode": "7dfBM1jvLHnXgQak",
+      "fightID": 1,
       "dpsGiven": 0,
-      "dpsTaken": 988,
+      "dpsTaken": 667,
       "party": [
+        "Warrior",
         "DarkKnight",
-        "Gunbreaker",
         "WhiteMage",
-        "Scholar",
+        "Sage",
+        "Monk",
         "Samurai",
-        "Viper",
         "Dancer",
-        "RedMage"
+        "BlackMage"
       ],
       "timeline": [
         {
-          "t": 492,
+          "t": 0,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21348,15 +21348,15 @@
           "type": "spell"
         },
         {
-          "t": 1249,
-          "id": 34603670,
-          "name": "Grade 4 Gemdraught of Mind [HQ]",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020708.png",
+          "t": 609,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 2051,
+          "t": 1515,
           "id": 16532,
           "name": "Dia",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
@@ -21364,7 +21364,7 @@
           "type": "spell"
         },
         {
-          "t": 5306,
+          "t": 4814,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21372,7 +21372,7 @@
           "type": "spell"
         },
         {
-          "t": 7752,
+          "t": 7218,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21380,7 +21380,7 @@
           "type": "spell"
         },
         {
-          "t": 8334,
+          "t": 7830,
           "id": 136,
           "name": "Presence of Mind",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
@@ -21388,7 +21388,7 @@
           "type": "ability"
         },
         {
-          "t": 9180,
+          "t": 8679,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
@@ -21396,7 +21396,23 @@
           "type": "spell"
         },
         {
-          "t": 9937,
+          "t": 9346,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11266,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 11884,
           "id": 25861,
           "name": "Aquaveil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002648.png",
@@ -21404,47 +21420,7 @@
           "type": "ability"
         },
         {
-          "t": 11142,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 11765,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13059,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 13908,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14979,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 17516,
+          "t": 13174,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21452,15 +21428,7 @@
           "type": "spell"
         },
         {
-          "t": 18140,
-          "id": 3570,
-          "name": "Tetragrammaton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19433,
+          "t": 15146,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21468,247 +21436,7 @@
           "type": "spell"
         },
         {
-          "t": 21349,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 23311,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 25491,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 27897,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 29411,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 32706,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 34177,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 37517,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 38183,
-          "id": 3570,
-          "name": "Tetragrammaton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 39075,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 42373,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 43042,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 44737,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 45405,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 47139,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 49542,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 51907,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 52618,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 54308,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 55870,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 56985,
-          "id": 3569,
-          "name": "Asylum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 59126,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 60062,
-          "id": 25862,
-          "name": "Liturgy of the Bell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002649.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 60731,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 64028,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 66433,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 67058,
-          "id": 7433,
-          "name": "Plenary Indulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 68799,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 70359,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 72852,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 74280,
+          "t": 15755,
           "id": 7561,
           "name": "Swiftcast",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
@@ -21716,207 +21444,7 @@
           "type": "ability"
         },
         {
-          "t": 75261,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 78554,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 80914,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 83317,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 85764,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 88169,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 89639,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 91999,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 92666,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 95295,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 97702,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 100149,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 102508,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 104911,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 105578,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 111726,
-          "id": 7559,
-          "name": "Surecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 113600,
-          "id": 7430,
-          "name": "Thin Air",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 115870,
-          "id": 37010,
-          "name": "Medica III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 119031,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 120502,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 122867,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 126166,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 128573,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 129196,
-          "id": 136,
-          "name": "Presence of Mind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130089,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 132004,
+          "t": 16435,
           "id": 16535,
           "name": "Afflatus Misery",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
@@ -21924,15 +21452,7 @@
           "type": "spell"
         },
         {
-          "t": 132675,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133881,
+          "t": 18381,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
@@ -21940,15 +21460,7 @@
           "type": "spell"
         },
         {
-          "t": 134771,
-          "id": 25861,
-          "name": "Aquaveil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002648.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135797,
+          "t": 20296,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
@@ -21956,15 +21468,7 @@
           "type": "spell"
         },
         {
-          "t": 136776,
-          "id": 3570,
-          "name": "Tetragrammaton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138335,
+          "t": 22258,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -21972,39 +21476,7 @@
           "type": "spell"
         },
         {
-          "t": 140290,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 140910,
-          "id": 7433,
-          "name": "Plenary Indulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 142200,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 144109,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 145397,
+          "t": 24219,
           "id": 16532,
           "name": "Dia",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
@@ -22012,7 +21484,7 @@
           "type": "spell"
         },
         {
-          "t": 148692,
+          "t": 27575,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22020,159 +21492,7 @@
           "type": "spell"
         },
         {
-          "t": 150206,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 153503,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 155906,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 158311,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 160756,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 163784,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 166058,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 167039,
-          "id": 7430,
-          "name": "Thin Air",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 170468,
-          "id": 37010,
-          "name": "Medica III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 173095,
-          "id": 131,
-          "name": "Cure III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000407.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 175144,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 178618,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 181067,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 181691,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183429,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 186723,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 189171,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 191484,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 193928,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 194594,
+          "t": 28138,
           "id": 16536,
           "name": "Temperance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002645.png",
@@ -22180,7 +21500,7 @@
           "type": "ability"
         },
         {
-          "t": 196287,
+          "t": 29918,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22188,7 +21508,15 @@
           "type": "spell"
         },
         {
-          "t": 198692,
+          "t": 30811,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 32381,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22196,7 +21524,15 @@
           "type": "spell"
         },
         {
-          "t": 201096,
+          "t": 33035,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 34784,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22204,7 +21540,15 @@
           "type": "spell"
         },
         {
-          "t": 203634,
+          "t": 35710,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 37282,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22212,7 +21556,15 @@
           "type": "spell"
         },
         {
-          "t": 206078,
+          "t": 38116,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 39683,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22220,15 +21572,79 @@
           "type": "spell"
         },
         {
-          "t": 207594,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "t": 42087,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 208218,
+          "t": 42743,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 44491,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 46971,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 49372,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 50018,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 51778,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 54185,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 55654,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 57169,
           "id": 37011,
           "name": "Divine Caress",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002128.png",
@@ -22236,39 +21652,7 @@
           "type": "ability"
         },
         {
-          "t": 210003,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 212368,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 214771,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 215931,
-          "id": 25861,
-          "name": "Aquaveil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002648.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 219942,
+          "t": 58996,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22276,7 +21660,7 @@
           "type": "spell"
         },
         {
-          "t": 222303,
+          "t": 61400,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22284,39 +21668,7 @@
           "type": "spell"
         },
         {
-          "t": 223014,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 223817,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 226226,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 229526,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 230504,
+          "t": 62468,
           "id": 3569,
           "name": "Asylum",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
@@ -22324,7 +21676,7 @@
           "type": "ability"
         },
         {
-          "t": 232024,
+          "t": 64042,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22332,15 +21684,23 @@
           "type": "spell"
         },
         {
-          "t": 232738,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "t": 66614,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 67285,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 234473,
+          "t": 68947,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22348,7 +21708,7 @@
           "type": "spell"
         },
         {
-          "t": 236793,
+          "t": 71605,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22356,7 +21716,7 @@
           "type": "spell"
         },
         {
-          "t": 239203,
+          "t": 74009,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22364,15 +21724,7 @@
           "type": "spell"
         },
         {
-          "t": 241610,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 242280,
+          "t": 74678,
           "id": 7433,
           "name": "Plenary Indulgence",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
@@ -22380,23 +21732,7 @@
           "type": "ability"
         },
         {
-          "t": 243129,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 245540,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 248797,
+          "t": 76483,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22404,7 +21740,199 @@
           "type": "spell"
         },
         {
-          "t": 249509,
+          "t": 78822,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 81229,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 83703,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 86044,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 87558,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 89963,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 91655,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 92326,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 93443,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 95732,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 98075,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 100542,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 102953,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 103556,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104403,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 105075,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 106811,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 114218,
+          "id": 37010,
+          "name": "Medica III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 119005,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 121410,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 122857,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 123812,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 126222,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 128631,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 129233,
           "id": 136,
           "name": "Presence of Mind",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
@@ -22412,15 +21940,7 @@
           "type": "ability"
         },
         {
-          "t": 250308,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 252938,
+          "t": 130719,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22428,47 +21948,7 @@
           "type": "spell"
         },
         {
-          "t": 254900,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 256774,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 258694,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 260653,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 262521,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 263323,
+          "t": 131638,
           "id": 3571,
           "name": "Assize",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
@@ -22476,7 +21956,7 @@
           "type": "ability"
         },
         {
-          "t": 264528,
+          "t": 132929,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22484,79 +21964,7 @@
           "type": "spell"
         },
         {
-          "t": 266710,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 269121,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 270633,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 273039,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 275444,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 277850,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 280216,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 282619,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 285024,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 287433,
+          "t": 134267,
           "id": 16535,
           "name": "Afflatus Misery",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
@@ -22564,31 +21972,143 @@
           "type": "spell"
         },
         {
-          "t": 290726,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 293890,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 294470,
-          "id": 7430,
-          "name": "Thin Air",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "t": 135047,
+          "id": 25861,
+          "name": "Aquaveil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002648.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 296701,
+          "t": 136185,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 136897,
+          "id": 7433,
+          "name": "Plenary Indulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138144,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 140059,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 142665,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 144561,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 146762,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 149166,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 151646,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 154054,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 156458,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 158866,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 159511,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 160337,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 162745,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 165151,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 170989,
           "id": 37010,
           "name": "Medica III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
@@ -22596,23 +22116,47 @@
           "type": "spell"
         },
         {
-          "t": 298570,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "t": 173548,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 299285,
-          "id": 7559,
-          "name": "Surecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
+          "t": 178385,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 179165,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 300976,
+          "t": 180769,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 183174,
+          "id": 16535,
+          "name": "Afflatus Misery",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 186466,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22620,7 +22164,55 @@
           "type": "spell"
         },
         {
-          "t": 301957,
+          "t": 188870,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 189521,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191347,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 191995,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193798,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 196249,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 197360,
           "id": 25862,
           "name": "Liturgy of the Bell",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002649.png",
@@ -22628,7 +22220,7 @@
           "type": "ability"
         },
         {
-          "t": 303514,
+          "t": 199007,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22636,63 +22228,7 @@
           "type": "spell"
         },
         {
-          "t": 305877,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 306590,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308239,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 309798,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 312160,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 312829,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315464,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 316266,
+          "t": 199852,
           "id": 7433,
           "name": "Plenary Indulgence",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
@@ -22700,7 +22236,7 @@
           "type": "ability"
         },
         {
-          "t": 317870,
+          "t": 201546,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22708,7 +22244,7 @@
           "type": "spell"
         },
         {
-          "t": 320278,
+          "t": 203952,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22716,7 +22252,7 @@
           "type": "spell"
         },
         {
-          "t": 322645,
+          "t": 206359,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22724,47 +22260,7 @@
           "type": "spell"
         },
         {
-          "t": 324162,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 326566,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 329862,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 332267,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 334674,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 340819,
+          "t": 207874,
           "id": 16532,
           "name": "Dia",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
@@ -22772,7 +22268,87 @@
           "type": "spell"
         },
         {
-          "t": 341709,
+          "t": 210236,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 211886,
+          "id": 16536,
+          "name": "Temperance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002645.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 213580,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 216135,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 218541,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 220947,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 221825,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222552,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 225880,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 228289,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 229091,
           "id": 3569,
           "name": "Asylum",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
@@ -22780,95 +22356,7 @@
           "type": "ability"
         },
         {
-          "t": 342333,
-          "id": 3570,
-          "name": "Tetragrammaton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 344068,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 344735,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 346469,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 347139,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 348878,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 351283,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 353691,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 354362,
-          "id": 3570,
-          "name": "Tetragrammaton",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 356099,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 358503,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 359975,
+          "t": 229776,
           "id": 16534,
           "name": "Afflatus Rapture",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
@@ -22876,7 +22364,15 @@
           "type": "spell"
         },
         {
-          "t": 362383,
+          "t": 232220,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 234591,
           "id": 16535,
           "name": "Afflatus Misery",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
@@ -22884,7 +22380,7 @@
           "type": "spell"
         },
         {
-          "t": 365721,
+          "t": 237919,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22892,31 +22388,7 @@
           "type": "spell"
         },
         {
-          "t": 367189,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 368799,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 370491,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 371967,
+          "t": 239442,
           "id": 16532,
           "name": "Dia",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
@@ -22924,55 +22396,23 @@
           "type": "spell"
         },
         {
-          "t": 373081,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "t": 240462,
+          "id": 37011,
+          "name": "Divine Caress",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002128.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 375263,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "t": 241851,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 376778,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 378070,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380163,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 382480,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 383149,
+          "t": 242826,
           "id": 7430,
           "name": "Thin Air",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
@@ -22980,15 +22420,7 @@
           "type": "ability"
         },
         {
-          "t": 385373,
-          "id": 37010,
-          "name": "Medica III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 387288,
+          "t": 245185,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -22996,7 +22428,7 @@
           "type": "spell"
         },
         {
-          "t": 389690,
+          "t": 247592,
           "id": 25859,
           "name": "Glare III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
@@ -23004,7 +22436,87 @@
           "type": "spell"
         },
         {
-          "t": 393249,
+          "t": 249995,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 250635,
+          "id": 136,
+          "name": "Presence of Mind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252153,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 254158,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 256051,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 257922,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 260252,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 262114,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 263060,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264339,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 265634,
           "id": 16532,
           "name": "Dia",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
@@ -23012,7 +22524,95 @@
           "type": "spell"
         },
         {
-          "t": 393873,
+          "t": 267636,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 270042,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 272406,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 274859,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 278153,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 278776,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 280704,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 283105,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 283762,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 285517,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 287921,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 288663,
           "id": 7433,
           "name": "Plenary Indulgence",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
@@ -23020,15 +22620,7 @@
           "type": "ability"
         },
         {
-          "t": 395656,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 398020,
+          "t": 289442,
           "id": 16534,
           "name": "Afflatus Rapture",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
@@ -23036,7 +22628,455 @@
           "type": "spell"
         },
         {
-          "t": 398685,
+          "t": 292734,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 295139,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 296651,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 298280,
+          "id": 7559,
+          "name": "Surecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 299051,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 302348,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 305068,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 305803,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 307463,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 308918,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 309811,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 311280,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 314691,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 315515,
+          "id": 140,
+          "name": "Benediction",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002627.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 317098,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 317747,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 319509,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 320390,
+          "id": 3569,
+          "name": "Asylum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 321997,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 324408,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 326814,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 329220,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 330741,
+          "id": 16535,
+          "name": "Afflatus Misery",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 331880,
+          "id": 16536,
+          "name": "Temperance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002645.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 334029,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 334775,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 335555,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 339805,
+          "id": 37010,
+          "name": "Medica III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 340785,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 344125,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 344770,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 346530,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 348943,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 349590,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 351349,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 353800,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 354399,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 356248,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 358610,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 360094,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 361416,
+          "id": 37011,
+          "name": "Divine Caress",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002128.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 363421,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 365828,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 368236,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 370683,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 371323,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 372158,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 375496,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 376968,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 380309,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 382715,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 385120,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 386593,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 387358,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 388078,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 389971,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 390565,
           "id": 34603670,
           "name": "Grade 4 Gemdraught of Mind [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020708.png",
@@ -23044,519 +23084,7 @@
           "type": "ability"
         },
         {
-          "t": 399398,
-          "id": 136,
-          "name": "Presence of Mind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400425,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 401093,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 402339,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 404300,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 406169,
-          "id": 37009,
-          "name": "Glare IV",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 408708,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 411380,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 413294,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 415211,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 417524,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 419037,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 421487,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 422557,
-          "id": 16536,
-          "name": "Temperance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002645.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 423891,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 427275,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 429949,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 432356,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 434718,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 436232,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 436945,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 439615,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 442015,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 442729,
-          "id": 37011,
-          "name": "Divine Caress",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002128.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 444422,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 445089,
-          "id": 7559,
-          "name": "Surecast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 446828,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 447629,
-          "id": 3569,
-          "name": "Asylum",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 449681,
-          "id": 37010,
-          "name": "Medica III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 450754,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 451690,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 453116,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 456413,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 457931,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 460298,
-          "id": 16535,
-          "name": "Afflatus Misery",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 463596,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 466005,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 468416,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 470825,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 473271,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 473895,
-          "id": 7430,
-          "name": "Thin Air",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 476123,
-          "id": 37010,
-          "name": "Medica III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 477990,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 480446,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 481920,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 484329,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 487624,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 489139,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 492520,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 493146,
-          "id": 3571,
-          "name": "Assize",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494931,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 495778,
-          "id": 25862,
-          "name": "Liturgy of the Bell",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002649.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497340,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 498007,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499701,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 500415,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 502106,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 502817,
-          "id": 7432,
-          "name": "Divine Benison",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504507,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 505221,
-          "id": 37008,
-          "name": "Aetherial Shift",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002125.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 507403,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 509764,
-          "id": 25859,
-          "name": "Glare III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 511276,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 513684,
-          "id": 16532,
-          "name": "Dia",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 514577,
+          "t": 392335,
           "id": 7433,
           "name": "Plenary Indulgence",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
@@ -23564,23 +23092,23 @@
           "type": "ability"
         },
         {
-          "t": 516045,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "t": 393007,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 518451,
-          "id": 16534,
-          "name": "Afflatus Rapture",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
-          "gcd": true,
-          "type": "spell"
+          "t": 393693,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 519387,
+          "t": 394577,
           "id": 136,
           "name": "Presence of Mind",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
@@ -23588,7 +23116,15 @@
           "type": "ability"
         },
         {
-          "t": 520859,
+          "t": 395413,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 397322,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
@@ -23596,7 +23132,15 @@
           "type": "spell"
         },
         {
-          "t": 522819,
+          "t": 399303,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 401203,
           "id": 16535,
           "name": "Afflatus Misery",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
@@ -23604,7 +23148,7 @@
           "type": "spell"
         },
         {
-          "t": 524732,
+          "t": 403115,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
@@ -23612,10 +23156,610 @@
           "type": "spell"
         },
         {
-          "t": 526603,
+          "t": 405719,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 406322,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 407614,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 409529,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 410688,
+          "id": 3569,
+          "name": "Asylum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 412291,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 413758,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 416166,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 417191,
+          "id": 7432,
+          "name": "Divine Benison",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002638.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 419555,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 421919,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 424371,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 426775,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 429180,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 431628,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 432831,
+          "id": 25862,
+          "name": "Liturgy of the Bell",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002649.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 434392,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 435150,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 435818,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 437600,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 440000,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 441486,
+          "id": 137,
+          "name": "Regen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002628.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 442629,
+          "id": 7559,
+          "name": "Surecast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000869.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 444770,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 446241,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 448647,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 451113,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 452564,
+          "id": 7433,
+          "name": "Plenary Indulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 453515,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 455920,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 458323,
+          "id": 16535,
+          "name": "Afflatus Misery",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 459042,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 461649,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 464057,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 466462,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 467146,
+          "id": 16536,
+          "name": "Temperance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002645.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 468825,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 469495,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471282,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 473685,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 475112,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 475781,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 479206,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 480631,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 483034,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 486376,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 488781,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 491992,
+          "id": 37011,
+          "name": "Divine Caress",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002128.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 494402,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 496808,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 499213,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 501795,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 504285,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 506737,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 508206,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 510611,
+          "id": 16532,
+          "name": "Dia",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002641.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 511414,
+          "id": 3569,
+          "name": "Asylum",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002632.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 513949,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 514663,
+          "id": 136,
+          "name": "Presence of Mind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002626.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 515376,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 517912,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 519872,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 521300,
+          "id": 16534,
+          "name": "Afflatus Rapture",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002643.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 521970,
+          "id": 3571,
+          "name": "Assize",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002634.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523219,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523889,
+          "id": 125,
+          "name": "Raise",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000411.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 524828,
+          "id": 7430,
+          "name": "Thin Air",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002636.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 525721,
+          "id": 7433,
+          "name": "Plenary Indulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002639.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 527013,
+          "id": 25859,
+          "name": "Glare III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002646.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 533919,
+          "id": 125,
+          "name": "Raise",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000411.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 534677,
           "id": 37009,
           "name": "Glare IV",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 538501,
+          "id": 37010,
+          "name": "Medica III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002127.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 539523,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 541927,
+          "id": 37009,
+          "name": "Glare IV",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002126.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 542685,
+          "id": 3570,
+          "name": "Tetragrammaton",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002633.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 544288,
+          "id": 16535,
+          "name": "Afflatus Misery",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002644.png",
           "gcd": true,
           "type": "spell"
         }
