@@ -1,7 +1,7 @@
 {
   "encounterId": 104,
   "job": "Viper",
-  "lastUpdated": "2026-05-22T05:13:17.891Z",
+  "lastUpdated": "2026-05-24T05:13:35.922Z",
   "rankings": [
     {
       "rank": 1,
@@ -10635,7 +10635,6 @@
       "name": "Yuki Kosai",
       "server": "Zodiark EU",
       "rDPS": 44919,
-      "aDPS": 46780,
       "nDPS": 44919,
       "duration": 427009,
       "reportCode": "LZcxaRFNDQMTkhW2",
@@ -24570,36 +24569,37 @@
     },
     {
       "rank": 10,
-      "name": "Keylax Noylaz",
-      "server": "Leviathan NA",
-      "rDPS": 44739,
-      "nDPS": 44739,
-      "duration": 425279,
-      "reportCode": "6afDT9YHcCRr12K4",
-      "fightID": 27,
+      "name": "Jun Seba",
+      "server": "Midgardsormr NA",
+      "rDPS": 44742,
+      "aDPS": 47955,
+      "nDPS": 44742,
+      "duration": 423619,
+      "reportCode": "64yVdxjh9GDpMw28",
+      "fightID": 2,
       "dpsGiven": 0,
-      "dpsTaken": 1519,
+      "dpsTaken": 5133,
       "party": [
+        "Warrior",
         "DarkKnight",
-        "Gunbreaker",
         "WhiteMage",
         "Sage",
         "Reaper",
         "Viper",
         "Dancer",
-        "Summoner"
+        "BlackMage"
       ],
       "timeline": [
         {
-          "t": 623,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "t": 580,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 1381,
+          "t": 1205,
           "id": 34647,
           "name": "Serpent's Ire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003742.png",
@@ -24607,7 +24607,31 @@
           "type": "ability"
         },
         {
-          "t": 2048,
+          "t": 3072,
+          "id": 34609,
+          "name": "Swiftskin's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 3785,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 5566,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 6187,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -24615,31 +24639,7 @@
           "type": "ability"
         },
         {
-          "t": 3652,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 4231,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 4899,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6634,
+          "t": 8146,
           "id": 34621,
           "name": "Hunter's Coil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
@@ -24647,7 +24647,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 7260,
+          "t": 8814,
           "id": 34636,
           "name": "Twinfang Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
@@ -24655,7 +24655,7 @@
           "type": "ability"
         },
         {
-          "t": 7928,
+          "t": 9484,
           "id": 34637,
           "name": "Twinblood Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
@@ -24663,7 +24663,31 @@
           "type": "ability"
         },
         {
-          "t": 9173,
+          "t": 10684,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 11351,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12018,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13221,
           "id": 34626,
           "name": "Reawaken",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
@@ -24671,7 +24695,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 11001,
+          "t": 15090,
           "id": 34627,
           "name": "First Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
@@ -24679,7 +24703,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 11669,
+          "t": 15760,
           "id": 34640,
           "name": "First Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
@@ -24687,7 +24711,7 @@
           "type": "ability"
         },
         {
-          "t": 12694,
+          "t": 16827,
           "id": 34628,
           "name": "Second Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
@@ -24695,7 +24719,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 13406,
+          "t": 17495,
           "id": 34641,
           "name": "Second Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
@@ -24703,7 +24727,7 @@
           "type": "ability"
         },
         {
-          "t": 14433,
+          "t": 18517,
           "id": 34629,
           "name": "Third Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
@@ -24711,7 +24735,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 15055,
+          "t": 19184,
           "id": 34642,
           "name": "Third Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
@@ -24719,7 +24743,7 @@
           "type": "ability"
         },
         {
-          "t": 16125,
+          "t": 20206,
           "id": 34630,
           "name": "Fourth Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
@@ -24727,7 +24751,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 16748,
+          "t": 20918,
           "id": 34643,
           "name": "Fourth Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
@@ -24735,7 +24759,7 @@
           "type": "ability"
         },
         {
-          "t": 17820,
+          "t": 21944,
           "id": 34631,
           "name": "Ouroboros",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
@@ -24743,7 +24767,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 20403,
+          "t": 24531,
           "id": 34633,
           "name": "Uncoiled Fury",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
@@ -24751,7 +24775,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 21025,
+          "t": 25198,
           "id": 34644,
           "name": "Uncoiled Twinfang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
@@ -24759,7 +24783,7 @@
           "type": "ability"
         },
         {
-          "t": 21649,
+          "t": 25865,
           "id": 34645,
           "name": "Uncoiled Twinblood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
@@ -24767,7 +24791,7 @@
           "type": "ability"
         },
         {
-          "t": 23342,
+          "t": 27471,
           "id": 34633,
           "name": "Uncoiled Fury",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
@@ -24775,7 +24799,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 24056,
+          "t": 28138,
           "id": 34644,
           "name": "Uncoiled Twinfang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
@@ -24783,7 +24807,7 @@
           "type": "ability"
         },
         {
-          "t": 24680,
+          "t": 28851,
           "id": 34645,
           "name": "Uncoiled Twinblood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
@@ -24791,79 +24815,7 @@
           "type": "ability"
         },
         {
-          "t": 26328,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 28915,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 29538,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 30164,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 31457,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 32079,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 32703,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 33998,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 36093,
-          "id": 34609,
-          "name": "Swiftskin's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 38232,
+          "t": 30452,
           "id": 34613,
           "name": "Hindsbane Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
@@ -24871,7 +24823,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 38856,
+          "t": 31119,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -24879,47 +24831,7 @@
           "type": "ability"
         },
         {
-          "t": 40372,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 42468,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 43493,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 44607,
-          "id": 34610,
-          "name": "Flanksting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 45228,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 46741,
+          "t": 32586,
           "id": 34620,
           "name": "Vicewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
@@ -24927,7 +24839,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 49325,
+          "t": 35210,
           "id": 34621,
           "name": "Hunter's Coil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
@@ -24935,7 +24847,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 49949,
+          "t": 35922,
           "id": 34636,
           "name": "Twinfang Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
@@ -24943,7 +24855,7 @@
           "type": "ability"
         },
         {
-          "t": 50574,
+          "t": 36634,
           "id": 34637,
           "name": "Twinblood Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
@@ -24951,7 +24863,7 @@
           "type": "ability"
         },
         {
-          "t": 51863,
+          "t": 37748,
           "id": 34622,
           "name": "Swiftskin's Coil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
@@ -24959,7 +24871,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 52486,
+          "t": 38415,
           "id": 34637,
           "name": "Twinblood Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
@@ -24967,7 +24879,7 @@
           "type": "ability"
         },
         {
-          "t": 53153,
+          "t": 39083,
           "id": 34636,
           "name": "Twinfang Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
@@ -24975,15 +24887,95 @@
           "type": "ability"
         },
         {
-          "t": 54444,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "t": 40285,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 56536,
+          "t": 42427,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 44528,
+          "id": 34610,
+          "name": "Flanksting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 45197,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 46626,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49204,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49871,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 50539,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 51742,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 52409,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 53078,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 54283,
           "id": 34626,
           "name": "Reawaken",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
@@ -24991,7 +24983,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 58366,
+          "t": 56114,
           "id": 34627,
           "name": "First Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
@@ -24999,7 +24991,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 59036,
+          "t": 56782,
           "id": 34640,
           "name": "First Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
@@ -25007,7 +24999,7 @@
           "type": "ability"
         },
         {
-          "t": 60107,
+          "t": 57853,
           "id": 34628,
           "name": "Second Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
@@ -25015,7 +25007,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 60731,
+          "t": 58567,
           "id": 34641,
           "name": "Second Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
@@ -25023,7 +25015,7 @@
           "type": "ability"
         },
         {
-          "t": 61797,
+          "t": 59547,
           "id": 34629,
           "name": "Third Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
@@ -25031,7 +25023,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 62420,
+          "t": 60216,
           "id": 34642,
           "name": "Third Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
@@ -25039,7 +25031,7 @@
           "type": "ability"
         },
         {
-          "t": 63486,
+          "t": 61238,
           "id": 34630,
           "name": "Fourth Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
@@ -25047,7 +25039,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 64154,
+          "t": 61909,
           "id": 34643,
           "name": "Fourth Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
@@ -25055,7 +25047,7 @@
           "type": "ability"
         },
         {
-          "t": 65178,
+          "t": 62932,
           "id": 34631,
           "name": "Ouroboros",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
@@ -25063,7 +25055,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 67751,
+          "t": 65515,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66228,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 66897,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 68499,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 70591,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -25071,7 +25095,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 69886,
+          "t": 72732,
           "id": 34612,
           "name": "Hindsting Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
@@ -25079,7 +25103,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 70551,
+          "t": 73400,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -25087,7 +25111,7 @@
           "type": "ability"
         },
         {
-          "t": 71977,
+          "t": 74914,
           "id": 34606,
           "name": "Steel Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
@@ -25095,7 +25119,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 74112,
+          "t": 77009,
           "id": 34608,
           "name": "Hunter's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
@@ -25103,7 +25127,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 76249,
+          "t": 79108,
           "id": 34611,
           "name": "Flanksbane Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
@@ -25111,7 +25135,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 76917,
+          "t": 79778,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -25119,7 +25143,7 @@
           "type": "ability"
         },
         {
-          "t": 78387,
+          "t": 81204,
           "id": 34607,
           "name": "Reaving Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
@@ -25127,7 +25151,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 80478,
+          "t": 83344,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -25135,7 +25159,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 82615,
+          "t": 85528,
           "id": 34613,
           "name": "Hindsbane Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
@@ -25143,7 +25167,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 83282,
+          "t": 86152,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -25151,7 +25175,7 @@
           "type": "ability"
         },
         {
-          "t": 84753,
+          "t": 87623,
           "id": 34606,
           "name": "Steel Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
@@ -25159,7 +25183,87 @@
           "type": "weaponskill"
         },
         {
-          "t": 86846,
+          "t": 89716,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 92301,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 92968,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 93637,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 94888,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 95602,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 96316,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 97431,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98144,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 98902,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 100421,
           "id": 34608,
           "name": "Hunter's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
@@ -25167,39 +25271,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 89968,
-          "id": 34610,
-          "name": "Flanksting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 90590,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 92059,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 94371,
-          "id": 34609,
-          "name": "Swiftskin's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95884,
+          "t": 101225,
           "id": 7549,
           "name": "Feint",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
@@ -25207,7 +25279,23 @@
           "type": "ability"
         },
         {
-          "t": 96465,
+          "t": 102521,
+          "id": 34610,
+          "name": "Flanksting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 103189,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104616,
           "id": 34633,
           "name": "Uncoiled Fury",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
@@ -25215,7 +25303,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 97222,
+          "t": 105286,
           "id": 34644,
           "name": "Uncoiled Twinfang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
@@ -25223,7 +25311,7 @@
           "type": "ability"
         },
         {
-          "t": 97844,
+          "t": 105954,
           "id": 34645,
           "name": "Uncoiled Twinblood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
@@ -25231,111 +25319,7 @@
           "type": "ability"
         },
         {
-          "t": 99494,
-          "id": 34612,
-          "name": "Hindsting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 100115,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 101585,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104169,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104835,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 105503,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 106707,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 107329,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 107998,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 109241,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 111381,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 113471,
-          "id": 34611,
-          "name": "Flanksbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 114139,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 115609,
+          "t": 107561,
           "id": 34607,
           "name": "Reaving Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
@@ -25343,7 +25327,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 117746,
+          "t": 109700,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -25351,15 +25335,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 119842,
-          "id": 34613,
-          "name": "Hindsbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
+          "t": 111842,
+          "id": 34612,
+          "name": "Hindsting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 120512,
+          "t": 112510,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -25367,15 +25351,47 @@
           "type": "ability"
         },
         {
-          "t": 121984,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "t": 113931,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 122653,
+          "t": 116062,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 118194,
+          "id": 34611,
+          "name": "Flanksbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 118862,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 120334,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 121223,
           "id": 34647,
           "name": "Serpent's Ire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003742.png",
@@ -25383,439 +25399,7 @@
           "type": "ability"
         },
         {
-          "t": 123861,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124485,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125552,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 126223,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 127250,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 127917,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 128987,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 129611,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130680,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 133222,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135098,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135719,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 136792,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 137457,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138482,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 139152,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140179,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 140848,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141923,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 144467,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146565,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 148713,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 149384,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 150006,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 151703,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154297,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154879,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 155595,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 156845,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 157424,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 158093,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 159388,
-          "id": 34610,
-          "name": "Flanksting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 160012,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 161528,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163357,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 163981,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 165054,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 165679,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 166751,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 167374,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 168445,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 169070,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 170142,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 172688,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 174876,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 175456,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 176170,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 177820,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 180408,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 181034,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 181658,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 182955,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 183535,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 184202,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 185497,
+          "t": 122474,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -25823,103 +25407,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 186077,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 187597,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 188222,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 188893,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190544,
-          "id": 34612,
-          "name": "Hindsting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 191214,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 192688,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 194786,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 196928,
-          "id": 34611,
-          "name": "Flanksbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 197552,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 199025,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 201167,
-          "id": 34609,
-          "name": "Swiftskin's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 203305,
+          "t": 124648,
           "id": 34613,
           "name": "Hindsbane Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
@@ -25927,7 +25415,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 204018,
+          "t": 125269,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -25935,7 +25423,7 @@
           "type": "ability"
         },
         {
-          "t": 205397,
+          "t": 126734,
           "id": 34606,
           "name": "Steel Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
@@ -25943,87 +25431,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 207537,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 222488,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 223111,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 223735,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 225429,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 226099,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 226724,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 227971,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 228640,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 229265,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 230559,
+          "t": 128825,
           "id": 34608,
           "name": "Hunter's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
@@ -26031,7 +25439,191 @@
           "type": "weaponskill"
         },
         {
-          "t": 232655,
+          "t": 130960,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 132824,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 133490,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134555,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 135221,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136243,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 136910,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137933,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 138599,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139665,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 142194,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 144104,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 144767,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 145788,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 146543,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 147476,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148143,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 149254,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 149965,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 150945,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 153480,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154145,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 154812,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 156452,
           "id": 34610,
           "name": "Flanksting Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
@@ -26039,7 +25631,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 233322,
+          "t": 157117,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26047,7 +25639,63 @@
           "type": "ability"
         },
         {
-          "t": 234793,
+          "t": 158582,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161154,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161865,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 162577,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 163687,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 164354,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 164977,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 166267,
           "id": 34607,
           "name": "Reaving Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
@@ -26055,15 +25703,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 235594,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 236892,
+          "t": 168357,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -26071,7 +25711,87 @@
           "type": "weaponskill"
         },
         {
-          "t": 239033,
+          "t": 170489,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 172353,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 173020,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 174083,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 174795,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 175817,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 176573,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 177506,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 178170,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 179192,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181776,
           "id": 34612,
           "name": "Hindsting Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
@@ -26079,7 +25799,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 239702,
+          "t": 182445,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26087,7 +25807,111 @@
           "type": "ability"
         },
         {
-          "t": 241133,
+          "t": 183870,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 186458,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187128,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 187795,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 189393,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190060,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 190729,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192330,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 192995,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193662,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 194908,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 195574,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 196241,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 197442,
           "id": 34606,
           "name": "Steel Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
@@ -26095,7 +25919,199 @@
           "type": "weaponskill"
         },
         {
-          "t": 242652,
+          "t": 199571,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 201703,
+          "id": 34611,
+          "name": "Flanksbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202415,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 203837,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 205970,
+          "id": 34609,
+          "name": "Swiftskin's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 208102,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 222926,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223681,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 224394,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 225907,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 226576,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227291,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 228447,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 229160,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 229921,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 231034,
+          "id": 34613,
+          "name": "Hindsbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 231745,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 233124,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 235259,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 235973,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 237353,
+          "id": 34610,
+          "name": "Flanksting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 238064,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 239488,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 241620,
+          "id": 34609,
+          "name": "Swiftskin's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242286,
           "id": 34647,
           "name": "Serpent's Ire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003742.png",
@@ -26103,527 +26119,7 @@
           "type": "ability"
         },
         {
-          "t": 243277,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245463,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 246043,
-          "id": 7542,
-          "name": "Bloodbath",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 247293,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 247919,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 248989,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 249614,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 250681,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 251306,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252376,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 253044,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 254072,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256659,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258529,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 259154,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260268,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 260891,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 261962,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 262586,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 263659,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 264285,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 265358,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267903,
-          "id": 34611,
-          "name": "Flanksbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 268528,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 269997,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270713,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 271338,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 272990,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 275581,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276209,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 276834,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 278129,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 278798,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 279423,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 280669,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 282768,
-          "id": 34609,
-          "name": "Swiftskin's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 284863,
-          "id": 34613,
-          "name": "Hindsbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285576,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 287003,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 287627,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 288296,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 288921,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 289991,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 292583,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 293163,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 293789,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 295126,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295885,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 296510,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 297669,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 299766,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 301638,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 302264,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 303331,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 303955,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 305023,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 305693,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 306720,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 307433,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308459,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 310996,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313134,
-          "id": 34610,
-          "name": "Flanksting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313757,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315218,
-          "id": 34607,
-          "name": "Reaving Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 317352,
-          "id": 34609,
-          "name": "Swiftskin's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 319532,
+          "t": 243708,
           "id": 34612,
           "name": "Hindsting Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
@@ -26631,7 +26127,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 320154,
+          "t": 244329,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26639,7 +26135,7 @@
           "type": "ability"
         },
         {
-          "t": 321619,
+          "t": 245838,
           "id": 34606,
           "name": "Steel Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
@@ -26647,7 +26143,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 323753,
+          "t": 247967,
           "id": 34608,
           "name": "Hunter's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
@@ -26655,127 +26151,87 @@
           "type": "weaponskill"
         },
         {
-          "t": 325844,
-          "id": 34611,
-          "name": "Flanksbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "t": 250098,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 326510,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 328027,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "t": 251961,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 328651,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "t": 252626,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 329320,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 330968,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "t": 253694,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 333546,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "t": 254361,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 255383,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 334169,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "t": 256097,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 334789,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 336076,
-          "id": 34621,
-          "name": "Hunter's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "t": 257118,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 336741,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "t": 257829,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 337361,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 338604,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "t": 258809,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 339226,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 339893,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 340559,
+          "t": 259477,
           "id": 7542,
           "name": "Bloodbath",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
@@ -26783,7 +26239,103 @@
           "type": "ability"
         },
         {
-          "t": 341581,
+          "t": 261351,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263264,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263975,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 264995,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 265704,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 266682,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 267392,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 268369,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268990,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 270102,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272639,
+          "id": 34611,
+          "name": "Flanksbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 273260,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 274724,
           "id": 34607,
           "name": "Reaving Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
@@ -26791,7 +26343,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 343714,
+          "t": 276900,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -26799,7 +26351,63 @@
           "type": "weaponskill"
         },
         {
-          "t": 345802,
+          "t": 278988,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 281562,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 282185,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282896,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 284096,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284852,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 285520,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 286631,
           "id": 34613,
           "name": "Hindsbane Fang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
@@ -26807,7 +26415,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 346471,
+          "t": 287253,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26815,23 +26423,87 @@
           "type": "ability"
         },
         {
-          "t": 347983,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "t": 288760,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 350078,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "t": 290625,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 352171,
+          "t": 291248,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292313,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 292978,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 294000,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294713,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 295733,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296399,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 297422,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 300042,
           "id": 34633,
           "name": "Uncoiled Fury",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
@@ -26839,7 +26511,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 352840,
+          "t": 300708,
           "id": 34644,
           "name": "Uncoiled Twinfang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
@@ -26847,7 +26519,7 @@
           "type": "ability"
         },
         {
-          "t": 353507,
+          "t": 301375,
           "id": 34645,
           "name": "Uncoiled Twinblood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
@@ -26855,7 +26527,103 @@
           "type": "ability"
         },
         {
-          "t": 355198,
+          "t": 302975,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305106,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305773,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 306439,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 308129,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 310707,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311375,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312044,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 313245,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 313956,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 314669,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315779,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 317918,
           "id": 34610,
           "name": "Flanksting Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
@@ -26863,7 +26631,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 355776,
+          "t": 318629,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26871,7 +26639,7 @@
           "type": "ability"
         },
         {
-          "t": 357291,
+          "t": 320009,
           "id": 34607,
           "name": "Reaving Fangs",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
@@ -26879,7 +26647,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 359383,
+          "t": 322100,
           "id": 34609,
           "name": "Swiftskin's Sting",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
@@ -26887,7 +26655,295 @@
           "type": "weaponskill"
         },
         {
-          "t": 360585,
+          "t": 324231,
+          "id": 34612,
+          "name": "Hindsting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324896,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326363,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328987,
+          "id": 34621,
+          "name": "Hunter's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 329655,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 330276,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 331520,
+          "id": 34622,
+          "name": "Swiftskin's Coil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332188,
+          "id": 34637,
+          "name": "Twinblood Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 332856,
+          "id": 34636,
+          "name": "Twinfang Bite",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 334058,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 334725,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 336147,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 338277,
+          "id": 34611,
+          "name": "Flanksbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 338943,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 340409,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341074,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 341741,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 343342,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345522,
+          "id": 34609,
+          "name": "Swiftskin's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 347657,
+          "id": 34613,
+          "name": "Hindsbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003708.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 348412,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 349794,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 351931,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354019,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354730,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 355441,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 356994,
+          "id": 34610,
+          "name": "Flanksting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003705.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 357662,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 359128,
+          "id": 34607,
+          "name": "Reaving Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003702.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361219,
+          "id": 34609,
+          "name": "Swiftskin's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003704.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 362285,
+          "id": 34647,
+          "name": "Serpent's Ire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003742.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 363350,
+          "id": 34612,
+          "name": "Hindsting Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 364017,
+          "id": 34634,
+          "name": "Death Rattle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 365439,
+          "id": 34606,
+          "name": "Steel Fangs",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367575,
+          "id": 34608,
+          "name": "Hunter's Sting",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 369709,
+          "id": 34611,
+          "name": "Flanksbane Fang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 370420,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -26895,15 +26951,7 @@
           "type": "ability"
         },
         {
-          "t": 361520,
-          "id": 34612,
-          "name": "Hindsting Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003707.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 362186,
+          "t": 371088,
           "id": 34634,
           "name": "Death Rattle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
@@ -26911,15 +26959,7 @@
           "type": "ability"
         },
         {
-          "t": 362808,
-          "id": 34647,
-          "name": "Serpent's Ire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003742.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 363654,
+          "t": 371798,
           "id": 34626,
           "name": "Reawaken",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
@@ -26927,7 +26967,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 365519,
+          "t": 372554,
+          "id": 7542,
+          "name": "Bloodbath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 373757,
           "id": 34627,
           "name": "First Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
@@ -26935,7 +26983,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 366185,
+          "t": 374424,
           "id": 34640,
           "name": "First Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
@@ -26943,7 +26991,7 @@
           "type": "ability"
         },
         {
-          "t": 367250,
+          "t": 375447,
           "id": 34628,
           "name": "Second Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
@@ -26951,7 +26999,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 367872,
+          "t": 376160,
           "id": 34641,
           "name": "Second Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
@@ -26959,7 +27007,7 @@
           "type": "ability"
         },
         {
-          "t": 368935,
+          "t": 377138,
           "id": 34629,
           "name": "Third Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
@@ -26967,7 +27015,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 369556,
+          "t": 377854,
           "id": 34642,
           "name": "Third Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
@@ -26975,7 +27023,7 @@
           "type": "ability"
         },
         {
-          "t": 370623,
+          "t": 378838,
           "id": 34630,
           "name": "Fourth Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
@@ -26983,7 +27031,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 371291,
+          "t": 379508,
           "id": 34643,
           "name": "Fourth Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
@@ -26991,7 +27039,7 @@
           "type": "ability"
         },
         {
-          "t": 372359,
+          "t": 380532,
           "id": 34631,
           "name": "Ouroboros",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
@@ -26999,7 +27047,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 374935,
+          "t": 383118,
           "id": 34626,
           "name": "Reawaken",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
@@ -27007,15 +27055,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 375866,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 376800,
+          "t": 384990,
           "id": 34627,
           "name": "First Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
@@ -27023,7 +27063,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 377421,
+          "t": 385701,
           "id": 34640,
           "name": "First Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
@@ -27031,7 +27071,7 @@
           "type": "ability"
         },
         {
-          "t": 378486,
+          "t": 386679,
           "id": 34628,
           "name": "Second Generation",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
@@ -27039,7 +27079,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 379153,
+          "t": 387347,
           "id": 34641,
           "name": "Second Legacy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
@@ -27047,7 +27087,47 @@
           "type": "ability"
         },
         {
-          "t": 380176,
+          "t": 388372,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389085,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 390109,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 390868,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 391800,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 394379,
           "id": 34633,
           "name": "Uncoiled Fury",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
@@ -27055,7 +27135,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 380843,
+          "t": 395091,
           "id": 34644,
           "name": "Uncoiled Twinfang",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
@@ -27063,7 +27143,7 @@
           "type": "ability"
         },
         {
-          "t": 381466,
+          "t": 395759,
           "id": 34645,
           "name": "Uncoiled Twinblood",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
@@ -27071,63 +27151,7 @@
           "type": "ability"
         },
         {
-          "t": 383152,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 383819,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 384841,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 385508,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 386530,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 389114,
-          "id": 34606,
-          "name": "Steel Fangs",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003701.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 391209,
-          "id": 34608,
-          "name": "Hunter's Sting",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003703.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 393348,
+          "t": 397315,
           "id": 34620,
           "name": "Vicewinder",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
@@ -27135,39 +27159,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 395931,
-          "id": 34622,
-          "name": "Swiftskin's Coil",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 396555,
-          "id": 34637,
-          "name": "Twinblood Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397178,
-          "id": 34636,
-          "name": "Twinfang Bite",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397844,
-          "id": 7549,
-          "name": "Feint",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 398510,
+          "t": 399890,
           "id": 34621,
           "name": "Hunter's Coil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003716.png",
@@ -27175,7 +27167,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 399132,
+          "t": 400558,
           "id": 34636,
           "name": "Twinfang Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
@@ -27183,7 +27175,7 @@
           "type": "ability"
         },
         {
-          "t": 399799,
+          "t": 401180,
           "id": 34637,
           "name": "Twinblood Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
@@ -27191,159 +27183,7 @@
           "type": "ability"
         },
         {
-          "t": 401048,
-          "id": 34611,
-          "name": "Flanksbane Fang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003706.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 401672,
-          "id": 34634,
-          "name": "Death Rattle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003729.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403186,
-          "id": 34626,
-          "name": "Reawaken",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 405056,
-          "id": 34627,
-          "name": "First Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 405724,
-          "id": 34640,
-          "name": "First Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 406747,
-          "id": 34628,
-          "name": "Second Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407414,
-          "id": 34641,
-          "name": "Second Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 408439,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 409109,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 409733,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 411471,
-          "id": 34629,
-          "name": "Third Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 412096,
-          "id": 34642,
-          "name": "Third Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 413169,
-          "id": 34630,
-          "name": "Fourth Generation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 413793,
-          "id": 34643,
-          "name": "Fourth Legacy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 414865,
-          "id": 34631,
-          "name": "Ouroboros",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 417410,
-          "id": 34620,
-          "name": "Vicewinder",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 419986,
-          "id": 34633,
-          "name": "Uncoiled Fury",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420564,
-          "id": 34644,
-          "name": "Uncoiled Twinfang",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 421186,
-          "id": 34645,
-          "name": "Uncoiled Twinblood",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 422921,
+          "t": 402424,
           "id": 34622,
           "name": "Swiftskin's Coil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003717.png",
@@ -27351,7 +27191,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 423544,
+          "t": 403134,
           "id": 34637,
           "name": "Twinblood Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003732.png",
@@ -27359,10 +27199,146 @@
           "type": "ability"
         },
         {
-          "t": 424212,
+          "t": 403844,
           "id": 34636,
           "name": "Twinfang Bite",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003731.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 405488,
+          "id": 34626,
+          "name": "Reawaken",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003721.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407353,
+          "id": 34627,
+          "name": "First Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003722.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 408019,
+          "id": 34640,
+          "name": "First Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003735.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 409044,
+          "id": 34628,
+          "name": "Second Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003723.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 409755,
+          "id": 34641,
+          "name": "Second Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003736.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 410733,
+          "id": 34629,
+          "name": "Third Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003724.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 411443,
+          "id": 34642,
+          "name": "Third Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003737.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 412466,
+          "id": 34630,
+          "name": "Fourth Generation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003725.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 413176,
+          "id": 34643,
+          "name": "Fourth Legacy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003738.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 414155,
+          "id": 34631,
+          "name": "Ouroboros",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003726.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 416689,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417401,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 418069,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 419623,
+          "id": 34620,
+          "name": "Vicewinder",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003715.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422243,
+          "id": 34633,
+          "name": "Uncoiled Fury",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003728.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422864,
+          "id": 34644,
+          "name": "Uncoiled Twinfang",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003739.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 423486,
+          "id": 34645,
+          "name": "Uncoiled Twinblood",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003740.png",
           "gcd": false,
           "type": "ability"
         }
