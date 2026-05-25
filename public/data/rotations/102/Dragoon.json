@@ -1,7 +1,7 @@
 {
   "encounterId": 102,
   "job": "Dragoon",
-  "lastUpdated": "2026-05-23T04:56:09.672Z",
+  "lastUpdated": "2026-05-25T05:32:39.964Z",
   "rankings": [
     {
       "rank": 1,
@@ -10842,6 +10842,2863 @@
           "id": 36953,
           "name": "Rise of the Dragon",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "name": "Ma Deo",
+      "server": "Typhon JP",
+      "rDPS": 45072,
+      "aDPS": 43669,
+      "nDPS": 41633,
+      "duration": 537752,
+      "reportCode": "vkfV8wRLxh6XDgPd",
+      "fightID": 2,
+      "dpsGiven": 3264,
+      "dpsTaken": 1933,
+      "party": [
+        "Warrior",
+        "DarkKnight",
+        "WhiteMage",
+        "Sage",
+        "Dragoon",
+        "Samurai",
+        "Bard",
+        "BlackMage"
+      ],
+      "timeline": [
+        {
+          "t": 757,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 3245,
+          "id": 75,
+          "name": "True Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000310.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 5117,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 5740,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 6450,
+          "id": 3557,
+          "name": "Battle Litany",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002585.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7432,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 8237,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 9215,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 10734,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 11401,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12249,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13271,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 13894,
+          "id": 96,
+          "name": "Dragonfire Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002578.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 14741,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15765,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 16431,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18306,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 18932,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 19598,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20800,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 21424,
+          "id": 36953,
+          "name": "Rise of the Dragon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 22092,
+          "id": 36951,
+          "name": "Winged Glide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002598.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 23299,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 23967,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 25794,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 28331,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 28998,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 30825,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 33364,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 35860,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38399,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 40939,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 41609,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 43434,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 44058,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 45925,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 48425,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 50966,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 53459,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55999,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 56619,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 57290,
+          "id": 7542,
+          "name": "Bloodbath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 58492,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 60988,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 63480,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 64192,
+          "id": 7541,
+          "name": "Second Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 66064,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 66777,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67756,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 68558,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 69227,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70387,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 71053,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 71722,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 72391,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 73550,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 74217,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 76312,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78854,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 79478,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 81351,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 81972,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 82596,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 83847,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 86342,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 88883,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91776,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 94272,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 96766,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 99262,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 101761,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 102430,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104303,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 104926,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 106794,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 118339,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 119719,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 120833,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 123334,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 125827,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 126449,
+          "id": 3557,
+          "name": "Battle Litany",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002585.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 127741,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 128410,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 129300,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 130947,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 131618,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132420,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133489,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 134111,
+          "id": 96,
+          "name": "Dragonfire Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002578.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135004,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135982,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 136607,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137277,
+          "id": 36953,
+          "name": "Rise of the Dragon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138525,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 139149,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 141018,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 141642,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 142311,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 143516,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 146011,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148510,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 151049,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 152744,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 153546,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 156038,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 158573,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161067,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162492,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 175204,
+          "id": 94,
+          "name": "Elusive Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002577.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 178766,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181260,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 181927,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183754,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 185004,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186297,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 187900,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 188795,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 189418,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 190084,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191286,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 191955,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 192579,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193782,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 194450,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 197395,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 198019,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 198819,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 199935,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202427,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 204920,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 207456,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 208079,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 209954,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 212447,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214945,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 217485,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 219979,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 221402,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222472,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223141,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 224121,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 224969,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225682,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227509,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230004,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 230629,
+          "id": 7542,
+          "name": "Bloodbath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 231298,
+          "id": 7541,
+          "name": "Second Wind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 232501,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 233347,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235039,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237579,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 240076,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242533,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 245072,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246764,
+          "id": 3557,
+          "name": "Battle Litany",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002585.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 247566,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 248411,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249437,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 250106,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 250729,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252647,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 253315,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254163,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 255142,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 255768,
+          "id": 96,
+          "name": "Dragonfire Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002578.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 256615,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257639,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 258754,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 260310,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 260934,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262806,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263697,
+          "id": 36953,
+          "name": "Rise of the Dragon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 265302,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 266864,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 267800,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268914,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 270295,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 272835,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 274443,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 275376,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277870,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 281571,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284419,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 285086,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 286910,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287577,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 289450,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 290075,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 291947,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294485,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 297472,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 298095,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 298764,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 299967,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 302461,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 304959,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 307456,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 309105,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 309996,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 310667,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312490,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 313160,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 315032,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 315657,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 316368,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 317527,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 318195,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 318952,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320066,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 320692,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 321358,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 322563,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 323632,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 325059,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 326577,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 327602,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 330097,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 332636,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 335131,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 337670,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 340655,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 343150,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 345648,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346360,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 347208,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 348143,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 348814,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 350641,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 353180,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 355668,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 358161,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 360745,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363994,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365465,
+          "id": 36951,
+          "name": "Winged Glide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002598.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366489,
+          "id": 25771,
+          "name": "Heavens' Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002595.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 368983,
+          "id": 3554,
+          "name": "Fang and Claw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002582.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 371481,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 373973,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 374642,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 376464,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 379005,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 379630,
+          "id": 94,
+          "name": "Elusive Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002577.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 381945,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 383506,
+          "id": 36951,
+          "name": "Winged Glide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002598.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 384440,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 386976,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389518,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 393302,
+          "id": 34603666,
+          "name": "Grade 4 Gemdraught of Strength [HQ]",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 394102,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 395884,
+          "id": 3557,
+          "name": "Battle Litany",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002585.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 396597,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 397264,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 397932,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 399090,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 399756,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 400646,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 401626,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 402249,
+          "id": 96,
+          "name": "Dragonfire Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002578.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 403095,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404122,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 404791,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 406662,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 407286,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 407953,
+          "id": 36953,
+          "name": "Rise of the Dragon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 409157,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 409826,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 410539,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 411653,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 412366,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 414150,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 416646,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417537,
+          "id": 94,
+          "name": "Elusive Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002577.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 419232,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 421724,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 424218,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 426710,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428093,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 429207,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 429875,
+          "id": 7542,
+          "name": "Bloodbath",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000823.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 430502,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 431700,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 432369,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 435132,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 437627,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 442483,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 444980,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 445605,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 446228,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 447476,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 450365,
+          "id": 90,
+          "name": "Piercing Talon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000315.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 451479,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 452858,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 453525,
+          "id": 7549,
+          "name": "Feint",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000828.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 455398,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 457268,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 457936,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458559,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 459760,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 460427,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 461094,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 462968,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 463638,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 464485,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465462,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 466129,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 466755,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 467960,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 470455,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471123,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 472995,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 474507,
+          "id": 7546,
+          "name": "True North",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000830.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 475532,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478023,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 480516,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483014,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 485552,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488047,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 490584,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491653,
+          "id": 36951,
+          "name": "Winged Glide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002598.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 493122,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 493746,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495618,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 498114,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 498738,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 500650,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 501274,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 503143,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 505639,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 508176,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 510711,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 511468,
+          "id": 36951,
+          "name": "Winged Glide",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002598.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 513206,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 515705,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 518243,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 519134,
+          "id": 3557,
+          "name": "Battle Litany",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002585.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 519847,
+          "id": 85,
+          "name": "Lance Charge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000309.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 520737,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 522608,
+          "id": 3555,
+          "name": "Geirskogul",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002583.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523277,
+          "id": 36955,
+          "name": "Spiral Blow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002077.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 523990,
+          "id": 7400,
+          "name": "Nastrond",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002589.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 524657,
+          "id": 96,
+          "name": "Dragonfire Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002578.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 525816,
+          "id": 25772,
+          "name": "Chaotic Spring",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002596.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 526485,
+          "id": 16478,
+          "name": "High Jump",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002591.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 527333,
+          "id": 25773,
+          "name": "Wyrmwind Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002597.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528312,
+          "id": 3556,
+          "name": "Wheeling Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002584.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 528977,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 529599,
+          "id": 36953,
+          "name": "Rise of the Dragon",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002075.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 530845,
+          "id": 36952,
+          "name": "Drakesbane",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002599.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 531469,
+          "id": 16480,
+          "name": "Stardiver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002593.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 533336,
+          "id": 16479,
+          "name": "Raiden Thrust",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002592.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 533961,
+          "id": 36956,
+          "name": "Starcross",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 534584,
+          "id": 7399,
+          "name": "Mirage Dive",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002588.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 535833,
+          "id": 36954,
+          "name": "Lance Barrage",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/002000-002076.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 536457,
+          "id": 83,
+          "name": "Life Surge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000304.png",
           "gcd": false,
           "type": "ability"
         }
