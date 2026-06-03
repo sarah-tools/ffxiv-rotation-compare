@@ -1,7 +1,7 @@
 {
   "encounterId": 102,
   "job": "Machinist",
-  "lastUpdated": "2026-06-01T06:20:04.450Z",
+  "lastUpdated": "2026-06-03T06:17:00.221Z",
   "rankings": [
     {
       "rank": 1,
@@ -30014,29 +30014,29 @@
     },
     {
       "rank": 10,
-      "name": "Chi Cken",
-      "server": "Ixion JP",
-      "rDPS": 42663,
-      "aDPS": 43255,
-      "nDPS": 42663,
-      "duration": 548108,
-      "reportCode": "kt12JD7aRGcpY8L4",
-      "fightID": 9,
+      "name": "Rudeus Greyrath",
+      "server": "Zalera NA",
+      "rDPS": 42689,
+      "aDPS": 43801,
+      "nDPS": 42689,
+      "duration": 556641,
+      "reportCode": "1bxdp34jVk7rzXqN",
+      "fightID": 4,
       "dpsGiven": 0,
-      "dpsTaken": 0,
+      "dpsTaken": 1058,
       "party": [
-        "Paladin",
+        "Warrior",
         "DarkKnight",
         "WhiteMage",
-        "Sage",
+        "Scholar",
         "Samurai",
         "Viper",
         "Machinist",
-        "BlackMage"
+        "RedMage"
       ],
       "timeline": [
         {
-          "t": 93,
+          "t": 313,
           "id": 16500,
           "name": "Air Anchor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
@@ -30044,15 +30044,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 895,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 1750,
+          "t": 891,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30060,15 +30052,15 @@
           "type": "ability"
         },
         {
-          "t": 2630,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 1515,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 3361,
+          "t": 2139,
           "id": 7414,
           "name": "Barrel Stabilizer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
@@ -30076,15 +30068,7 @@
           "type": "ability"
         },
         {
-          "t": 4070,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 5136,
+          "t": 2854,
           "id": 25788,
           "name": "Chain Saw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
@@ -30092,15 +30076,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 5939,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6647,
+          "t": 3388,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30108,7 +30084,47 @@
           "type": "ability"
         },
         {
-          "t": 7685,
+          "t": 4012,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 4634,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 5392,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 5926,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 6505,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 7931,
           "id": 36981,
           "name": "Excavator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
@@ -30116,7 +30132,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 8487,
+          "t": 8465,
           "id": 16501,
           "name": "Automaton Queen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
@@ -30124,7 +30140,15 @@
           "type": "ability"
         },
         {
-          "t": 9232,
+          "t": 9000,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 9624,
           "id": 2878,
           "name": "Wildfire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
@@ -30132,7 +30156,79 @@
           "type": "ability"
         },
         {
-          "t": 10133,
+          "t": 10425,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 11891,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 12425,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13361,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 13894,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 14830,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 15452,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16297,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 16919,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17812,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -30140,39 +30236,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 10894,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11693,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 12664,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 14140,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 14849,
+          "t": 18392,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30180,15 +30244,7 @@
           "type": "ability"
         },
         {
-          "t": 15652,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 16410,
+          "t": 19017,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -30196,39 +30252,7 @@
           "type": "ability"
         },
         {
-          "t": 17173,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 18013,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 18730,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 19445,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 20246,
+          "t": 20352,
           "id": 36982,
           "name": "Full Metal Field",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
@@ -30236,23 +30260,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 21090,
-          "id": 2876,
-          "name": "Reassemble",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
-          "gcd": false,
-          "type": "ability"
+          "t": 22848,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
         },
         {
-          "t": 21891,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 22823,
+          "t": 25342,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -30260,23 +30276,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 23626,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 25325,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 27776,
+          "t": 27880,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -30284,7 +30284,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 30271,
+          "t": 30374,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30292,7 +30292,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 32760,
+          "t": 32867,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30300,7 +30300,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 35302,
+          "t": 35362,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -30308,7 +30308,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 37802,
+          "t": 37859,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30316,7 +30316,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 40293,
+          "t": 40355,
           "id": 16500,
           "name": "Air Anchor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
@@ -30324,15 +30324,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 42834,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 45381,
+          "t": 42897,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30340,15 +30332,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 46482,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "t": 45391,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 45926,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 47871,
+          "t": 47927,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -30356,7 +30356,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 50351,
+          "t": 48816,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 50422,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30364,7 +30372,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 52850,
+          "t": 52920,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30372,119 +30380,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 53600,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 55388,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "t": 55415,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 56232,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 57032,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "t": 57908,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 57739,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 58633,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "t": 60406,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 59486,
-          "id": 2887,
-          "name": "Dismantle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003011.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 60200,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 60944,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 61744,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 62544,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 63403,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 64205,
-          "id": 2876,
-          "name": "Reassemble",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 64907,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 65905,
+          "t": 62902,
           "id": 25788,
           "name": "Chain Saw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
@@ -30492,15 +30412,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 66708,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "t": 63437,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 68430,
+          "t": 65437,
           "id": 36981,
           "name": "Excavator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
@@ -30508,7 +30428,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 69233,
+          "t": 65973,
+          "id": 16501,
+          "name": "Automaton Queen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67927,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 68461,
           "id": 16889,
           "name": "Tactician",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
@@ -30516,31 +30452,23 @@
           "type": "ability"
         },
         {
-          "t": 70884,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "t": 69039,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70462,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 73372,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 75836,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 76639,
+          "t": 70996,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30548,15 +30476,15 @@
           "type": "ability"
         },
         {
-          "t": 78371,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "t": 71930,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 79139,
+          "t": 72465,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -30564,7 +30492,79 @@
           "type": "ability"
         },
         {
-          "t": 80859,
+          "t": 73399,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 73977,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 74867,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 75444,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 76336,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 76915,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 77848,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 78429,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 79051,
+          "id": 2887,
+          "name": "Dismantle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003011.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 80340,
           "id": 16500,
           "name": "Air Anchor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
@@ -30572,15 +30572,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 83399,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 85901,
+          "t": 82879,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30588,7 +30580,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 88392,
+          "t": 85368,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 87907,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30596,7 +30596,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 91997,
+          "t": 90844,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -30604,15 +30604,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 92797,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 93602,
+          "t": 91467,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30620,7 +30612,15 @@
           "type": "ability"
         },
         {
-          "t": 94487,
+          "t": 92090,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 93338,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30628,7 +30628,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 96979,
+          "t": 95830,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30636,7 +30636,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 99521,
+          "t": 98323,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -30644,7 +30644,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 101984,
+          "t": 100860,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -30652,15 +30652,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 104459,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 118618,
+          "t": 103352,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -30668,63 +30660,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 119463,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 121161,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "t": 105846,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 122052,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 122765,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 123696,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "t": 117373,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 124458,
-          "id": 7414,
-          "name": "Barrel Stabilizer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 126198,
-          "id": 25788,
-          "name": "Chain Saw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 126906,
+          "t": 118843,
           "id": 2876,
           "name": "Reassemble",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
@@ -30732,151 +30684,7 @@
           "type": "ability"
         },
         {
-          "t": 128739,
-          "id": 36981,
-          "name": "Excavator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 129543,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130289,
-          "id": 2878,
-          "name": "Wildfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 131240,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 132697,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 133500,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 134259,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 135021,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135774,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 136533,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 137336,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 138183,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138902,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 139672,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 140419,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141394,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 142151,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 143892,
-          "id": 36982,
-          "name": "Full Metal Field",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146437,
+          "t": 119868,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -30884,31 +30692,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 147204,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 148938,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 150415,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 151116,
+          "t": 120936,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -30916,15 +30700,7 @@
           "type": "ability"
         },
         {
-          "t": 151880,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 152587,
+          "t": 121560,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -30932,71 +30708,7 @@
           "type": "ability"
         },
         {
-          "t": 153486,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154239,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 154957,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 155800,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 156646,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 157448,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 158251,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 159142,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 161686,
+          "t": 122807,
           "id": 16500,
           "name": "Air Anchor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
@@ -31004,7 +30716,303 @@
           "type": "weaponskill"
         },
         {
-          "t": 175273,
+          "t": 125347,
+          "id": 25788,
+          "name": "Chain Saw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 125883,
+          "id": 16501,
+          "name": "Automaton Queen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 126505,
+          "id": 7414,
+          "name": "Barrel Stabilizer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 127885,
+          "id": 36981,
+          "name": "Excavator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 129086,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 130377,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 130911,
+          "id": 2878,
+          "name": "Wildfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 131846,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 132425,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133314,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 133850,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134785,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 135365,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136253,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 136878,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 137768,
+          "id": 36982,
+          "name": "Full Metal Field",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 138349,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 138971,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 140264,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 141556,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 142805,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 144277,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 144899,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 145789,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 146368,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 147262,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 147883,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 148776,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 149398,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 150245,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 150914,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 151491,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 152783,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 155279,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 157776,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 160271,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 162992,
+          "id": 16889,
+          "name": "Tactician",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 173162,
           "id": 7418,
           "name": "Flamethrower",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003038.png",
@@ -31012,111 +31020,7 @@
           "type": "ability"
         },
         {
-          "t": 178972,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 181495,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 182922,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 183990,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 184748,
-          "id": 2876,
-          "name": "Reassemble",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 185554,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186530,
-          "id": 25788,
-          "name": "Chain Saw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189070,
-          "id": 36981,
-          "name": "Excavator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189915,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191562,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 194062,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 196560,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 199056,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 201692,
+          "t": 177976,
           "id": 16500,
           "name": "Air Anchor",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
@@ -31124,7 +31028,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 204942,
+          "t": 180517,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -31132,7 +31036,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 207486,
+          "t": 181052,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 181723,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 183057,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31140,7 +31060,55 @@
           "type": "weaponskill"
         },
         {
-          "t": 208333,
+          "t": 183595,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 185555,
+          "id": 25788,
+          "name": "Chain Saw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 188098,
+          "id": 36981,
+          "name": "Excavator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190593,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 191262,
+          "id": 16501,
+          "name": "Automaton Queen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193085,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 194422,
           "id": 17209,
           "name": "Hypercharge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
@@ -31148,7 +31116,7 @@
           "type": "ability"
         },
         {
-          "t": 210028,
+          "t": 195628,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31156,15 +31124,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 211498,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 212254,
+          "t": 196162,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -31172,7 +31132,7 @@
           "type": "ability"
         },
         {
-          "t": 213009,
+          "t": 197097,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31180,7 +31140,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 213810,
+          "t": 197633,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -31188,7 +31148,7 @@
           "type": "ability"
         },
         {
-          "t": 214609,
+          "t": 198571,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31196,7 +31156,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 215454,
+          "t": 199105,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -31204,7 +31164,7 @@
           "type": "ability"
         },
         {
-          "t": 216304,
+          "t": 200041,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31212,23 +31172,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 217148,
-          "id": 16889,
-          "name": "Tactician",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
+          "t": 200619,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 217950,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "t": 201509,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 220531,
+          "t": 203023,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -31236,15 +31196,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 223027,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 225522,
+          "t": 205511,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -31252,63 +31204,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 226279,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 228064,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 228777,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 229534,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 230563,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 231320,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 232078,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 233063,
+          "t": 208051,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31316,7 +31212,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 235558,
+          "t": 210545,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -31324,7 +31220,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 238054,
+          "t": 213038,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -31332,7 +31228,55 @@
           "type": "weaponskill"
         },
         {
-          "t": 238946,
+          "t": 215532,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 218466,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 221001,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 221624,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222247,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 223539,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 224878,
           "id": 2887,
           "name": "Dismantle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003011.png",
@@ -31340,7 +31284,31 @@
           "type": "ability"
         },
         {
-          "t": 240550,
+          "t": 226036,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 226616,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227240,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 228579,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31348,23 +31316,119 @@
           "type": "weaponskill"
         },
         {
-          "t": 243046,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "t": 231074,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 243805,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "t": 233571,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 234821,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 244564,
+          "t": 236070,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237540,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 238163,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 239012,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 239592,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 240482,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242040,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243510,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 244088,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 244711,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 246004,
+          "id": 25788,
+          "name": "Chain Saw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246626,
           "id": 7414,
           "name": "Barrel Stabilizer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
@@ -31372,31 +31436,15 @@
           "type": "ability"
         },
         {
-          "t": 245549,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 248088,
-          "id": 25788,
-          "name": "Chain Saw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 248892,
-          "id": 2876,
-          "name": "Reassemble",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "t": 247205,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 250627,
+          "t": 248542,
           "id": 36981,
           "name": "Excavator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
@@ -31404,7 +31452,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 252233,
+          "t": 249121,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 249745,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 251035,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 252726,
           "id": 2878,
           "name": "Wildfire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
@@ -31412,7 +31484,7 @@
           "type": "ability"
         },
         {
-          "t": 253125,
+          "t": 253571,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -31420,7 +31492,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 253971,
+          "t": 254151,
+          "id": 16501,
+          "name": "Automaton Queen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254777,
           "id": 17209,
           "name": "Hypercharge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
@@ -31428,7 +31508,7 @@
           "type": "ability"
         },
         {
-          "t": 255619,
+          "t": 256071,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31436,23 +31516,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 256378,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257137,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 257894,
+          "t": 256604,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -31460,7 +31524,7 @@
           "type": "ability"
         },
         {
-          "t": 258697,
+          "t": 257540,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31468,7 +31532,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 259545,
+          "t": 258121,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -31476,7 +31540,7 @@
           "type": "ability"
         },
         {
-          "t": 260439,
+          "t": 259059,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31484,7 +31548,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 261290,
+          "t": 259682,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -31492,7 +31556,7 @@
           "type": "ability"
         },
         {
-          "t": 262093,
+          "t": 260577,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -31500,7 +31564,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 262808,
+          "t": 261153,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -31508,7 +31572,55 @@
           "type": "ability"
         },
         {
-          "t": 263567,
+          "t": 262044,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 262669,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263557,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 264181,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 266093,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268634,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 271128,
           "id": 36982,
           "name": "Full Metal Field",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
@@ -31516,119 +31628,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 264414,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 266153,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267002,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268653,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 269413,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 270172,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 270976,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 271869,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 272716,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 273609,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 274409,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 275212,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276104,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 276905,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 279399,
+          "t": 273620,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31636,7 +31636,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 281894,
+          "t": 276114,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -31644,31 +31644,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 284439,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 285197,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 286045,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 286982,
+          "t": 278607,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -31676,31 +31652,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 287872,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 289479,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 290238,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 292019,
+          "t": 281106,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31708,7 +31660,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 294514,
+          "t": 283596,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -31716,7 +31668,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 297011,
+          "t": 286085,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 286620,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 287289,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 288627,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -31724,7 +31700,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 298434,
+          "t": 291122,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 293614,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296110,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296957,
           "id": 7548,
           "name": "Arm's Length",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
@@ -31732,7 +31732,7 @@
           "type": "ability"
         },
         {
-          "t": 299504,
+          "t": 298605,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -31740,7 +31740,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 302002,
+          "t": 301098,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -31748,23 +31748,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 304494,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "t": 303593,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 305874,
-          "id": 2876,
-          "name": "Reassemble",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308060,
+          "t": 306131,
           "id": 25788,
           "name": "Chain Saw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
@@ -31772,127 +31764,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 310561,
-          "id": 36981,
-          "name": "Excavator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313054,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 313812,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 314615,
-          "id": 16889,
-          "name": "Tactician",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 315549,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 316352,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 317064,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 317823,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 318579,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 319380,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 320135,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 320938,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 321694,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 323160,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 325655,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 326411,
+          "t": 306978,
           "id": 16501,
           "name": "Automaton Queen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
@@ -31900,95 +31772,7 @@
           "type": "ability"
         },
         {
-          "t": 327213,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 328192,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 328948,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 330687,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 331799,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 333222,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 333936,
-          "id": 16502,
-          "name": "Queen Overdrive",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003502.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 334690,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 335717,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 338209,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341195,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 342131,
+          "t": 308180,
           "id": 2876,
           "name": "Reassemble",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
@@ -31996,7 +31780,15 @@
           "type": "ability"
         },
         {
-          "t": 343694,
+          "t": 308758,
+          "id": 36981,
+          "name": "Excavator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311294,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -32004,31 +31796,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 346231,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 348720,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 351210,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 352012,
+          "t": 311873,
           "id": 17209,
           "name": "Hypercharge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
@@ -32036,7 +31804,7 @@
           "type": "ability"
         },
         {
-          "t": 353708,
+          "t": 313831,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32044,23 +31812,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 354554,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 355352,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 356067,
+          "t": 314411,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32068,7 +31820,7 @@
           "type": "ability"
         },
         {
-          "t": 356868,
+          "t": 315300,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32076,7 +31828,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 357627,
+          "t": 315879,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -32084,7 +31836,7 @@
           "type": "ability"
         },
         {
-          "t": 358340,
+          "t": 316817,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32092,7 +31844,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 359099,
+          "t": 317440,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32100,7 +31852,7 @@
           "type": "ability"
         },
         {
-          "t": 359859,
+          "t": 318330,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32108,15 +31860,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 360659,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "t": 319800,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 320380,
+          "id": 16889,
+          "name": "Tactician",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 361461,
+          "t": 321271,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 323761,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -32124,31 +31892,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 362618,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "t": 325097,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 363999,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 366495,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 369032,
+          "t": 326341,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -32156,47 +31908,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 371570,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 374059,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 376554,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 377617,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 379043,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 380114,
+          "t": 326919,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32204,15 +31916,15 @@
           "type": "ability"
         },
         {
-          "t": 381536,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 327493,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 384030,
+          "t": 328875,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -32220,7 +31932,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 386523,
+          "t": 331368,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -32228,7 +31940,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 389108,
+          "t": 331904,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 332527,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 333863,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -32236,7 +31964,175 @@
           "type": "weaponskill"
         },
         {
-          "t": 390844,
+          "t": 336361,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 338851,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341352,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 342729,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 343843,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346384,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 348921,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 349903,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 351417,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 351951,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 352883,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 353418,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 354355,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354931,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 355821,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 356401,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 357291,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 358804,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361346,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363838,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 366339,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 367228,
           "id": 16501,
           "name": "Automaton Queen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
@@ -32244,15 +32140,7 @@
           "type": "ability"
         },
         {
-          "t": 391602,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 394365,
+          "t": 368878,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -32260,7 +32148,87 @@
           "type": "weaponskill"
         },
         {
-          "t": 395434,
+          "t": 371371,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 373868,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 376363,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 378860,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 381354,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 383848,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 386338,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 388879,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 392711,
+          "id": 7414,
+          "name": "Barrel Stabilizer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 393290,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 394048,
           "id": 34603667,
           "name": "Grade 4 Gemdraught of Dexterity [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020709.png",
@@ -32268,23 +32236,7 @@
           "type": "ability"
         },
         {
-          "t": 396860,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 397616,
-          "id": 7414,
-          "name": "Barrel Stabilizer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 398374,
+          "t": 394672,
           "id": 2876,
           "name": "Reassemble",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
@@ -32292,7 +32244,7 @@
           "type": "ability"
         },
         {
-          "t": 399400,
+          "t": 395785,
           "id": 25788,
           "name": "Chain Saw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
@@ -32300,7 +32252,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 401936,
+          "t": 398322,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 398857,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 399481,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 400862,
           "id": 36981,
           "name": "Excavator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
@@ -32308,7 +32284,31 @@
           "type": "weaponskill"
         },
         {
-          "t": 404433,
+          "t": 401395,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 402018,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 402597,
+          "id": 16501,
+          "name": "Automaton Queen",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 403353,
           "id": 36982,
           "name": "Full Metal Field",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
@@ -32316,7 +32316,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 405949,
+          "t": 404331,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404866,
           "id": 2878,
           "name": "Wildfire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
@@ -32324,31 +32332,7 @@
           "type": "ability"
         },
         {
-          "t": 406929,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407642,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 408445,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 409468,
+          "t": 405849,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32356,7 +32340,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 410314,
+          "t": 406383,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32364,7 +32348,7 @@
           "type": "ability"
         },
         {
-          "t": 411114,
+          "t": 407318,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -32372,47 +32356,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 412627,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 413429,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 414143,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 414900,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 415790,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416502,
+          "t": 407898,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -32420,7 +32364,55 @@
           "type": "ability"
         },
         {
-          "t": 417349,
+          "t": 408787,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 409366,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 410258,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 410882,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 411773,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 412396,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 413285,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -32428,7 +32420,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 418153,
+          "t": 413863,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -32436,7 +32428,23 @@
           "type": "ability"
         },
         {
-          "t": 418911,
+          "t": 414577,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 415824,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 416403,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32444,7 +32452,103 @@
           "type": "ability"
         },
         {
-          "t": 419890,
+          "t": 417294,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417872,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 418806,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 419384,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 420278,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 420902,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 421793,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422415,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 423261,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 423883,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 426334,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 428865,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 431402,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -32452,7 +32556,71 @@
           "type": "weaponskill"
         },
         {
-          "t": 421226,
+          "t": 433896,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 436392,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438886,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 441373,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 443872,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 446364,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 448900,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 451395,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 451974,
           "id": 16889,
           "name": "Tactician",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
@@ -32460,119 +32628,7 @@
           "type": "ability"
         },
         {
-          "t": 422432,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 423235,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 423993,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 424972,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 425775,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 426574,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 427378,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 428224,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 428982,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 429873,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 430630,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 431434,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 432148,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 432905,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 435405,
+          "t": 453890,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -32580,95 +32636,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 437993,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 440486,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 441867,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 443027,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 445478,
-          "id": 7548,
-          "name": "Arm's Length",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 446325,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 447123,
-          "id": 7541,
-          "name": "Second Wind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000821.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 448905,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 450375,
-          "id": 2887,
-          "name": "Dismantle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003011.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451443,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 453985,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 455273,
+          "t": 454469,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32676,23 +32644,7 @@
           "type": "ability"
         },
         {
-          "t": 456475,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 458970,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 459858,
+          "t": 455093,
           "id": 2876,
           "name": "Reassemble",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
@@ -32700,7 +32652,15 @@
           "type": "ability"
         },
         {
-          "t": 461461,
+          "t": 455718,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 456387,
           "id": 25788,
           "name": "Chain Saw",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
@@ -32708,15 +32668,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 462173,
-          "id": 16501,
-          "name": "Automaton Queen",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 463999,
+          "t": 458928,
           "id": 36981,
           "name": "Excavator",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
@@ -32724,127 +32676,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 466490,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 467294,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 468139,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 468986,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 469743,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 470456,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 471215,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 472013,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 472726,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 473487,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 474332,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 475044,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 475758,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 476605,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 479140,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 481637,
+          "t": 461422,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -32852,7 +32684,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 484132,
+          "t": 463918,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
@@ -32860,55 +32692,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 485070,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 486630,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 489168,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491707,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 494204,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 496701,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 497546,
+          "t": 464452,
           "id": 16501,
           "name": "Automaton Queen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
@@ -32916,31 +32700,15 @@
           "type": "ability"
         },
         {
-          "t": 499193,
-          "id": 7411,
-          "name": "Heated Split Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "t": 466413,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 500220,
-          "id": 17209,
-          "name": "Hypercharge",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 501735,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502493,
+          "t": 466992,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -32948,71 +32716,7 @@
           "type": "ability"
         },
         {
-          "t": 503340,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 504141,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 504896,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 505656,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 506413,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 507213,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 508016,
-          "id": 36978,
-          "name": "Blazing Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 508772,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 509577,
+          "t": 468955,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -33020,31 +32724,87 @@
           "type": "weaponskill"
         },
         {
-          "t": 512115,
-          "id": 7412,
-          "name": "Heated Slug Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 513538,
-          "id": 16889,
-          "name": "Tactician",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
+          "t": 469936,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 514607,
-          "id": 7413,
-          "name": "Heated Clean Shot",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "t": 470561,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 471499,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 517592,
+          "t": 472970,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473505,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 474442,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 474978,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 476539,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478012,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 478636,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 479528,
           "id": 7411,
           "name": "Heated Split Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
@@ -33052,7 +32812,199 @@
           "type": "weaponskill"
         },
         {
-          "t": 518395,
+          "t": 480199,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 481984,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 482787,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 484522,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487019,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 489558,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 492057,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 494557,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 497056,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 499550,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500174,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 500798,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 502047,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503520,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 504101,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 505037,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 505618,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 506555,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 508024,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 509535,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 510111,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 510777,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 512070,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 514557,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 515135,
           "id": 7414,
           "name": "Barrel Stabilizer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003034.png",
@@ -33060,7 +33012,7 @@
           "type": "ability"
         },
         {
-          "t": 520086,
+          "t": 517538,
           "id": 7412,
           "name": "Heated Slug Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
@@ -33068,23 +33020,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 520979,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 522583,
-          "id": 25788,
-          "name": "Chain Saw",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
+          "t": 520029,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 523340,
+          "t": 520652,
           "id": 2876,
           "name": "Reassemble",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
@@ -33092,7 +33036,15 @@
           "type": "ability"
         },
         {
-          "t": 524142,
+          "t": 522568,
+          "id": 25788,
+          "name": "Chain Saw",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003048.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 523145,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -33100,15 +33052,7 @@
           "type": "ability"
         },
         {
-          "t": 525120,
-          "id": 36981,
-          "name": "Excavator",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 526277,
+          "t": 523767,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -33116,39 +33060,15 @@
           "type": "ability"
         },
         {
-          "t": 527617,
-          "id": 36982,
-          "name": "Full Metal Field",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
+          "t": 525098,
+          "id": 7413,
+          "name": "Heated Clean Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 528328,
-          "id": 36979,
-          "name": "Double Check",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 529263,
-          "id": 2878,
-          "name": "Wildfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 530110,
-          "id": 16500,
-          "name": "Air Anchor",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 530954,
+          "t": 525632,
           "id": 16501,
           "name": "Automaton Queen",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003501.png",
@@ -33156,7 +33076,39 @@
           "type": "ability"
         },
         {
-          "t": 531845,
+          "t": 526656,
+          "id": 2878,
+          "name": "Wildfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003018.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 527590,
+          "id": 36981,
+          "name": "Excavator",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003500.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 528124,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528747,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 529372,
           "id": 17209,
           "name": "Hypercharge",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
@@ -33164,7 +33116,7 @@
           "type": "ability"
         },
         {
-          "t": 532689,
+          "t": 530082,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -33172,7 +33124,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 534159,
+          "t": 531549,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -33180,7 +33132,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 534919,
+          "t": 532126,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -33188,7 +33140,7 @@
           "type": "ability"
         },
         {
-          "t": 535808,
+          "t": 533016,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -33196,7 +33148,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 536521,
+          "t": 533639,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -33204,7 +33156,7 @@
           "type": "ability"
         },
         {
-          "t": 537324,
+          "t": 534528,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -33212,7 +33164,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 538035,
+          "t": 535108,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -33220,7 +33172,7 @@
           "type": "ability"
         },
         {
-          "t": 538795,
+          "t": 536040,
           "id": 36978,
           "name": "Blazing Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
@@ -33228,7 +33180,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 539553,
+          "t": 536620,
           "id": 36980,
           "name": "Checkmate",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
@@ -33236,7 +33188,15 @@
           "type": "ability"
         },
         {
-          "t": 540354,
+          "t": 537555,
+          "id": 36982,
+          "name": "Full Metal Field",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003049.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 540044,
           "id": 16498,
           "name": "Drill",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
@@ -33244,15 +33204,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 541378,
-          "id": 36980,
-          "name": "Checkmate",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 542178,
+          "t": 540932,
           "id": 36979,
           "name": "Double Check",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
@@ -33260,20 +33212,92 @@
           "type": "ability"
         },
         {
-          "t": 543023,
-          "id": 16498,
-          "name": "Drill",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "t": 541553,
+          "id": 36980,
+          "name": "Checkmate",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003508.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 542577,
+          "id": 7411,
+          "name": "Heated Split Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003031.png",
           "gcd": true,
           "type": "weaponskill"
         },
         {
-          "t": 545563,
+          "t": 545072,
+          "id": 7412,
+          "name": "Heated Slug Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003032.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 547563,
           "id": 7413,
           "name": "Heated Clean Shot",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003033.png",
           "gcd": true,
           "type": "weaponskill"
+        },
+        {
+          "t": 550053,
+          "id": 16500,
+          "name": "Air Anchor",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003045.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 551522,
+          "id": 2876,
+          "name": "Reassemble",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003022.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 552591,
+          "id": 16498,
+          "name": "Drill",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003043.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 553389,
+          "id": 16889,
+          "name": "Tactician",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003040.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 554011,
+          "id": 17209,
+          "name": "Hypercharge",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003041.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 555122,
+          "id": 36978,
+          "name": "Blazing Shot",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003506.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 555877,
+          "id": 36979,
+          "name": "Double Check",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003507.png",
+          "gcd": false,
+          "type": "ability"
         }
       ]
     }
