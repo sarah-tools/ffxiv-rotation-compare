@@ -1,7 +1,7 @@
 {
   "encounterId": 101,
   "job": "RedMage",
-  "lastUpdated": "2026-06-29T06:00:57.998Z",
+  "lastUpdated": "2026-07-01T05:49:50.434Z",
   "rankings": [
     {
       "rank": 1,
@@ -24654,29 +24654,29 @@
     },
     {
       "rank": 10,
-      "name": "Sheik Kisaragi",
-      "server": "Masamune JP",
-      "rDPS": 42313,
-      "aDPS": 43681,
-      "nDPS": 38920,
-      "duration": 503779,
-      "reportCode": "Xtqm97JywzdkvLFN",
+      "name": "Anonymous",
+      "server": "",
+      "rDPS": 42318,
+      "aDPS": 40315,
+      "nDPS": 39192,
+      "duration": 500456,
+      "reportCode": "a:qzjvnkbAcxVHXFWN",
       "fightID": 1,
-      "dpsGiven": 3387,
-      "dpsTaken": 5359,
+      "dpsGiven": 3122,
+      "dpsTaken": 1122,
       "party": [
         "Paladin",
         "DarkKnight",
+        "WhiteMage",
         "Scholar",
-        "Astrologian",
-        "Monk",
-        "Dragoon",
-        "Bard",
+        "Reaper",
+        "Viper",
+        "Machinist",
         "RedMage"
       ],
       "timeline": [
         {
-          "t": 762,
+          "t": 313,
           "id": 25856,
           "name": "Veraero III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
@@ -24684,7 +24684,7 @@
           "type": "spell"
         },
         {
-          "t": 1386,
+          "t": 981,
           "id": 25855,
           "name": "Verthunder III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
@@ -24692,15 +24692,15 @@
           "type": "spell"
         },
         {
-          "t": 2275,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "t": 1691,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 2991,
+          "t": 2668,
           "id": 34603669,
           "name": "Grade 4 Gemdraught of Intelligence [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
@@ -24708,39 +24708,23 @@
           "type": "ability"
         },
         {
-          "t": 3882,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "t": 3513,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 4596,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "t": 4136,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 5307,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6374,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 7044,
+          "t": 4978,
           "id": 7520,
           "name": "Embolden",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
@@ -24748,151 +24732,7 @@
           "type": "ability"
         },
         {
-          "t": 7758,
-          "id": 7521,
-          "name": "Manafication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 8825,
-          "id": 45960,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 9495,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 10340,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 11008,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11857,
-          "id": 45962,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 12524,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13236,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 14039,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 14749,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 15417,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 16532,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 17245,
-          "id": 37005,
-          "name": "Vice of Thorns",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 17958,
-          "id": 37007,
-          "name": "Prefulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19028,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 19740,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 21522,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 25445,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 26559,
+          "t": 6002,
           "id": 25855,
           "name": "Verthunder III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
@@ -24900,23 +24740,7 @@
           "type": "spell"
         },
         {
-          "t": 30482,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 31460,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 32177,
+          "t": 6626,
           "id": 7517,
           "name": "Fleche",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
@@ -24924,47 +24748,7 @@
           "type": "ability"
         },
         {
-          "t": 35385,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 36455,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 37347,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 38910,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 41359,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 42026,
+          "t": 7338,
           "id": 25857,
           "name": "Magick Barrier",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003237.png",
@@ -24972,439 +24756,7 @@
           "type": "ability"
         },
         {
-          "t": 42693,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 43862,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 47842,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 48821,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 49622,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 50292,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 52789,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 53766,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 54478,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 57718,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 58742,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 59457,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 62713,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 63710,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 66226,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 67760,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69250,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 71417,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 73893,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 76381,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 80363,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 81390,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 83226,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 85367,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 86433,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 87102,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 87815,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 90354,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 91379,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 92373,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 93846,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 97814,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 98837,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 102753,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 103804,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 104798,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 107777,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 108811,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 109763,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 111305,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 112162,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 115235,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 116225,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 116938,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 121648,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 124090,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 124765,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125633,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 127121,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 127803,
-          "id": 7520,
-          "name": "Embolden",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 129305,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 131787,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 134244,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 134923,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135606,
+          "t": 8007,
           "id": 7521,
           "name": "Manafication",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
@@ -25412,7 +24764,7 @@
           "type": "ability"
         },
         {
-          "t": 136741,
+          "t": 8675,
           "id": 45960,
           "name": "Enchanted Riposte",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
@@ -25420,159 +24772,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 137414,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 138272,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 138938,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 139741,
-          "id": 45962,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 140454,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 141967,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 144465,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 145238,
-          "id": 37005,
-          "name": "Vice of Thorns",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 145967,
-          "id": 37007,
-          "name": "Prefulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 146918,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 148047,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 149430,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 150110,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 153388,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 154376,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 155242,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 156000,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 158314,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 159346,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 160064,
+          "t": 9343,
           "id": 7519,
           "name": "Contre Sixte",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
@@ -25580,7 +24780,127 @@
           "type": "ability"
         },
         {
-          "t": 163300,
+          "t": 10189,
+          "id": 45961,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 10813,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 11702,
+          "id": 45962,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 12326,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12993,
+          "id": 37007,
+          "name": "Prefulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 13884,
+          "id": 7526,
+          "name": "Verholy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 14507,
+          "id": 37005,
+          "name": "Vice of Thorns",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15130,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16378,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 17046,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 17760,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 18919,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 21452,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 22119,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 23994,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 27957,
           "id": 7510,
           "name": "Verfire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
@@ -25588,7 +24908,7 @@
           "type": "spell"
         },
         {
-          "t": 164346,
+          "t": 28984,
           "id": 25855,
           "name": "Verthunder III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
@@ -25596,7 +24916,15 @@
           "type": "spell"
         },
         {
-          "t": 164970,
+          "t": 31481,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 32194,
           "id": 7517,
           "name": "Fleche",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
@@ -25604,7 +24932,79 @@
           "type": "ability"
         },
         {
-          "t": 166800,
+          "t": 35449,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 36473,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 40445,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 41515,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 45482,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 46108,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 46772,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 47442,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 48109,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 49268,
           "id": 7527,
           "name": "Enchanted Riposte",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
@@ -25612,7 +25012,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 168312,
+          "t": 49938,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 50783,
           "id": 7528,
           "name": "Enchanted Zwerchhau",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
@@ -25620,7 +25028,359 @@
           "type": "weaponskill"
         },
         {
-          "t": 168993,
+          "t": 52346,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 54534,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 57032,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 57657,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 59532,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 60290,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 62026,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 64567,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 65235,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 67060,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 71068,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 72094,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 76060,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 77127,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 81091,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 81804,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 82428,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 83052,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 86444,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 87471,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 91444,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 92468,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 96476,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 97498,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 101464,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 102532,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 103871,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 104537,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 106632,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 107301,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 108014,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 108725,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 109886,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 110512,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 114524,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 115550,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 116799,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 121078,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 122593,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 124064,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 124731,
+          "id": 7521,
+          "name": "Manafication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 125400,
+          "id": 7520,
+          "name": "Embolden",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 126290,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 128780,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 129402,
           "id": 25857,
           "name": "Magick Barrier",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003237.png",
@@ -25628,463 +25388,7 @@
           "type": "ability"
         },
         {
-          "t": 169846,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 170655,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 172053,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 174577,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 177033,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 179524,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 183445,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 184435,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 188408,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 189410,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 190090,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191886,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 195997,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 196997,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 197850,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 198521,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 199468,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 200586,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 201256,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 202021,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 204471,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 206236,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 208365,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 209395,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 213345,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 214369,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 215089,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 216905,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 218444,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219933,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 222131,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 224578,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 225438,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 227053,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 230998,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 231999,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 233083,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 235969,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 236965,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 237691,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 239480,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 240610,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 241966,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 243452,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244503,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 246005,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 247490,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 248221,
-          "id": 7520,
-          "name": "Embolden",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 249676,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 250403,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 252157,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 254639,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 255322,
-          "id": 7521,
-          "name": "Manafication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 256052,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 257090,
-          "id": 45960,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 257818,
-          "id": 37005,
-          "name": "Vice of Thorns",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258593,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 259322,
+          "t": 130293,
           "id": 37007,
           "name": "Prefulgence",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
@@ -26092,7 +25396,63 @@
           "type": "ability"
         },
         {
-          "t": 260096,
+          "t": 131317,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 131983,
+          "id": 37005,
+          "name": "Vice of Thorns",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 132606,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133808,
+          "id": 45960,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 134476,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 135322,
+          "id": 45961,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 135946,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136835,
           "id": 45962,
           "name": "Enchanted Redoublement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
@@ -26100,31 +25460,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 260773,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 261411,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262315,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "t": 139064,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 264793,
+          "t": 141560,
           "id": 16530,
           "name": "Scorch",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
@@ -26132,15 +25476,7 @@
           "type": "spell"
         },
         {
-          "t": 265598,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 267274,
+          "t": 144054,
           "id": 25858,
           "name": "Resolution",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
@@ -26148,47 +25484,7 @@
           "type": "spell"
         },
         {
-          "t": 268088,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268860,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 269775,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 273707,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 274750,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 278728,
+          "t": 148062,
           "id": 7510,
           "name": "Verfire",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
@@ -26196,7 +25492,7 @@
           "type": "spell"
         },
         {
-          "t": 279723,
+          "t": 149087,
           "id": 25856,
           "name": "Veraero III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
@@ -26204,359 +25500,7 @@
           "type": "spell"
         },
         {
-          "t": 283678,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 284668,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 288622,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 289619,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 290572,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 293575,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 294599,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 295275,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 295921,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 297106,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 298607,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 300091,
-          "id": 7529,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 302361,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 304828,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 307317,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 308272,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309006,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309786,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 313808,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 314790,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 315546,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316392,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 317241,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 319687,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 323663,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 324735,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 327675,
-          "id": 16528,
-          "name": "Enchanted Reprise",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003232.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 331631,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 332622,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 333338,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 334062,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 336590,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 337586,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 338441,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 340075,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 341383,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 342547,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 343264,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 346474,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 347509,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 348983,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 349974,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 353948,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 354973,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 355686,
+          "t": 149754,
           "id": 7560,
           "name": "Addle",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
@@ -26564,23 +25508,15 @@
           "type": "ability"
         },
         {
-          "t": 356400,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "t": 150377,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 358899,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 359932,
+          "t": 151579,
           "id": 25856,
           "name": "Veraero III",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
@@ -26588,7 +25524,63 @@
           "type": "spell"
         },
         {
-          "t": 362407,
+          "t": 152246,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 152871,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 155590,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 156615,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 157324,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 159149,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 159775,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 161642,
           "id": 7527,
           "name": "Enchanted Riposte",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
@@ -26596,7 +25588,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 363896,
+          "t": 163156,
           "id": 7528,
           "name": "Enchanted Zwerchhau",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
@@ -26604,7 +25596,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 365411,
+          "t": 164670,
           "id": 7529,
           "name": "Enchanted Redoublement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
@@ -26612,15 +25604,375 @@
           "type": "weaponskill"
         },
         {
-          "t": 367600,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "t": 166894,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
           "gcd": true,
           "type": "spell"
         },
         {
-          "t": 368281,
+          "t": 169390,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 170327,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 171888,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 176034,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 177056,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 181024,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 182136,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 184005,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 184673,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 185341,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 188632,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 189345,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 190012,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 194017,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 195039,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 199038,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 200107,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 204069,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 205093,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 206826,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 207583,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 210124,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 210793,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 214086,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 215109,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 216488,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 217246,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 217958,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 219427,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 220898,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223215,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 224372,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 225706,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 228197,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 232161,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 233229,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 234119,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 235722,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 236343,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 238211,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 239056,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 240750,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 243243,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 244803,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246273,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246896,
           "id": 7520,
           "name": "Embolden",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
@@ -26628,7 +25980,615 @@
           "type": "ability"
         },
         {
-          "t": 368955,
+          "t": 247610,
+          "id": 7521,
+          "name": "Manafication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 248499,
+          "id": 7526,
+          "name": "Verholy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 250147,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 250992,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 251662,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252285,
+          "id": 37007,
+          "name": "Prefulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 253533,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 254160,
+          "id": 37005,
+          "name": "Vice of Thorns",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 256027,
+          "id": 45960,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 256651,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 257540,
+          "id": 45961,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 258210,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 259054,
+          "id": 45962,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 259722,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 260391,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 261282,
+          "id": 7526,
+          "name": "Verholy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 261950,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 262619,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 263776,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 266314,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 270278,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 271304,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 275317,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 276389,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 280351,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 281376,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 281998,
+          "id": 25857,
+          "name": "Magick Barrier",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003237.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 285340,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 286409,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 287034,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 290371,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 291396,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 293935,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 294736,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 295449,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 296960,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 299140,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 299984,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 301676,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 302346,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 304171,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 308135,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 309247,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313209,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 313834,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 314548,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 318509,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 319576,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 323542,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 324566,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 328572,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 329597,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 330265,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 330934,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 332139,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 333742,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 334631,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 335299,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 338638,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 339488,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 340245,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 341628,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 342742,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 346697,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 347722,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 351682,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 352750,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 354486,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 356760,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 357834,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 360330,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 361803,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 363317,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 364475,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 365545,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 366214,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366883,
           "id": 34603669,
           "name": "Grade 4 Gemdraught of Intelligence [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020706.png",
@@ -26636,615 +26596,7 @@
           "type": "ability"
         },
         {
-          "t": 370112,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 370785,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 371451,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 372565,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 373278,
-          "id": 7521,
-          "name": "Manafication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 375062,
-          "id": 45960,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 376574,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378090,
-          "id": 45962,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 378761,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 379442,
-          "id": 37007,
-          "name": "Prefulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 380253,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 380972,
-          "id": 37005,
-          "name": "Vice of Thorns",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 381655,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 382771,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 385219,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 385933,
-          "id": 25857,
-          "name": "Magick Barrier",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003237.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 387727,
-          "id": 45960,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 389246,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 390738,
-          "id": 45962,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 393011,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 394534,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 395472,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 396141,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 397924,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 399305,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400420,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 404355,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 405405,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 409333,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 410315,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 414291,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 415314,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 416117,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 416787,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 417767,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 418490,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 420280,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 424230,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 425256,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 425926,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 429190,
-          "id": 7514,
-          "name": "Vercure",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003216.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 430230,
-          "id": 7523,
-          "name": "Verraise",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003221.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 434166,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 435254,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 436019,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 436732,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 439198,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 440198,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 441777,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 442686,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 447682,
-          "id": 7511,
-          "name": "Verstone",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 448645,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 450043,
-          "id": 7518,
-          "name": "Acceleration",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 451122,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 451891,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 452664,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 453602,
-          "id": 37006,
-          "name": "Grand Impact",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 457532,
-          "id": 7510,
-          "name": "Verfire",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 458527,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 462465,
-          "id": 37004,
-          "name": "Jolt III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 463492,
-          "id": 25856,
-          "name": "Veraero III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 466035,
-          "id": 16528,
-          "name": "Enchanted Reprise",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003232.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468795,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 470266,
-          "id": 7527,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 471735,
-          "id": 7528,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 473875,
-          "id": 7525,
-          "name": "Verflare",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 476326,
-          "id": 16530,
-          "name": "Scorch",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 476993,
-          "id": 16527,
-          "name": "Engagement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 478863,
-          "id": 25858,
-          "name": "Resolution",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 479888,
-          "id": 7517,
-          "name": "Fleche",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 481810,
-          "id": 7561,
-          "name": "Swiftcast",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 482567,
-          "id": 25855,
-          "name": "Verthunder III",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 483678,
-          "id": 7521,
-          "name": "Manafication",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 485106,
-          "id": 45960,
-          "name": "Enchanted Riposte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 486578,
-          "id": 45961,
-          "name": "Enchanted Zwerchhau",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 488047,
-          "id": 45962,
-          "name": "Enchanted Redoublement",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 488983,
+          "t": 367550,
           "id": 7520,
           "name": "Embolden",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
@@ -27252,23 +26604,7 @@
           "type": "ability"
         },
         {
-          "t": 490231,
-          "id": 7526,
-          "name": "Verholy",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 490941,
-          "id": 7519,
-          "name": "Contre Sixte",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492722,
+          "t": 368217,
           "id": 16530,
           "name": "Scorch",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
@@ -27276,23 +26612,7 @@
           "type": "spell"
         },
         {
-          "t": 493575,
-          "id": 37007,
-          "name": "Prefulgence",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 494416,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 495260,
+          "t": 370711,
           "id": 25858,
           "name": "Resolution",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
@@ -27300,23 +26620,15 @@
           "type": "spell"
         },
         {
-          "t": 496019,
-          "id": 37005,
-          "name": "Vice of Thorns",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "t": 371601,
+          "id": 7521,
+          "name": "Manafication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 496688,
-          "id": 7560,
-          "name": "Addle",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 497713,
+          "t": 373248,
           "id": 45960,
           "name": "Enchanted Riposte",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
@@ -27324,15 +26636,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 498383,
-          "id": 7506,
-          "name": "Corps-a-Corps",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 499187,
+          "t": 374763,
           "id": 45961,
           "name": "Enchanted Zwerchhau",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
@@ -27340,15 +26644,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 499899,
-          "id": 7562,
-          "name": "Lucid Dreaming",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 500700,
+          "t": 376276,
           "id": 45962,
           "name": "Enchanted Redoublement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
@@ -27356,7 +26652,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 502926,
+          "t": 378455,
           "id": 7526,
           "name": "Verholy",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
@@ -27364,10 +26660,650 @@
           "type": "spell"
         },
         {
-          "t": 503682,
+          "t": 379888,
+          "id": 37007,
+          "name": "Prefulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 380948,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 381617,
+          "id": 37005,
+          "name": "Vice of Thorns",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382239,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 382908,
           "id": 16527,
           "name": "Engagement",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 383576,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 386071,
+          "id": 45960,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 387583,
+          "id": 45961,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389098,
+          "id": 45962,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389766,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 390477,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 391326,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 392304,
+          "id": 7562,
+          "name": "Lucid Dreaming",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000865.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 393819,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 396356,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 396979,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 397607,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 398855,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 402865,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 403488,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 404113,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 406609,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 410617,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 411686,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 413333,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 414180,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 415116,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 418148,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 419260,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 423362,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 424387,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 428359,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 429382,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 430852,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 433392,
+          "id": 37004,
+          "name": "Jolt III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003241.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 434418,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 435220,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 436957,
+          "id": 25856,
+          "name": "Veraero III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003236.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 437626,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 439321,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 441412,
+          "id": 7510,
+          "name": "Verfire",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003208.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 442126,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 442838,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 445335,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 449301,
+          "id": 7511,
+          "name": "Verstone",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003209.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 450324,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 451885,
+          "id": 7560,
+          "name": "Addle",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000861.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 452820,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 454336,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 455854,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 458077,
+          "id": 7526,
+          "name": "Verholy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 460572,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 463068,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 463825,
+          "id": 7561,
+          "name": "Swiftcast",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000866.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465611,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 468104,
+          "id": 7527,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 468730,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 469709,
+          "id": 7528,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471180,
+          "id": 7529,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473364,
+          "id": 7526,
+          "name": "Verholy",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003224.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 474300,
+          "id": 7519,
+          "name": "Contre Sixte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003217.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 475857,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 478352,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 479555,
+          "id": 7518,
+          "name": "Acceleration",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003214.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 480937,
+          "id": 25855,
+          "name": "Verthunder III",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003235.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 483433,
+          "id": 37006,
+          "name": "Grand Impact",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003243.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 484414,
+          "id": 7521,
+          "name": "Manafication",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003219.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 485929,
+          "id": 45960,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487399,
+          "id": 45961,
+          "name": "Enchanted Zwerchhau",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003226.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 488559,
+          "id": 7520,
+          "name": "Embolden",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003218.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 489316,
+          "id": 45962,
+          "name": "Enchanted Redoublement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003227.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491587,
+          "id": 7525,
+          "name": "Verflare",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003223.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 492251,
+          "id": 37007,
+          "name": "Prefulgence",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003244.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 493277,
+          "id": 37005,
+          "name": "Vice of Thorns",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003242.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 494077,
+          "id": 16530,
+          "name": "Scorch",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003234.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 494747,
+          "id": 7517,
+          "name": "Fleche",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003212.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495416,
+          "id": 7506,
+          "name": "Corps-a-Corps",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003204.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 496128,
+          "id": 16527,
+          "name": "Engagement",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003231.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 496751,
+          "id": 25858,
+          "name": "Resolution",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003238.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 499289,
+          "id": 45960,
+          "name": "Enchanted Riposte",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003225.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 499957,
+          "id": 25857,
+          "name": "Magick Barrier",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003237.png",
           "gcd": false,
           "type": "ability"
         }

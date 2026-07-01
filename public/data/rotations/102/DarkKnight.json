@@ -1,7 +1,7 @@
 {
   "encounterId": 102,
   "job": "DarkKnight",
-  "lastUpdated": "2026-06-29T06:04:24.850Z",
+  "lastUpdated": "2026-07-01T05:53:12.139Z",
   "rankings": [
     {
       "rank": 1,
@@ -22910,29 +22910,29 @@
     },
     {
       "rank": 10,
-      "name": "Akatsuki Buhen",
-      "server": "Cerberus EU",
-      "rDPS": 28308,
-      "aDPS": 30172,
-      "nDPS": 28308,
-      "duration": 540154,
-      "reportCode": "FdcXNhy7HDApCYRa",
-      "fightID": 10,
+      "name": "Decius Vendelin",
+      "server": "Mateus NA",
+      "rDPS": 28332,
+      "aDPS": 29652,
+      "nDPS": 28332,
+      "duration": 537215,
+      "reportCode": "cZ7TCdvGNWPnDhz6",
+      "fightID": 44,
       "dpsGiven": 0,
-      "dpsTaken": 1769,
+      "dpsTaken": 1173,
       "party": [
+        "Warrior",
         "DarkKnight",
-        "Gunbreaker",
         "WhiteMage",
-        "Sage",
+        "Scholar",
         "Dragoon",
-        "Samurai",
+        "Viper",
         "Dancer",
-        "Summoner"
+        "BlackMage"
       ],
       "timeline": [
         {
-          "t": 0,
+          "t": 1203,
           "id": 3624,
           "name": "Unmend",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
@@ -22940,7 +22940,31 @@
           "type": "spell"
         },
         {
-          "t": 670,
+          "t": 1826,
+          "id": 16472,
+          "name": "Living Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 2628,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 3697,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 4322,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -22948,79 +22972,7 @@
           "type": "ability"
         },
         {
-          "t": 2546,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 3170,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 3794,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 4463,
-          "id": 16472,
-          "name": "Living Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 5090,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 5758,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 6382,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 7630,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 8746,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 9373,
+          "t": 4991,
           "id": 7390,
           "name": "Delirium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
@@ -23028,23 +22980,7 @@
           "type": "ability"
         },
         {
-          "t": 10130,
-          "id": 36932,
-          "name": "Disesteem",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 10755,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 11426,
+          "t": 5658,
           "id": 16470,
           "name": "Edge of Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
@@ -23052,7 +22988,7 @@
           "type": "ability"
         },
         {
-          "t": 12631,
+          "t": 6326,
           "id": 36928,
           "name": "Scarlet Delirium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
@@ -23060,39 +22996,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 13253,
-          "id": 3634,
-          "name": "Dark Mind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003076.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 13922,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 15127,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 15796,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 16417,
+          "t": 6950,
           "id": 25757,
           "name": "Shadowbringer",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
@@ -23100,247 +23004,7 @@
           "type": "ability"
         },
         {
-          "t": 17668,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 18382,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 19361,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 20164,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 22079,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 22701,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 24126,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 25195,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 27734,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 30226,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 32848,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 35386,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 38550,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 41042,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 43536,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 46078,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 48572,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 49688,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 51071,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 53570,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 56067,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 58032,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 58743,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 60702,
-          "id": 16471,
-          "name": "Dark Missionary",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 61413,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 63911,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 66405,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 67027,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 67696,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 68901,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 69525,
+          "t": 7621,
           "id": 3643,
           "name": "Carve and Spit",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
@@ -23348,23 +23012,7 @@
           "type": "ability"
         },
         {
-          "t": 70193,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 71439,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 74291,
+          "t": 8828,
           "id": 36929,
           "name": "Comeuppance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
@@ -23372,919 +23020,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 76785,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 78299,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 79323,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 81821,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 84314,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 86807,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 89303,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 91846,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 94342,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 95053,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 96833,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 97547,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 98171,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 99371,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 99993,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 101863,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 104362,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 105298,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 118133,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 120631,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 123127,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 123794,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 124465,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125087,
-          "id": 16472,
-          "name": "Living Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 125755,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 128247,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 129537,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130204,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 130871,
-          "id": 36932,
-          "name": "Disesteem",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 131493,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 132160,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 133364,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 134032,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 135859,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 138570,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 139239,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 141733,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 142355,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 143067,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 144228,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 146762,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 147428,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 149300,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 151797,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 154290,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 156779,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 159269,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 161761,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 166966,
-          "id": 16471,
-          "name": "Dark Missionary",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 167677,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 178586,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 180279,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 181078,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 183752,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 185578,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 186290,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 187493,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 188783,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 189763,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 190432,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 191280,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 193778,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 194399,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195154,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 195776,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 197155,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 199646,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 202140,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 204636,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 207131,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 207800,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 208468,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 209671,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 210339,
-          "id": 3634,
-          "name": "Dark Mind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003076.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 211008,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 212168,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 214662,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 215333,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 217202,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 219699,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 220770,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 222195,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 224691,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227231,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 227900,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 229727,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 232224,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 232937,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 234718,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 237258,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 239752,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 242247,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 243096,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 243809,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 244789,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 245856,
-          "id": 16472,
-          "name": "Living Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 247278,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 249773,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 250443,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 251069,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 253160,
-          "id": 36932,
-          "name": "Disesteem",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 253783,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 254496,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255120,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 255788,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 256680,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 258281,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 258950,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 259664,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 260822,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 261490,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 262958,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 263581,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 266164,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 267454,
+          "t": 9451,
           "id": 36927,
           "name": "Shadowed Vigil",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003094.png",
@@ -24292,255 +23028,7 @@
           "type": "ability"
         },
         {
-          "t": 268123,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 268790,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 271278,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 273813,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 276305,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 276972,
-          "id": 16471,
-          "name": "Dark Missionary",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 278131,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 278798,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 281290,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 281958,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 283786,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 286279,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 288817,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 292067,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 295099,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 297637,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 300131,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 302626,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 305921,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 306634,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 308413,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 309036,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 309704,
-          "id": 3634,
-          "name": "Dark Mind",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003076.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 310908,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 311531,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 312245,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 312869,
-          "id": 7548,
-          "name": "Arm's Length",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 313582,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 314203,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 315051,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 316699,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 317772,
+          "t": 10120,
           "id": 16470,
           "name": "Edge of Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
@@ -24548,15 +23036,7 @@
           "type": "ability"
         },
         {
-          "t": 319240,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 321734,
+          "t": 11326,
           "id": 36930,
           "name": "Torcleaver",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
@@ -24564,7 +23044,47 @@
           "type": "weaponskill"
         },
         {
-          "t": 323159,
+          "t": 11949,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 12886,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 14448,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 15247,
+          "id": 36932,
+          "name": "Disesteem",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 15828,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 16497,
           "id": 16470,
           "name": "Edge of Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
@@ -24572,23 +23092,7 @@
           "type": "ability"
         },
         {
-          "t": 324227,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 326720,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 329257,
+          "t": 17745,
           "id": 3623,
           "name": "Syphon Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
@@ -24596,7 +23100,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 331751,
+          "t": 18369,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 20239,
           "id": 3632,
           "name": "Souleater",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
@@ -24604,31 +23116,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 334291,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
+          "t": 22199,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
         },
         {
-          "t": 336791,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 339282,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 341779,
+          "t": 22824,
           "id": 7392,
           "name": "Bloodspiller",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
@@ -24636,7 +23132,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 344318,
+          "t": 25317,
           "id": 3617,
           "name": "Hard Slash",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
@@ -24644,7 +23140,127 @@
           "type": "weaponskill"
         },
         {
-          "t": 345477,
+          "t": 26920,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 27811,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 30306,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 33515,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 36502,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 38997,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 41494,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 43986,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 46527,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 49022,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 51517,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 55081,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 57575,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 58287,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 60070,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 60872,
           "id": 7535,
           "name": "Reprisal",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
@@ -24652,175 +23268,7 @@
           "type": "ability"
         },
         {
-          "t": 346809,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 348857,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 349523,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 352013,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 354511,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 355848,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 357006,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 359503,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 361998,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 363377,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 364535,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 367034,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 369532,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 372072,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 374574,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 377073,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 379532,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 382079,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 383372,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 384578,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 387079,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 387749,
+          "t": 61495,
           "id": 16471,
           "name": "Dark Missionary",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
@@ -24828,23 +23276,191 @@
           "type": "ability"
         },
         {
-          "t": 389622,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
+          "t": 62562,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
           "gcd": true,
-          "type": "spell"
+          "type": "weaponskill"
         },
         {
-          "t": 390558,
-          "id": 16472,
-          "name": "Living Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
+          "t": 65055,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 65724,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 391801,
+          "t": 67550,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 68218,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 70046,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 72586,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 75079,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 77575,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 79264,
+          "id": 7393,
+          "name": "The Blackest Night",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 80066,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 82564,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 85106,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 87648,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 91390,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 92637,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 93887,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 96379,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 98877,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 101372,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 103865,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 106404,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 111578,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 118753,
           "id": 36926,
           "name": "Shadowstride",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
@@ -24852,15 +23468,1271 @@
           "type": "ability"
         },
         {
-          "t": 394122,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
+          "t": 119377,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
           "gcd": true,
-          "type": "spell"
+          "type": "weaponskill"
         },
         {
-          "t": 395821,
+          "t": 121071,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 121916,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 122676,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 123346,
+          "id": 16472,
+          "name": "Living Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 124417,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 125132,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 126915,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 128256,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 129414,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 130081,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 130707,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 131910,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 132579,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 133248,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 134449,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 135695,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 136943,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 137697,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 139436,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 140106,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 141934,
+          "id": 36932,
+          "name": "Disesteem",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 142604,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 144431,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 146969,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 148126,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 149464,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 151959,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 154454,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 155212,
+          "id": 3629,
+          "name": "Grit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003070.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 156948,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 159443,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 161982,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 163895,
+          "id": 16471,
+          "name": "Dark Missionary",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 178866,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 179846,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 181361,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 183854,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 184968,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 186350,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 188843,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 190090,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 191337,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 193257,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 193925,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 196868,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 199362,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 200030,
+          "id": 36927,
+          "name": "Shadowed Vigil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003094.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 200699,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 201905,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 202751,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 204400,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 206898,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 209396,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 211891,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 214432,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 216929,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 219467,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 221653,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 222232,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 223704,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 224728,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 225618,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 227221,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 228336,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 229765,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 232262,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 233597,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 234757,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 237250,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 239745,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 242240,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 243354,
+          "id": 16472,
+          "name": "Living Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 244736,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 246027,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 247276,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 249771,
+          "id": 36932,
+          "name": "Disesteem",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 250751,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 251375,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 252887,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 253466,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 254134,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 254846,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 256000,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 256848,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 258496,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 259298,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 261034,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 263529,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 266024,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 268519,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 271059,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 273550,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 277109,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 279603,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 280536,
+          "id": 16471,
+          "name": "Dark Missionary",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 282096,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 284633,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 285346,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 287126,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 287838,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 289618,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 291446,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 292114,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 297144,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 300575,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 303381,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 305875,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 308369,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 310867,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 311581,
+          "id": 3638,
+          "name": "Living Dead",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003077.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 312207,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 313411,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 314391,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 316173,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 316930,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 317508,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 318664,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 319512,
+          "id": 7393,
+          "name": "The Blackest Night",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 320179,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 321160,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 321781,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 322448,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 323649,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 324273,
+          "id": 36927,
+          "name": "Shadowed Vigil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003094.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 324984,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 326143,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 328633,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 329969,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 331216,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 333704,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 336953,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 339444,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 341933,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 344428,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 346921,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 349412,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 351903,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 354434,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 357372,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 359863,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 362398,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 365828,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 366537,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 368187,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 369032,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 370279,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 371526,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 372147,
+          "id": 16471,
+          "name": "Dark Missionary",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 374018,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 376510,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 379001,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 381533,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 384027,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 386520,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 389064,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 391825,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 394587,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 395209,
           "id": 34603666,
           "name": "Grade 4 Gemdraught of Strength [HQ]",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/020000-020710.png",
@@ -24868,607 +24740,7 @@
           "type": "ability"
         },
         {
-          "t": 396804,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 398458,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 399310,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 399978,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 400645,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 401853,
-          "id": 36932,
-          "name": "Disesteem",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 402476,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403099,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 403769,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 404393,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 405064,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 405731,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 406892,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 407562,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 409394,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 411935,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 413181,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 414432,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 416973,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 419467,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 420896,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 421966,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 424465,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 426963,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 429511,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 431968,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 434511,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 437011,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 439555,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 442366,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 444863,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 445489,
-          "id": 7548,
-          "name": "Arm's Length",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 447320,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 448255,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 449817,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 452316,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 453881,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 454820,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 457321,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 459859,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 460484,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 461195,
-          "id": 7390,
-          "name": "Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 463157,
-          "id": 36928,
-          "name": "Scarlet Delirium",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 465655,
-          "id": 36929,
-          "name": "Comeuppance",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468153,
-          "id": 36930,
-          "name": "Torcleaver",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 468778,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 469446,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 470652,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 473148,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 473773,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 475647,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 477032,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 478190,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 480648,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 483149,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 484533,
-          "id": 7535,
-          "name": "Reprisal",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 485651,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 488192,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 490690,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 491490,
-          "id": 25754,
-          "name": "Oblation",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492160,
-          "id": 7531,
-          "name": "Rampart",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000801.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 492782,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 493450,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 494787,
-          "id": 3639,
-          "name": "Salted Earth",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 495411,
-          "id": 7393,
-          "name": "The Blackest Night",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 496080,
-          "id": 3624,
-          "name": "Unmend",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
-          "gcd": true,
-          "type": "spell"
-        },
-        {
-          "t": 497948,
-          "id": 25755,
-          "name": "Salt and Darkness",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 498574,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 501073,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 502053,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 503615,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 506110,
-          "id": 3623,
-          "name": "Syphon Strike",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 506779,
-          "id": 16471,
-          "name": "Dark Missionary",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 508608,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 511152,
-          "id": 7392,
-          "name": "Bloodspiller",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 513027,
+          "t": 395876,
           "id": 16472,
           "name": "Living Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
@@ -25476,15 +24748,7 @@
           "type": "ability"
         },
         {
-          "t": 513696,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 516199,
+          "t": 397081,
           "id": 3623,
           "name": "Syphon Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
@@ -25492,39 +24756,23 @@
           "type": "weaponskill"
         },
         {
-          "t": 518693,
-          "id": 3632,
-          "name": "Souleater",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 521189,
-          "id": 3617,
-          "name": "Hard Slash",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
-          "gcd": true,
-          "type": "weaponskill"
-        },
-        {
-          "t": 522568,
-          "id": 36926,
-          "name": "Shadowstride",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "t": 397748,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 523372,
-          "id": 3643,
-          "name": "Carve and Spit",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "t": 398371,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 524042,
+          "t": 399575,
           "id": 36932,
           "name": "Disesteem",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
@@ -25532,7 +24780,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 524712,
+          "t": 400241,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 400909,
           "id": 7390,
           "name": "Delirium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
@@ -25540,7 +24796,7 @@
           "type": "ability"
         },
         {
-          "t": 526542,
+          "t": 402065,
           "id": 36928,
           "name": "Scarlet Delirium",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
@@ -25548,15 +24804,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 527166,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "t": 402733,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 527832,
+          "t": 403353,
           "id": 16470,
           "name": "Edge of Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
@@ -25564,7 +24820,7 @@
           "type": "ability"
         },
         {
-          "t": 529038,
+          "t": 404600,
           "id": 36929,
           "name": "Comeuppance",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
@@ -25572,23 +24828,15 @@
           "type": "weaponskill"
         },
         {
-          "t": 529706,
-          "id": 25757,
-          "name": "Shadowbringer",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "t": 406382,
+          "id": 7533,
+          "name": "Provoke",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000803.png",
           "gcd": false,
           "type": "ability"
         },
         {
-          "t": 530332,
-          "id": 16470,
-          "name": "Edge of Shadow",
-          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
-          "gcd": false,
-          "type": "ability"
-        },
-        {
-          "t": 531535,
+          "t": 407095,
           "id": 36930,
           "name": "Torcleaver",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
@@ -25596,7 +24844,7 @@
           "type": "weaponskill"
         },
         {
-          "t": 532248,
+          "t": 408208,
           "id": 16470,
           "name": "Edge of Shadow",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
@@ -25604,7 +24852,7 @@
           "type": "ability"
         },
         {
-          "t": 534034,
+          "t": 409589,
           "id": 7392,
           "name": "Bloodspiller",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
@@ -25612,7 +24860,39 @@
           "type": "weaponskill"
         },
         {
-          "t": 536538,
+          "t": 410254,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 412081,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 413104,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 414574,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 417110,
           "id": 3617,
           "name": "Hard Slash",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
@@ -25620,7 +24900,591 @@
           "type": "weaponskill"
         },
         {
-          "t": 539076,
+          "t": 419600,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 422137,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 424631,
+          "id": 3624,
+          "name": "Unmend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 426943,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 427654,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 430144,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 432637,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 436560,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 438515,
+          "id": 7393,
+          "name": "The Blackest Night",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 441895,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 443006,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 444381,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 445805,
+          "id": 7548,
+          "name": "Arm's Length",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000822.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 446873,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 447940,
+          "id": 7535,
+          "name": "Reprisal",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/000000-000806.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 449360,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 451850,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 452921,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 454389,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 456880,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 459369,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 460924,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 461859,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 462840,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 464394,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 465014,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 465681,
+          "id": 16471,
+          "name": "Dark Missionary",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003087.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 466881,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 467770,
+          "id": 7393,
+          "name": "The Blackest Night",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 469370,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 471865,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 473381,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 474403,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 477869,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 480359,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 482848,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 483651,
+          "id": 25754,
+          "name": "Oblation",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003089.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 485341,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 487832,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 489432,
+          "id": 36927,
+          "name": "Shadowed Vigil",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003094.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 490368,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 491168,
+          "id": 3634,
+          "name": "Dark Mind",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003076.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 491835,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 492859,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 493705,
+          "id": 7393,
+          "name": "The Blackest Night",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003081.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 495349,
+          "id": 3624,
+          "name": "Unmend",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003062.png",
+          "gcd": true,
+          "type": "spell"
+        },
+        {
+          "t": 497840,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 500374,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 502866,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 503622,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 505355,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 507845,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 510381,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 512876,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 515405,
+          "id": 3623,
+          "name": "Syphon Strike",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 516073,
+          "id": 16472,
+          "name": "Living Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003088.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 518299,
+          "id": 3632,
+          "name": "Souleater",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003055.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 520794,
+          "id": 3617,
+          "name": "Hard Slash",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003051.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 522261,
+          "id": 36926,
+          "name": "Shadowstride",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003093.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 523328,
+          "id": 36932,
+          "name": "Disesteem",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003099.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 524174,
+          "id": 7390,
+          "name": "Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003078.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 524797,
+          "id": 25757,
+          "name": "Shadowbringer",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003091.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 525820,
+          "id": 36928,
+          "name": "Scarlet Delirium",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003095.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 526443,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 527109,
+          "id": 3643,
+          "name": "Carve and Spit",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003058.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528000,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 528621,
+          "id": 36929,
+          "name": "Comeuppance",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003096.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 529290,
+          "id": 3639,
+          "name": "Salted Earth",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003066.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 529960,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 531160,
+          "id": 36930,
+          "name": "Torcleaver",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003097.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 531827,
+          "id": 25755,
+          "name": "Salt and Darkness",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003090.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 533159,
+          "id": 16470,
+          "name": "Edge of Shadow",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003086.png",
+          "gcd": false,
+          "type": "ability"
+        },
+        {
+          "t": 533782,
+          "id": 7392,
+          "name": "Bloodspiller",
+          "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003080.png",
+          "gcd": true,
+          "type": "weaponskill"
+        },
+        {
+          "t": 536317,
           "id": 3623,
           "name": "Syphon Strike",
           "icon": "https://assets.rpglogs.com/img/ff/abilities/003000-003054.png",
